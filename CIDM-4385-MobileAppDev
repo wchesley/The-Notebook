@@ -1,0 +1,11 @@
+##To create a new repository on the command line (babbs way)
+
+echo "# Mobile-App-Dev-Inclass" >> README.md
+git init
+git add -A (To add all files in working directory)
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wchesley/Mobile-App-Dev-Inclass.git
+git push -u origin master
+
+(Mostly taken from githubs reference on blank repo)
