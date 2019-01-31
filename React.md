@@ -1,5 +1,25 @@
 # React.js
 
+### JSX Preprocessor: 
+
+Requires Node.js 
+
+To run JSX Preprocessor
+
+In root directory of app
+
+Run `npm init -y` 
+
+Run `npm install babel-cli@6 babel-preset-react-app@3`
+
+Create a folder called src and run this terminal command: 
+
+`npx babel --watch src --out-dir . --presets react-app/prod `
+
+Were src is the JSX file to process and . is the directory for babel to output the js file
+
+Note: npx in the last command, not npm
+
 Spent forever getting JSX to go into browser... 
 
 ### Add JSX inline, in browser: 
