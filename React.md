@@ -1,5 +1,17 @@
 # React.js
 
+### React & React-dom CDN links: 
+
+https://cdnjs.cloudflare.com/ajax/libs/react/16.7.0/cjs/react.production.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.7.0/umd/react-dom.production.min.js
+
+Alternates: 
+
+https://unpkg.com/react-dom@16/umd/react-dom.production.min.js
+
+https://unpkg.com/react@16/umd/react.production.min.js
+
 ### JSX Preprocessor: 
 
 Requires Node.js 
