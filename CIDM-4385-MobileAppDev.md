@@ -16,3 +16,7 @@ Div.row [now press Tab] for Emmett autocomplte in HTML to generate <div class="r
     This works for several html DOM elements such as ID. [I think these can be chained?]
 
 Meadia queries breakpoints ref: [here](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+## 02/11/2019
+
+Recreating React elements in JSX
