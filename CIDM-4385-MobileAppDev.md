@@ -1,4 +1,8 @@
-##To create a new repository on the command line (babbs way)
+# Mobile App Development
+
+## In class notes
+
+### To create a new repository on the command line (babbs way)
 
 echo "# Mobile-App-Dev-Inclass" >> README.md
 git init
