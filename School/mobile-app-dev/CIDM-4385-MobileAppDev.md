@@ -24,3 +24,13 @@ Meadia queries breakpoints ref: [here](https://www.w3schools.com/css/css_rwd_med
 ## 02/11/2019
 
 Recreating React elements in JSX
+
+## 02/20/2019
+
+Why learn ract when it's supposed to be react.native?
+Have to understand component approach
+will learn hooks
+Immutable vs. mutable 
+ *   Immutable cannot be chagned
+ *   mutable can be chagned
+For react state is mutable and properties are Immutable
