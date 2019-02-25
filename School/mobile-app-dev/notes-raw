@@ -1,0 +1,9 @@
+2/20
+
+Why learn ract when it's supposed to be react.native?
+Have to understand component approach
+will learn hooks
+Immutable vs. mutable 
+    Immutable cannot be chagned
+    mutable can be chagned
+For react state is mutable and properties are Immutable

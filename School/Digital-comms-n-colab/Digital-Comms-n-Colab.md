@@ -66,3 +66,80 @@ Format:
     Written comms
     Voice
     Video
+
+## 2/19/2019
+What is trust?
+Is trust objective?
+
+Survey items: 
+1. overall the poeple in my team are trustworthy
+2. there was a noticeable lack of confidence among my teammembers. 
+
+Is trust subjective?
+most of the time we have trust as subjective term. 
+don't always need valid reason for trust. most of the time you cannot articulate the reason you trust someone. 
+
+Dimensions of trust: (in class activity)
+  *  Credibility of teammembers
+  *  individual responsibility
+  *  accountability
+
+Def of trust:   Trust is the glue of the global workspace, and technology doesn't do much to create relationships. Trust must be creted by teammembers
+willingness of a party to be vulnerable to the actions of another party based on the expectation that he other iwll perfomr a particlar action importatn to the trustor, irrespective of the ability to monitor or control that other party. 
+
+Trust in Dyadic Relationship: 
+trustor => trustee
+Trustor: 
+ 1. Propensity to trust (in trustor)
+trustee: 
+1. Ability (competence) 
+2. Benevolence (do good beyond profit motive) 
+3. Integrety (Principles and reliability) 
+
+Collective Trust: 
+A common belief among a group of individuals that another individual or group 
+1. makes good-faith effors to behave in accordance with any commitments...
+1. is honest in whatever negotiations precede such commitments and 
+1. does not take excessive advantage of another even when the oppertunity is available. 
+
+Swift Trust: 
+Form of trust in temp organizational structures. 
+there is less emphasis on feeling commitment and exhcange and more on action and heavy absorption in the task. 
+swift trust may be a by product of a highly active proactive enthusiastic generative style of action. 
+
+building trust in virtual teams: 
+* rotating leadership
+* clear task goals
+* clear role division
+* clear expectations 
+* High-trust virtual teams exhibit swift trust from the onset. 
+
+BUILDING TRUST ONLINE
+Key elements: 
+Size: 
+smaller team size, it's easier to build trust in virtual team. 
+*    trust in Dyadic relationship 
+*    collective trust
+Route: 
+* img place holder can be found in slides from 2/19 trust lecture! 
+
+Cultures of trust: 
+Bureaucratic; strict heiriarcy , trust may be lower
+Market; rewards teh acheivement specific goals?
+
+Trust and conflicts: 
+* Threats towards trust
+    * social loafing/free rider -> blame eachother
+    * confilcts 
+        * ineffetive collaberatiion
+        * shirking responsibilities
+        * over-claiming credit for accomplishments. 
+        
+Steps to repair trust: 
+* One on one Communication
+* re-emphasize the team goal and responsibilities
+* Let the wronged party vent
+* Make approiate apologies 
+* have both parties state the orgiinal intentions and motivations. 
+* formulate a plan for moving forwad
+* articulate ways to prevent the problem 
