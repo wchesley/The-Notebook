@@ -1,2 +1,21 @@
 2/25/2019
 
+TODO: 
+Assigntment 3 due Mar 7th. 
+    get geo location
+    map
+Proff babb stayed away from create-react-app to reduce degrees of freedom in creating react apps. 
+without create-react-app is that it doesn't scale very well. 
+Create-React-App will: 
+    build
+    test
+    lint
+    run in dev-env
+NPM and Webpack pull all this together. Javascript nerdery lol (always new tools and other ways of doing 'x')
+caveat of no create-react-app: hard to scale with 3rd party services; (ie. implementing firebase)
+
+get in habit of creating components that talk to their parent, makes talking to 3rd party services easier. 
+
+[PERSONAL NOTE: Inner exception handling, per say you have nested method calls, ie. MethodA calls MEthodB
+calls MethoC...etc... can pass exception from one level to another, just keep throwing it up until you hit UI level
+where you can then handle the exception]

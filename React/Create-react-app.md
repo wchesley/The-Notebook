@@ -9,6 +9,8 @@ Browse through the desktop and install the Create React App using command prompt
 
 This will create a folder named my-app on the desktop and installs all the required files in it.
 
+#### Note: create-react-app uses NPX, not NPM to install!!!
+
 ## Step 2 - Delete all the source files
 Browse through the src folder in the generated my-app folder and remove all the files in it as shown below −
 
