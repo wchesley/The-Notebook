@@ -25,8 +25,8 @@ ReactDOM.render((
 
 Now that we have implemented our router, we can start to render our actual application.
 
-## The <App>
-Our application is defined within the <App> component. To simplify things, we will split our application into two parts. The <Header> component will contain links to navigate throughout the website. The <Main> component is where the rest of the content will be rendered.
+## The `<App>`
+Our application is defined within the <App> component. To simplify things, we will split our application into two parts. The `<Header>` component will contain links to navigate throughout the website. The `<Main>` component is where the rest of the content will be rendered.
 
 ```js
 // this component will be rendered by our <___Router>
@@ -42,13 +42,13 @@ function App() {
 
 ###### Note: You can layout your application any way that you would like, but separating routes and navigation makes it easier to show how React Router works for this tutorial.
 
-We will define the content in the <Main> component first. This is where we will render our routes.
+We will define the content in the `<Main>` component first. This is where we will render our routes.
 
 ## Routes
-The <Route> component is the main building block of React Router. Anywhere that you want to only render content based on the location’s pathname, you should use a <Route> element.
+The `<Route>` component is the main building block of React Router. Anywhere that you want to only render content based on the location’s pathname, you should use a <Route> element.
 
 ### Path
-A <Route> expects a path prop, which is a string that describes the pathname that the route matches — for example, <Route path='/roster'/> should match a pathname that begins with /roster 2. When the current location’s pathname is matched by the path, the route will render a React element. When the path does not match, the route will not render anything 3.
+A `<Route>` expects a path prop, which is a string that describes the pathname that the route matches — for example, <Route path='/roster'/> should match a pathname that begins with /roster 2. When the current location’s pathname is matched by the path, the route will render a React element. When the path does not match, the route will not render anything 3.
 
 ```JS
 <Route path='/roster'/>
@@ -84,9 +84,9 @@ When the route’s path matches, a match object with the following properties wi
 Note: Currently, a route’s path must be absolute 4.
 
 ## Creating our routes
-<Route>s can be created anywhere inside of the router, but often it makes sense to render them in the same place. You can use the <Switch> component to group <Route>s. The <Switch> will iterate over its children elements (the routes) and only render the first one that matches the current pathname.
+`<Route>'s` can be created anywhere inside of the router, but often it makes sense to render them in the same place. You can use the <Switch> component to group `<Route>'s`. The `<Switch>` will iterate over its children elements (the routes) and only render the first one that matches the current pathname.
 
-For this website, the paths that we want to match are:
+For this example, the paths that we want to match are:
 
 /	the homepage
 /roster	the team’s roster
@@ -102,8 +102,8 @@ In order to match a path in our application, all that we have to do is create a 
   <Route path='/schedule' component={Schedule}/>
 </Switch>
 ```
-What does the <Route> render?
-Routes have three props that can be used to define what should be rendered when the route’s path matches. Only one should be provided to a <Route> element.
+What does the `<Route>` render?
+Routes have three props that can be used to define what should be rendered when the route’s path matches. Only one should be provided to a `<Route>` element.
 
 component — A React component. When a route with a component prop matches, the route will return a new element whose type is the provided React component (created using React.createElement).
 render — A function that returns a React element 5. It will be called when the path matches. This is similar to component, but is useful for inline rendering and passing extra props to the element.
