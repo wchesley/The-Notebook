@@ -10,6 +10,8 @@ Assisting Dr. Hoffman and Dr. Barthrel in creating and improving economics and b
 * Remove multiple class calls in bank_run views.py, ties into above item
 * verify battle_of_the_sexes => can we reach all possible choices with that if else block?
 * beauty_class models.py, tie is instatiated and intialized to false twice. 
-* 
 
+## Loose Notes: 
+    dynamic sessions only when not created in demo mode, have to set up session each time. 
+    certain variables are best set as constants
 
