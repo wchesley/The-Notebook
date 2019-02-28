@@ -20,3 +20,5 @@ var props = { x: 1, y: 1, z:1 };
 
 which will unpack it into the props on your component, i.e., you "never" use `{... props}` inside your `render()` function, only when you pass the props down to another component. 
 Use your unpacked props as normal `this.props.x`.
+
+###### This was pulled from [stackoverflow](https://stackoverflow.com/questions/28452358/what-is-the-meaning-of-this-props-in-reactjs)
