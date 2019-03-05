@@ -1,0 +1,83 @@
+# Using environment variables in React
+
+###### Adapted from [this article](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
+
+When you don’t have a server-side programming background, environment variables can seem like a bit of magic. That lack of knowledge smacks you in the face like a bag of dicks when you’re done creating todo applications on your localhost, and try to create a production build for the first time.
+
+### The problem we’re solving:
+How to declare different API url’s for your local development build and production build
+In short: environment variables
+
+When working with React, environment variables are variables that are available through a global `process.env` Object. That global Object is provided by your environment through NodeJs. And because we don’t have NodeJs in the browser, we’re going to need webpack.
+
+## The .env file: 
+The whole idea here is to create a file (called just .env) filled with your environment variables.
+
+#### _To prevent people from finding out your local database password is the same one you use for every single one of your accounts on the internet, you *NEED* to add the .env file to your .gitignore._
+
+Your front-end code will refer to the same environment variable (`process.env.API_URL`) on both environments (development/production), but because you defined different values in your `.env files`, the compiled values will be different.
+
+Let’s create an .env file
+This file should exist in the root of your project and is called `.env`. Let’s add a variable:
+
+`API_URL=http://localhost:8000`
+Is that is? Yes, that’s it..
+
+### Handle the .env file
+Now we need some way to actually handle the files and its content. We’re going to use a populair npm package called dotenv for this. Dotenv is commonly used (create-react-app uses it, so there) and will get the variables from our `.env` file and add them to the global `process.env`.
+
+`$ npm install --save-dev dotenv`
+
+## Using npm scripts to set environment variables
+
+First, get webpack and webpack-cli from npm `:$ npm install --save-dev webpack webpack-cli`.
+
+Go to your `package.json`, check the scripts key and look for the command(s) that run webpack. It’ll probably look something similar like this:
+
+```json
+{
+  // the rest of your package.json
+  scripts: {
+    "dev": "webpack --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.build.js"
+  }
+}
+```
+
+## Adding the variables to your React project
+
+This is great and all but dotenv only works server side, and in this case we're working with the front end....and we'll 
+need some enviroment to actually store the variables, for this we use Webpack!
+
+— That’s because when we use environment variables in our front-end code, *they really just serve as placeholders that will be replaced when we compile our code*. 
+The problem is, we didn’t tell webpack to compile those variables to real values. Let’s do that in our webpack config file with the DefinePlugin webpack plugin:
+
+```javascript
+
+const webpack = require('webpack');
+const dotenv = require('dotenv');
+
+module.exports = () => {
+  // call dotenv and it will return an Object with a parsed key 
+  const env = dotenv.config().parsed;
+  
+  // reduce it to a nice object, the same as before
+  const envKeys = Object.keys(env).reduce((prev, next) => {
+    prev[`process.env.${next}`] = JSON.stringify(env[next]);
+    return prev;
+  }, {});
+
+  return {
+    plugins: [
+      new webpack.DefinePlugin(envKeys)
+    ]
+  };    
+```
+
+Calling `.config()` on dotenv will return an Object with all the environment variables set in your `.env` file under a key called parsed. Now, let’s check our React code:
+
+```javascript
+const App = () => <h1>{process.env.API_URL}</h1>;
+```
+
+And damn, it works! It shows the value of the `API_URL` environment variable that you defined in your `.env` file.
