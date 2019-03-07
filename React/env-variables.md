@@ -1,6 +1,6 @@
 # Using environment variables in React
 
-###### Adapted from [this article](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
+###### Adapted from [this article](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5) and [dotenv repo](https://github.com/motdotla/dotenv)
 
 When you don’t have a server-side programming background, environment variables can seem like a bit of magic. That lack of knowledge smacks you in the face like a bag of dicks when you’re done creating todo applications on your localhost, and try to create a production build for the first time.
 
