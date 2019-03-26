@@ -19,3 +19,21 @@ get in habit of creating components that talk to their parent, makes talking to 
 [PERSONAL NOTE: Inner exception handling, per say you have nested method calls, ie. MethodA calls MEthodB
 calls MethoC...etc... can pass exception from one level to another, just keep throwing it up until you hit UI level
 where you can then handle the exception]
+
+
+03/25/2019
+Parto Principle: 
+    80/20 
+
+Possible CI/CD cloud solution in React native?
+
+React Native Tooling, 
+    Book CH13. 10,11,12 are reiterations of stuff already seen in pizzabandit
+Created expo.io account, online tool to build/emulate IOS/Android devices. has IOS/Android App to emulate my code on (have to be on same local network.)
+`npm install -g expo-cli` to install expo-cli tools ref docs here: https://docs.expo.io/versions/latest/ 
+
+Create-react-native (CLI) method: 
+`react-native init Your-App-Name`
+
+Changeing import statement in react-pizza/src/firebase/db yeilds this: 
+Firebase: No Firebase App '[DEFAULT]' has been created - call Firebase App.initializeApp() (app/no-app).
