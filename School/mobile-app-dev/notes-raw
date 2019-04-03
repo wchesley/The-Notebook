@@ -37,3 +37,47 @@ Create-react-native (CLI) method:
 
 Changeing import statement in react-pizza/src/firebase/db yeilds this: 
 Firebase: No Firebase App '[DEFAULT]' has been created - call Firebase App.initializeApp() (app/no-app).
+
+3/27/2019: 
+Promises: 
+React Native Project is due on last day of class. 
+rework http://edsigcon.org/ into a mobile app. 
+
+4/1/2019
+preclass: 
+Mobile app wirefram in draw.io
+ref: https://lineupr.com/event-app-demos/pyconde/ for example apps 
+    how to dispaly map? feel like world map is too much for this? could superimpose what data we need on a static image?
+    - map the image bits, what's important to what location, this method is not scalable as it would require a rework
+        of this image for each new venue / minor change in anything to do with location. but this method could be more precise.
+
+InClass: 
+-Planning for Project. 
+    like for me and partner to have design docs for this. wireframe, mock up, story board. 
+    story board plug in? in visual studio? (not code...) could be done in powerpoint? seems meh, just stitch up UI components in draw.io. 
+
+Fetch => promise --> api to DarkSKy weather API; 
+
+Deliverables: 
+Final Project: Academic Conference App
+
+ISCAP is a professional association of Information Systems Educators and holds a conference every year.  For this conference, it would be helpful if they had a mobile app such that they might better coordinate during the conference.
+
+The conference organizers need a simple app to implement the following features:
+
+Push Notifications
+Speaker/Presenter Bios
+A list of sessions (a schedule of events)
+Upload photos
+Maps of the location
+Events and the ability to search/filter events
+Social Media
+FAQs
+Lost and Found
+Features and Storyboards
+
+It would be best, for planning purposes to first to further describe and document the above features by creating for each:
+
+A name/title
+A description
+Storyboards/Wireframes (follow the style that Wilken uses)
