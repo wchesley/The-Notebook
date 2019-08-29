@@ -1,4 +1,18 @@
 # Back End web Dev
-
+> WTAMU-CIDM 4382 - Fall 2019
 > 08/28/2019
 
+## Getting MEAN Chapter 01
+
+back end web dev class but really it's more full stack. 
+
+MEAN
+* MongoDB - The database; document datastore, largely used to store JSON Like objects
+* Express - Backend Framework - Node web server enviroment 
+* Angular - FrontEnd framework - Interchageable with ReactJS
+* Node - Web server and server-side code execution enviroment
+* Why? - End to end javascript (cause you don't know enough already)
+
+assignment 0 is a micro clone of https://www.name-generator.org.uk
+     not as complex as this, can dumb it down a bit, I am thinking one input and see what rhymes with that? will need
+     rhyming database? CSS optional; example on CodePen.io userID: Jeffry Babb

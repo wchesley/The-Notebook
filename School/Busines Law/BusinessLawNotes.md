@@ -15,25 +15,25 @@ will have inclass review
 
 ## Chapter 1 Law as a foundation for Business
 ##### PP online, [linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%201/Chap%201.pdf?csf=1&e=EZPOab) <-
-Companies in the US must: 
+#### Companies in the US must: 
     * aware of legal and regulatory landscape
     * take steps to ensure full compliance w/diff regulatory laws (ie. sarbans-oakly)
     * avoid civil and criminal liability
 Lawyers are useful
 
-What is law  
+#### What is law  
     Rules established by the state and backed by enforcement.   
     Formal social force  
     Why have it?   
         To maintain order in society   
     
-Rule of Law 
+#### Rule of Law 
     - Laws are generally and equally applicable. To all memebers of society  
     > we like to believe lady justice is blind (TODO: Get picture)  
     - Rule of law nations adopt laws supporting the private market. (argued Rule of law nations have higher GDP on average)  
     - Judges play a viatal role in maintaining the rule of law.   
 
-Property (ownership)
+#### Property (ownership)
     Legal right that allows a person to exclude others from him/her resources. (from a water bottle to houses, intellectual property)  
     Types of ownership  
         * public  
@@ -42,7 +42,7 @@ Property (ownership)
     Exclusionary right of property - Basis for private markets and modern business.   
         * Open source software  
     
-Jurisprudence
+#### Jurisprudence
     Philosophies that explain origin of law & it's justification  
         * Legal Realism  
         * Sociological  
@@ -50,7 +50,7 @@ Jurisprudence
         * Positive law  
         * Natural Law   
      
-Classification of Law
+#### Classification of Law
  Common  & Civil 
     * Common Law
         - Emphasizes the role of Judges in determining the meaning of laws
