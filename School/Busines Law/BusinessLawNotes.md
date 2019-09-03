@@ -182,3 +182,8 @@ Specific sense of Corporate governance
 ---
 
 ## Chapter 2 Ethics 
+
+Sources of value for business ethics  
+| Legal regulation | Professional codes of Ethics |
+|---|---|
+| Organizational codes of ethics | individual values |
