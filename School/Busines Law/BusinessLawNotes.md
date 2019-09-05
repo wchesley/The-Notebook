@@ -183,7 +183,118 @@ Specific sense of Corporate governance
 
 ## Chapter 2 Ethics 
 
-Sources of value for business ethics  
-| Legal regulation | Professional codes of Ethics |
-|---|---|
-| Organizational codes of ethics | individual values |
+> The Role of Ethics in Decision Making & Business
+> [PP Linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%202/Chap%202%20[Compatibility%20Mode].pdf?csf=1&e=eUaeqK)  
+
+#### Contemporary Business Ethics
+* Ethics officers
+    - Develop ethics policies / code of ethics
+    - Listen to complaints of ethics violations
+    - Investigate ethics abuses 
+* Sarbanes-Oxley Act (SOX) of 2002
+    - Reaction to Enron and WorldComm scandles of early 2000's  
+    - Established higher standareds for coroporate responsibility and governance.  
+
+Ethics and Morality  
+* Morality: Values that guide one's behavior   
+* Ethics: formal system for deciding what's right and wrong  
+* The good: Moral goals and objectives one choooses to pursue.  
+
+Ethics and Law
+Fear Punishments vs. Want to do what's right 
+- Society's ethical values may become law throught Legislation
+
+> 09/03/2019
+
+Systems of Ethics: 
+* Formalism: `affirms absolute Morality`
+    * Duty based view, if you have a duty, do it!
+    * Categorical Imperative  
+    * Social Contract - Idea that we all kinda have a contract with eachother, ie. i have my rights but no right to 'step' on your rights  
+* Consequentialialism - Concerned with moral consequnces of actions
+    * Utilitarianism
+    * Protestant ethic
+
+Ethics influences legal system: Is there a relationship between law and ethics? Yes.  
+
+Sources of value for business ethics
+* Legal regulation 
+* Professional codes of Ethics - Professional code is career choice based ie. Internal Auditor
+* Organizational codes of ethics - Publicly traded companies are required to have  code of ethics.  
+* Individual values 
+
+Legal regulation - Ethical rules drawn from the law
+* Respect liberty and rights of others. (ie. free speech, but cannot yell fire in crowded theatre)
+* Act in good faith 
+* Exercise due care
+* avoid conflics of interest
+* Honor confidentiality 
+
+Professional code of ethics
+* Crtain professions have long traditions of codes of ethical conduct (CPA's have had a long standing code of ethics.)  
+    * More recent professions have developed and adopted their own codes.   
+* Ethical codes of organization are a form of *self regulation*.   
+
+Organizational code of ethics
+* Business have adopted ethical codes at the individual organizational level
+* More important than creating a code:  
+    * Effective implementation!  
+    * Enforcement - consistency is key!  
+
+Individual values: Self Examination:  
+> TODO: Import image from pp  
+Should I do it?
+* Is it right or wrong? 
+* WIll I be proud if they found out
+* How would I feel if everyone did it? 
+* Will it cause harm? 
+* Is it legal?   
+
+Obstacles: 
+* Profits vs. Ethics
+* Group think - if everyone else is doing it...might as well...mob mentality
+    * Individuals feel less responsible  
+* Control of resources by non-owners (potential conflics of interest)
+    * Managerial agents can manipulate resoures in their own interest. 
+    * Self-dealing
+
+Promoting  Business Ethics 
+* Involve top management - have to have this, CEO as role model, rest of comapnay should follow suit 
+    * Role model
+    * Tone from the top
+    * *Must believe in the expressed values*
+* Open communication / Transparency
+    * promotes trust  
+    * Required due to complexity of information  
+* Consideration of stakeholders
+    * stakeholder Theory: Directors and managers must take into account it's stakeholders whose interests the corporations impacts. 
+* Be Consistency! 
+
+> Can an act be ethical but not legal?  Yes
+This happens sometimes when American companies go overseas  
+
+Can a business have a conscience?
+* Personhood rights of a corporation have been recognized in the law. 
+    * Corporation is an individual
+* Does this mean that a corporation can have values and all the individual employees must agree with them? 
+* What about laws for corporations that force individuals to violate religious values? 
+
+## Chapter 3 - The Court System
+
+> 09/03/2019  
+
+Judges and Justices
+* two terms are not synonomous
+* individuals who operate the courts
+* Trial Court  
+    * Judges  
+    * Determines the rules of law for a case   
+* Appellate Court
+    * Justices  
+    * Review case (as if they are grading papers from the judges)  
+    * apeals courts do not have jury, one or more Justice will decide the case. Some attornies will specialize in Appellate cases  
+    * decide an appeal and provide reasons for their decisions.  
+
+Jurors
+* Fact-finding body
+* Trial by jury is guaranteed by the Bill of Rights.  
