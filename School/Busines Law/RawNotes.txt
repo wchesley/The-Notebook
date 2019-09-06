@@ -212,7 +212,125 @@ Judges and Justices
     * apeals courts do not have jury, one or more Justice will decide the case. Some attornies will specialize in Appellate cases  
     * decide an appeal and provide reasons for their decisions.  
 
-Jurors
+#### Jurors
 * Fact-finding body
 * Trial by jury is guaranteed by the Bill of Rights. 
-* 
+
+> 09/05/2019  
+
+##### Jurors contd...   
+* Petit Jury: Trial jury that returns a verdict in criminal and civil stiuations. (usually 12 people, civil might have 6, varies between states/counties)  
+* Decisions must be unanimous (called hung if it's not a unanimous decision)  
+    * leads to mistrial where prosicution can retry the case if they want to.  
+    * don't have to provide reasons for guilt/innocence 
+
+#### Lawyers  
+* Primary duty is to the administration of Justice. 
+* Present: 
+    * Evidence
+    * Points of law (they think judge/court should focus on)
+* Make arguments
+* Assist juries and judge in making decisions (jury: what facts are true? Judge: What laws are relevent?)
+* Serve as counsellors, advocates, and public servants. 
+* Serve as representative advocates in court system
+* confidential communications with clients (client attorny privilege)
+    * rules of Evidence
+    * attorney-client privilege   
+        * forbids a Lawyer to reveal confidential facts and testify against a client. 
+    * work product doctrine
+        * protects some documents of expert witnesses (drafts)
+#### organization of the court system
+1. Supreme court  
+2. Appellate courts. 
+3. Trial courts.  
+
+> Is the state supreme court always the highest court in that state. 
+No. not always! Sometimes they have a different name or appeal system. 
+Texas has seperate courts for criminal and civil courts.   
+
+#### Subject matter jurisdiction
+* Power over the case issues. 
+* jurisdiction can be limited to: 
+    * A specific subject matter
+    * area in which the party lives (some areas with large and diverse populations will have static probate judges (specialize in wills/guardianship))  
+* Examples: 
+    * Probate courts: Wills and estates
+    * Traffic courts: Traffic violations 
+
+Fig. 3.1 - State Court System
+TODO: Move over flow chart from PP 
+##### *Term to know: Certiorari: a writ or order by which a higher court reviews a decision of a lower court.*
+
+Federal courts review: 
+1. if the US is involved as a party 
+2. state vs. state 
+3. Citizens of different states (ammount in controversy(ie. amounts greater than $75K), diversity of citizenship)  
+4. Law: Federal Question 
+
+Diversity of citizenship 
+* Diversity 
+    * Plaintifs / defendants are citizens of different states. 
+    * each claim must be $75K+ 
+    * guard against state court bias.  
+
+Federal Question cases: 
+* US Constitution issues ie. (Miranda vs. Arizona => Miranda rights)
+* Federal Statue issues
+* no $$$ limits.  
+
+Fig. 3.2 Federal Court System
+TODO: Move over flowchart from PP / book 
+
+District courts
+* Trial courts of the federal system. 
+* One court in every state and the Distric of Colombia. 
+* *Federal Rules of Civil Procedure:* Provide the details concerning procedures to be followed in federal court litigation. 
+
+#### Appellate courts
+TODO: Get Geographical boundries for Appellate courts. 
+* 12 courts of appeal
+* Special court of appeals hears appeals from 
+    * special courts. 
+    * Administrative decisions
+* Other courts have been created to handle the special subject matter.
+    * Court of appeals for armed forces. 
+* Texas is in the 5th circuit for court of appeals (apparently we rival the 9th district? (california - west coast?))
+
+> General role of an appelate court is to: 
+    Review questions of law. 
+
+#### Decisions by the US Supreme Court. 
+*SCOTUS:* Supreme court of the united states.  
+* review requires a petition for a writ of Certiorari
+* Supreme court resolves
+    * cases involving major Constitutional issues 
+    * interpretation of federal law. 
+* Final judgments of hightes state ourt are reviewed only by SCOTUS. 
+
+#### Power of judical review. 
+* Judicial restraint vs. judical activism
+* power should not be used except in unusual cases vs. Power should be used when the needs of society justify it. 
+##### US Supreme court has the ultimate power to invalidate actions by the President or Congress. 
+
+Judical restraint: 
+* COurts have a limited role. 
+* conservative 
+* Pragmatic approach to litigation.
+* Societal changes through polical process. 
+* synonomous with: *Strict constructionism* or *judicial abstention*
+
+Judicial activism
+* Liberal
+* COurts have expansive role
+* Policy directed / Result concious 
+* Value oriented. 
+* precedent  
+
+Nature of the judical process
+1. Case to be decided. 
+    * use existing statutes and precedents
+    * create a law where none exist. 
+    * Refusal to apply case law or find unconstitutional   
+*Will ruling provide justice and a sound precedent?*  
+
+Look at case 3.1 in book: Sebelius case regarding affordable care act. 
