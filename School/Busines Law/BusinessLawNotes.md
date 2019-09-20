@@ -3,7 +3,7 @@
 ## Syllabus / Intoductory notes
 > 08/27/2019 
 
-Course Materials (Text, calculator, etc.) Book: The Legal and Regulatory Environment of Business (with online McGraw Hill Connect), Seventeenth Addition, Pagnattaro, McGraw Hill Education. ISBN 978-1-25-962174-1Note: online access to McGraw Hill Connect is required. Regarding the textbook, you may purchase a hard copy or use the e-book version that comes with online Connect access.
+Course Materials (Text, calculator, etc.) Book: The Legal and Regulatory Environment of Business (with online McGraw Hill Connect), Seventeenth Addition, Pagnattaro, McGraw Hill Education. `ISBN 978-1-25-962174-1` Note: online access to McGraw Hill Connect is required. Regarding the textbook, you may purchase a hard copy or use the e-book version that comes with online Connect access.
 Currently online registration is broken, fix tbd
 
 1 HW per chapter, lowest HW is dropped. (Maybe up to 3?)
@@ -12,33 +12,32 @@ all Chapter HW is due Thursday.
 Extra credit: participate in a mini-skit
 
 Exams are online, access for 48hrs.   
-~~revised copy of syllabus incoming, exam that was due on thanksgiving will be moved.~~
+~~revised copy of syllabus incoming, exam that was due on thanksgiving will be moved.~~ =>
 That exam is now opens the Thursday before thanksgiving (Nov 21)   
 Class day before tests open will be used for review. 
 
----
 
-## Chapter 1 Law as a foundation for Business
+# Chapter 1 Law as a foundation for Business
 ##### PP online, [linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%201/Chap%201.pdf?csf=1&e=EZPOab) <-
-#### Companies in the US must: 
+## Companies in the US must: 
 * aware of legal and regulatory landscape
 * take steps to ensure full compliance w/diff regulatory laws (ie. sarbans-oakly)
 * avoid civil and criminal liability
 * Lawyers are useful
 
-#### What is law  
+## What is law  
 * Rules established by the state and backed by enforcement.   
 * Formal social force  
 * Why have it?   
     - To maintain order in society   
     
-#### Rule of Law 
+## Rule of Law 
 - Laws are generally and equally applicable. To all memebers of society  
     > we like to believe lady justice is blind (TODO: Get picture)  
 - Rule of law nations adopt laws supporting the private market. (argued Rule of law nations have higher GDP on average)  
 - Judges play a viatal role in maintaining the rule of law.   
 
-#### Property (ownership)
+## Property (ownership)
 Legal right that allows a person to exclude others from him/her resources. (from a water bottle to houses, intellectual property)  
 Types of ownership:  
 * public  
@@ -47,7 +46,7 @@ Types of ownership:
 * Exclusionary right of property - Basis for private markets and modern business.   
 * Open source software  
     
-#### Jurisprudence
+## Jurisprudence
 Philosophies that explain origin of law & it's justification  
 * Legal Realism  
 * Sociological  
@@ -55,15 +54,15 @@ Philosophies that explain origin of law & it's justification
 * Positive law  
 * Natural Law   
      
-#### Classification of Law
-Common  & Civil 
+## Classification of Law
+#### Common  & Civil 
 * Common Law
     - Emphasizes the role of Judges in determining the meaning of laws
     - Related terms: Precedent
 * Civil Law
     - Relies on legislation for law
     - Related terms: Statues / Statutory
- Public & Private
+ #### Public & Private
     * Public: Regulation of society 
         - Constitutional Law ch.6
         - Administrative Law ch.15
@@ -72,7 +71,7 @@ Common  & Civil
         - property law ch.7
         - contract law ch.8-9
         - Tort law ch.10
- Civil & Criminal
+ #### Civil & Criminal
     * Civil cases
         - Include suits for breach of contract or Tort cases. 
         > In a civl case it's `me v you` in criminal it's `me v the state` 
@@ -84,22 +83,22 @@ Common  & Civil
 
 > 08/29/2019
 
-#### Substantive Law and Procedural Law  
+## Substantive Law and Procedural Law  
 Substantive Law - realationship of people with other people or with the state, ex. Property law  
 Procedural Law - method and means by which Substantive law is made and administered.  ex. Rules of Evidentiary Procedure, administrative law  (machinery that enforces substative law)
 
-#### Federal Law
+## Federal Law
 Constitution - top law of US -  
 Legislation - 2nd -  
 administrative law or regulations - last in list of authority for laws.  
 
-#### State Law - ordered top to bottom, most authorative to least. 
+## State Law - ordered top to bottom, most authorative to least. 
 * State Constitution  
 * Statutes or Acts  
 * Regulatory law of state and administrative agencies  
 * ordinances (county or city)  
 
-#### Judicial Decisions or Case law
+## Judicial Decisions or Case law
 * interpret Constitutional, Legislative and Regulatory laws
 * opinions: decisions made by judges on legal issues. 
     - Becomes `precedents` for future cases involving similar facts and legal issues
@@ -120,17 +119,17 @@ Holding can set precedents, dicta does not
 
        
 
-Hierarchy of Sources of Law  
-* US Constitution and amendments    
-* Statues of Congress  
-* Federal administration regulation   
-* State Constitutions   
-* Statues Statues  
-* State administrative regulation  
-* Local ordinances   
-* case law  
+#### Hierarchy of Sources of Law  
+1. US Constitution and amendments    
+2. Statues of Congress  
+3. Federal administration regulation   
+4.  State Constitutions   
+5.  Statues Statues  
+6. State administrative regulation  
+7. Local ordinances   
+8. case law  
 
-Legal Sanctions
+## Legal Sanctions
 * Used by law enforcement officials and courts
 * to encourage and force compliance with the law [ie. speeding tickets.] 
 * Remedy: 
@@ -139,7 +138,7 @@ Legal Sanctions
     - [slip and fall case - can sue for damages]
     - because that person failed to meet requirements of the law.  
 
-Sanctions for criminal conduct 
+## Sanctions for criminal conduct 
 * Crime is public wrong against society
 * Punishments   
     - death   
@@ -148,7 +147,7 @@ Sanctions for criminal conduct
     - removal  
     - disqualification  
 
-Tortios Conduct  
+## Tortios Conduct  
 * Tort 
     - Civial wrong (other than breach of contract)
     - Intentional
@@ -158,7 +157,7 @@ Tortios Conduct
     - Compensatory Damages (money) (compensation)
     - Punitive damages (exemplary damages)  punishment (ie. mcdonalds hot coffee case, they had 200 prev people report overheated coffee)
 
-Sanctions for breach of contract
+## Sanctions for breach of contract
 * Breach of contract 
     - failure to perform contractual promise. 
 * Remedies
@@ -167,21 +166,20 @@ Sanctions for breach of contract
     - Consequential 
     - Specific performance  
 
-Corporations 
+## Corporations 
 * Businesses chartered by the state to do business as a legal person.  
 * owned by shareholders. 
 * Board of directors runs the business
 * Managers are in charge of day-to-day business operations.  
 
-Specific sense of Corporate governance
+## Specific sense of Corporate governance
 * Legal relationship between 
     - coroporate agents & 
     - shareholders of the corporation 
 * Value of corporations will be destroyed if managers abuse their control of resources for personal benefits.  
 
----
 
-## Chapter 2 Ethics 
+# Chapter 2 Ethics 
 
 > The Role of Ethics in Decision Making & Business
 > [PP Linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%202/Chap%202%20[Compatibility%20Mode].pdf?csf=1&e=eUaeqK)  
@@ -279,11 +277,11 @@ Can a business have a conscience?
 * Does this mean that a corporation can have values and all the individual employees must agree with them? 
 * What about laws for corporations that force individuals to violate religious values? 
 
-## Chapter 3 - The Court System
+# Chapter 3 - The Court System
 
 > 09/03/2019  
 
-Judges and Justices
+## Judges and Justices
 * two terms are not synonomous
 * individuals who operate the courts
 * Trial Court  
@@ -295,6 +293,251 @@ Judges and Justices
     * apeals courts do not have jury, one or more Justice will decide the case. Some attornies will specialize in Appellate cases  
     * decide an appeal and provide reasons for their decisions.  
 
-Jurors
+## Jurors
 * Fact-finding body
-* Trial by jury is guaranteed by the Bill of Rights.  
+* Trial by jury is guaranteed by the Bill of Rights. 
+
+> 09/05/2019  
+
+### Jurors contd...   
+* Petit Jury: Trial jury that returns a verdict in criminal and civil stiuations. (usually 12 people, civil might have 6, varies between states/counties)  
+* Decisions must be unanimous (called hung if it's not a unanimous decision)  
+    * leads to mistrial where prosicution can retry the case if they want to.  
+    * don't have to provide reasons for guilt/innocence 
+
+## Lawyers  
+* Primary duty is to the administration of Justice. 
+* Present: 
+    * Evidence
+    * Points of law (they think judge/court should focus on)
+* Make arguments
+* Assist juries and judge in making decisions (jury: what facts are true? Judge: What laws are relevent?)
+* Serve as counsellors, advocates, and public servants. 
+* Serve as representative advocates in court system
+* confidential communications with clients (client attorny privilege)
+    * rules of Evidence
+    * attorney-client privilege   
+        * forbids a Lawyer to reveal confidential facts and testify against a client. 
+    * work product doctrine
+        * protects some documents of expert witnesses (drafts)
+
+## Organization of the court system
+
+1. Supreme court  
+2. Appellate courts. 
+3. Trial courts.  
+
+> Is the state supreme court always the highest court in that state. 
+No. not always! Sometimes they have a different name or appeal system. 
+Texas has seperate courts for criminal and civil courts.   
+
+## Subject matter jurisdiction
+* Power over the case issues. 
+* jurisdiction can be limited to: 
+    * A specific subject matter
+    * area in which the party lives (some areas with large and diverse populations will have static probate judges (specialize in wills/guardianship))  
+* Examples: 
+    * Probate courts: Wills and estates
+    * Traffic courts: Traffic violations 
+
+Fig. 3.1 - State Court System
+TODO: Move over flow chart from PP 
+#### *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
+
+## Federal courts review: 
+1. if the US is involved as a party 
+2. state vs. state 
+3. Citizens of different states (ammount in controversy(ie. amounts greater than $75K), diversity of citizenship)  
+4. Law: Federal Question 
+
+## Diversity of citizenship 
+* Diversity 
+    * Plaintifs / defendants are citizens of different states. 
+    * To reach federal court: each claim must be $75K+ 
+    * guard against state court bias.  
+
+## Federal Question cases: 
+* US Constitution issues ie. (Miranda vs. Arizona => Miranda rights)
+* Federal Statue issues
+* no $$$ limits.  
+
+Fig. 3.2 Federal Court System
+TODO: Move over flowchart from PP / book 
+
+## District courts
+* Trial courts of the federal system. 
+* One court in every state and the Distric of Colombia. 
+* *Federal Rules of Civil Procedure:* Provide the details concerning procedures to be followed in federal court litigation. 
+
+## Appellate courts
+TODO: Get Geographical boundries for Appellate courts. 
+* 12 courts of appeal
+* Special court of appeals hears appeals from 
+    * special courts. 
+    * Administrative decisions
+* Other courts have been created to handle the special subject matter.
+    * Court of appeals for armed forces. 
+* Texas is in the 5th circuit for court of appeals (apparently we rival the 9th district? (california - west coast?))
+
+> General role of an appelate court is to: 
+    Review questions of law. 
+
+## Decisions by the US Supreme Court. 
+*SCOTUS:* Supreme court of the united states.  
+* review requires a petition for a writ of Certiorari
+* Supreme court resolves
+    * cases involving major Constitutional issues 
+    * interpretation of federal law. 
+* Final judgments of hightes state ourt are reviewed only by SCOTUS. 
+
+## Power of judical review. 
+* Judicial restraint vs. judical activism
+* power should not be used except in unusual cases vs. Power should be used when the needs of society justify it. 
+### US Supreme court has the ultimate power to invalidate actions by the President or Congress. 
+
+## Judical restraint: 
+* Courts have a limited role. 
+* conservative 
+* Pragmatic approach to litigation.
+* Societal changes through polical process. 
+* synonomous with: *Strict constructionism* or *judicial abstention*
+
+## Judicial activism
+* Liberal
+* Courts have expansive role
+* Policy directed / Result concious 
+* Value oriented. 
+* precedent  
+
+## Nature of the judical process
+1. Case to be decided. 
+    * use existing statutes and precedents
+    * create a law where none exist. 
+    * Refusal to apply case law or find unconstitutional   
+*Will ruling provide justice and a sound precedent?*  
+
+Look at case 3.1 in book: Sebelius case regarding affordable care act. 
+
+TODO: Add Ch 6 Notes - link Power point - Ch 1-6 Test Opens 9/17 - homework is best source of review, lots of overlap in question bank
+
+---
+
+## Exam 1 Review: 
+lawyers first duty is administration of justice  
+commercial speech is protected under first amendment; govt can limit it; and it may not be as extensive as right of individual  
+under a minimum rationality approach a permissible state end is a legit goal of government.   
+10th amendment reinforces federalism  
+libel cases deal with printed defamatory falsehoods - tabloid magazines?  or slander (spoken defaming word)  
+small claims courts do not require the services of a lawyer - think judge judy - not formal at all - limited by $$ amount asked for in claims  
+lawyer is often involved in personal decision of clients  
+judicial abstention; aka strict constructivism  
+
+---
+
+> 09/19/2019  
+
+# Chapter 4  
+###### Exam 1 Due Tonight 9/19 by 11:59pm
+
+## Litigation
+
+Not the only way legal disputes are settled, there's also ADR (alternative dispute resolution) => Ch. 5
+
+attornies that are really good in court room are called litigators or Trial attornies. 
+
+Litigation helps the business community resolve actual disputes. (lawsuits)  
+Lawsuits are a drain
+- time
+- money
+- energy 
+End goal of lecture: develop and understanding of litigation process.  
+
+## Parties
+- Plantiff 
+    - Person who filed the suit. 
+    - a **civil** action 
+- defendant
+    - Party being sued or 
+    - Person against whom a criminal charge is filed by the state
+- 3rd-Party Defendant: 
+    - Brought in by the defendant
+    - to complete determination of a controversy 
+
+## Standing to sue
+Do you really have a "dog" in this fight? 
+- Entitled to have the court decide the dispute
+- To Establish a standing, plaintiff must allege: 
+    - Litigation involves a case or controversy 
+    - Personal stake in the resolution of the controversy
+
+Case 4.1
+*Mayer v. Belichick*
+605 F.3d 223 (3rd Cir.)
+Issue: 
+- Videotaping the new york jets coaches and players on teh field. 
+- Purpose: capturing and stealing the new yourk jets signals and visual coaching instructions
+ - The New England Patriots. 
+
+ Personal Jurisdiction
+ Court must have legal authority over an individual. 
+ Court has to haev authority over the parties in the case
+ - *in personum* over the person
+    - Personal jurisdiction over the defendant obainted by: 
+        - court summons
+        - Service of Process 
+ - *in rem?*
+ - Long arm statuetes: Provision for the service of process beyond the boundaries of the state. 
+
+## Class-Action Suits: 
+
+Many people affected by an incident (red bull didn't give us all wings!)
+- One or more plaintiffs file suit on their own behalf and on behalf of all other persons who may have a similar claim. 
+- No one member of the class can make suing financially worthwhile (attornies typically take 1/3 of the reward in class action)
+
+Pretrial procedures
+1. Plaintiff files complaint
+2. Complaints and summons served on defendant
+3. Defendant files motion or answer with possible counterclaim and defenses
+4. Court rules on motions - case could be decided here and never make it to trial. 
+5. Plaintiff files reply to answer. 
+6. attornets conduct discovery procedures
+7. Parties may file motions for summary judgment or judgement on pleadings 
+8. Court conducts pretrial confrence. 
+
+## Pleadings
+- they are: 
+    - Legal documents
+    - filed wiht a court
+    - begin litigation process
+- complaint: filed by plaintiff
+- answer: filed by defendant
+- Default: order entered by court when defendant does not respond in any way. 
+- After getting answer plaintiff must reply
+    - Admits or denies each alligation of the defendants counterclaims 
+
+## Discovery 
+Gather the Evidence
+- Narrows the issues disputed by the parties. 
+- Ensures results of lawsuits are based on the merits of the cotroversy. 
+    - not an ability or skill of counsel 
+- encourage settlement. 
+- Get Evidence!!!! **<= THIS IS KEY!!**
+
+## Discovery methods
+- Interrogatories: 
+    - written questions (like written interview)
+- Request for production of documents; 
+    - Ask other party to produce specific documents
+- Depositions: 
+    - Oral questions of the possible witness. 
+    - asked by attornies, will have court reporter present, but witness is not under oath. trying to impeach the witness (catch them in a lie)
+- Request for admisssion
+    - if you would just agree to 'x' we don't have to bring it up in court again. 
+
+## Discovery scope
+- Discovery procedures are intended to be used freely by parties without courts supervision
+- Judges provide a liberal interpretation of degree of discoverable information. 
+- information is considered discoverable when it can lead to Evidence admissible during a trial. 
+- expensive af **$$$$$$$**5
+
+in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
