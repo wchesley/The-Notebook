@@ -357,3 +357,102 @@ judicial abstention; aka strict constructivism
 
 Not the only way legal disputes are settled, there's also ADR (alternative dispute resolution) => Ch. 5
 
+attornies that are really good in court room are called litigators or Trial attornies. 
+
+Litigation helps the business community resolve actual disputes. (lawsuits)  
+Lawsuits are a drain
+- time
+- money
+- energy 
+End goal of lecture: develop and understanding of litigation process.  
+
+## Parties
+- Plantiff 
+    - Person who filed the suit. 
+    - a **civil** action 
+- defendant
+    - Party being sued or 
+    - Person against whom a criminal charge is filed by the state
+- 3rd-Party Defendant: 
+    - Brought in by the defendant
+    - to complete determination of a controversy 
+
+## Standing to sue
+---
+Do you really have a "dog" in this fight? 
+- Entitled to have the court decide the dispute
+- To Establish a standing, plaintiff must allege: 
+    - Litigation involves a case or controversy 
+    - Personal stake in the resolution of the controversy
+
+case 4.1
+Mayer v. Belichick
+605 F.3d 223 (3rd Cir.)
+Issue: 
+- Videotaping the new york jets coaches and players on teh field. 
+- Purpose: capturing and stealing the new yourk jets signals and visual coaching instructions
+ - The New England Patriots. 
+
+ Personal Jurisdiction
+ Court must have legal authority over an individual. 
+ Court has to haev authority over the parties in the case
+ - *in personum* over the person
+    - Personal jurisdiction over the defendant obainted by: 
+        - court summons
+        - Service of Process 
+ - *in rem?*
+ - Long arm statuetes: Provision for the service of process beyond the boundaries of the state. 
+
+## Class-Action Suits: 
+---
+Many people affected by an incident (red bull didn't give us all wings!)
+- One or more plaintiffs file suit on their own behalf and on behalf of all other persons who may have a similar claim. 
+- No one member of the class can make suing financially worthwhile (attornies typically take 1/3 of the reward in class action)
+
+Pretrial procedures
+1. Plaintiff files complaint
+2. Complaints and summons served on defendant
+3. Defendant files motion or answer with possible counterclaim and defenses
+4. Court rules on motions - case could be decided here and never make it to trial. 
+5. Plaintiff files reply to answer. 
+6. attornets conduct discovery procedures
+7. Parties may file motions for summary judgment or judgement on pleadings 
+8. Court conducts pretrial confrence. 
+
+## Pleadings
+- they are: 
+    - Legal documents
+    - filed wiht a court
+    - begin litigation process
+- complaint: filed by plaintiff
+- answer: filed by defendant
+- Default: order entered by court when defendant does not respond in any way. 
+- After getting answer plaintiff must reply
+    - Admits or denies each alligation of the defendants counterclaims 
+
+## Discovery 
+Gather the Evidence
+- Narrows the issues disputed by the parties. 
+- Ensures results of lawsuits are based on the merits of the cotroversy. 
+    - not an ability or skill of counsel 
+- encourage settlement. 
+- Get Evidence!!!! <= THIS IS KEY!!
+
+## Discovery methods
+- Interrogatories: 
+    - written questions (like written interview)
+- Request for production of documents; 
+    - Ask other party to produce specific documents
+- Depositions: 
+    - Oral questions of the possible witness. 
+    - asked by attornies, will have court reporter present, but witness is not under oath. trying to impeach the witness (catch them in a lie)
+- Request for admisssion
+    - if you would just agree to 'x' we don't have to bring it up in court again. 
+
+## Discovery scope
+- Discovery procedures are intended to be used freely by parties without courts supervision
+- Judges provide a liberal interpretation of degree of discoverable information. 
+- information is considered discoverable when it can lead to Evidence admissible during a trial. 
+- expensive af $$$$$$$
+
+in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
