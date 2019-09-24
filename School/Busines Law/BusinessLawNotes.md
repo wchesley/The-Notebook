@@ -419,6 +419,7 @@ TODO: Get Geographical boundries for Appellate courts.
 Look at case 3.1 in book: Sebelius case regarding affordable care act. 
 
 TODO: Add Ch 6 Notes - link Power point - Ch 1-6 Test Opens 9/17 - homework is best source of review, lots of overlap in question bank
+[Chapter 6 PowerPoint](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EY2_ZuxswHhCpKPj87c3zeIBP8VDpyIx2PeyF0KMJBSQMw?email=chesley.walker%40gmail.com&e=8zMTGr)
 
 ---
 
@@ -438,6 +439,7 @@ judicial abstention; aka strict constructivism
 
 # Chapter 4  
 ###### Exam 1 Due Tonight 9/19 by 11:59pm
+[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EWaskRa2XXNJobt0mhntZhoBDthfzjU_Qrm2fzhafbbFkg?email=chesley.walker%40gmail.com&e=Ca1Uaf)
 
 ## Litigation
 

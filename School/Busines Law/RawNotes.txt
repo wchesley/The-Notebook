@@ -1,357 +1,8 @@
-### 08/29/2019
-> Ch1 contd...  
-## Civil Law vs. Criminal Law  
-###### OJ simpson was innocent criminally but was charged with wrongful death in civil case
-
-#### Substantive Law and Procedural Law  
-Substantive Law - realationship of people with other people or with the state, ex. Property law  
-Procedural Law - method and means by which Substantive law is made and administered.  ex. Rules of Evidentiary Procedure, administrative law  
-
-#### Federal Law
-Constitution - top law of US - 
-Legislation - 2nd - 
-administrative law or regulations - last in list of authority for laws.  
-
-#### State Law - ordered top to bottom, most authorative to least. 
-* State Constitution - 
- *Statutes or Acts  
-* Regulatory law of state and administrative agencies  
-* ordinances (county or city)  
-
-#### Judicial Decisions or Case law
-* interpret Constitutional, Legislative and Regulatory laws
-* opinions: decisions made by judges on legal issues. 
-    - Becomes `precedents` for future cases involving similar facts and legal issues
-    - Citation: address for locating the case in a library or a computer database. ex: `3 cai. R. 175, 2 Am. Dec. 264 (N.Y. 1805)` => Pierson v. Post (Foxhunt case)
-Advantages:  
-* Stare decisis 
-    - Judges follow precedents whenever possible. 
-    - Ensures certainty and predictability in the law
-* Specifies boundaries of Property-based legal system
-Disadvantages:  
-* Volume of cases  
-* Conflicting precedents  
-* **Conflicts of Law** 
-* Distinction between **holding** and **dicta** Increased difficutly of determining the precedent  
-> dicta is extra stuff in a case that is not holding
-Holding can set precedents, dicta does not  
-* Rejection of precedent  
-
-Hierarchy of Sources of Law  
-* US Constitution and amendments    
-* Statues of Congress  
-* Federal administration regulation   
-* State Constitutions   
-* Statues Statues  
-* State administrative regulation  
-* Local ordinances   
-* case law  
-
-Legal Sanctions
-* Used by law enforcement officials and courts
-* to encourage and force compliance with the law [ie. speeding tickets.] 
-* Remedy: 
-    - Right of an individual
-    - To take another persons resources. 
-    - [slip and fall case - can sue for damages]
-    - because that person failed to meet requirements of the law.  
-
-Sanctions for criminal conduct 
-* Crime is public wrong against society
-* Punishments   
-    - death   
-    - imprisonment  
-    - fine  
-    - removal  
-    - disqualification  
-
-Tortios Conduct  
-* Tort 
-    - Civial wrong (other than breach of contract)
-    - Intentional
-    - Negligence
-    - Strict liability  
-* Remedies
-    - Compensatory Damages (money) (compensation)
-    - Punitive damages (exemplary damages)  punishment (ie. mcdonalds hot coffee case, they had 200 prev people report overheated coffee)
-
-Sanctions for breach of contract
-* Breach of contract 
-    - failure to perform contractual promise. 
-* Remedies
-    - Damages (money)
-    - Compensatory 
-    - Consequential 
-    - Specific performance  
-
-Corporations 
-* Businesses chartered by the state to do business as a legal person.  
-* owned by shareholders. 
-* Board of directors runs the business
-* Managers are in charge of day-to-day business operations.  
-
-Specific sense of Corporate governance
-* Legal relationship between 
-    - coroporate agents & 
-    - shareholders of the corporation 
-* Value of corporations will be destroyed if managers abuse their control of resources for personal benefits.  
-
-
-
-
-## Chapter 2 
-> The Role of Ethics in Decision Making & Business
-> [PP Linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%202/Chap%202%20[Compatibility%20Mode].pdf?csf=1&e=eUaeqK)  
-
-#### Contemporary Business Ethics
-* Ethics officers
-    - Develop ethics policies / code of ethics
-    - Listen to complaints of ethics violations
-    - Investigate ethics abuses 
-* Sarbanes-Oxley Act (SOX) of 2002
-    - Reaction to Enron and WorldComm scandles of early 2000's  
-    - Established higher standareds for coroporate responsibility and governance.  
-
-Ethics and Morality  
-* Morality: Values that guide one's behavior   
-* Ethics: formal system for deciding what's right and wrong  
-* The good: Moral goals and objectives one choooses to pursue.  
-
-Ethics and Law
-Fear Punishments vs. Want to do what's right 
-- Society's ethical values may become law throught Legislation
-
-> 09/03/2019
-
-Systems of Ethics: 
-* Formalism: `affirms absolute Morality`
-    * Duty based view, if you have a duty, do it!
-    * Categorical Imperative  
-    * Social Contract - Idea that we all kinda have a contract with eachother, ie. i have my rights but no right to 'step' on your rights  
-* Consequentialialism - Concerned with moral consequnces of actions
-    * Utilitarianism
-    * Protestant ethic
-
-Ethics influences legal system: Is there a relationship between law and ethics? Yes.  
-
-Sources of value for business ethics
-* Legal regulation 
-* Professional codes of Ethics - Professional code is career choice based ie. Internal Auditor
-* Organizational codes of ethics - Publicly traded companies are required to have  code of ethics.  
-* Individual values 
-
-Legal regulation - Ethical rules drawn from the law
-* Respect liberty and rights of others. (ie. free speech, but cannot yell fire in crowded theatre)
-* Act in good faith 
-* Exercise due care
-* avoid conflics of interest
-* Honor confidentiality 
-
-Professional code of ethics
-* Crtain professions have long traditions of codes of ethical conduct (CPA's have had a long standing code of ethics.)  
-    * More recent professions have developed and adopted their own codes.   
-* Ethical codes of organization are a form of *self regulation*.   
-
-Organizational code of ethics
-* Business have adopted ethical codes at the individual organizational level
-* More important than creating a code:  
-    * Effective implementation!  
-    * Enforcement - consistency is key!  
-
-Individual values: Self Examination:  
-> TODO: Import image from pp  
-Should I do it?
-* Is it right or wrong? 
-* WIll I be proud if they found out
-* How would I feel if everyone did it? 
-* Will it cause harm? 
-* Is it legal?   
-
-Obstacles: 
-* Profits vs. Ethics
-* Group think - if everyone else is doing it...might as well...mob mentality
-    * Individuals feel less responsible  
-* Control of resources by non-owners (potential conflics of interest)
-    * Managerial agents can manipulate resoures in their own interest. 
-    * Self-dealing
-
-Promoting  Business Ethics 
-* Involve top management - have to have this, CEO as role model, rest of comapnay should follow suit 
-    * Role model
-    * Tone from the top
-    * *Must believe in the expressed values*
-* Open communication / Transparency
-    * promotes trust  
-    * Required due to complexity of information  
-* Consideration of stakeholders
-    * stakeholder Theory: Directors and managers must take into account it's stakeholders whose interests the corporations impacts. 
-* Be Consistency! 
-
-> Can an act be ethical but not legal?  Yes
-This happens sometimes when American companies go overseas  
-
-Can a business have a conscience?
-* Personhood rights of a corporation have been recognized in the law. 
-    * Corporation is an individual
-* Does this mean that a corporation can have values and all the individual employees must agree with them? 
-* What about laws for corporations that force individuals to violate religious values? 
-
-## Chapter 3 - The Court System
-
-> 09/03/2019  
-
-Judges and Justices
-* two terms are not synonomous
-* individuals who operate the courts
-* Trial Court  
-    * Judges  
-    * Determines the rules of law for a case   
-* Appellate Court
-    * Justices  
-    * Review case (as if they are grading papers from the judges)  
-    * apeals courts do not have jury, one or more Justice will decide the case. Some attornies will specialize in Appellate cases  
-    * decide an appeal and provide reasons for their decisions.  
-
-#### Jurors
-* Fact-finding body
-* Trial by jury is guaranteed by the Bill of Rights. 
-
-> 09/05/2019  
-
-##### Jurors contd...   
-* Petit Jury: Trial jury that returns a verdict in criminal and civil stiuations. (usually 12 people, civil might have 6, varies between states/counties)  
-* Decisions must be unanimous (called hung if it's not a unanimous decision)  
-    * leads to mistrial where prosicution can retry the case if they want to.  
-    * don't have to provide reasons for guilt/innocence 
-
-#### Lawyers  
-* Primary duty is to the administration of Justice. 
-* Present: 
-    * Evidence
-    * Points of law (they think judge/court should focus on)
-* Make arguments
-* Assist juries and judge in making decisions (jury: what facts are true? Judge: What laws are relevent?)
-* Serve as counsellors, advocates, and public servants. 
-* Serve as representative advocates in court system
-* confidential communications with clients (client attorny privilege)
-    * rules of Evidence
-    * attorney-client privilege   
-        * forbids a Lawyer to reveal confidential facts and testify against a client. 
-    * work product doctrine
-        * protects some documents of expert witnesses (drafts)
-#### organization of the court system
-1. Supreme court  
-2. Appellate courts. 
-3. Trial courts.  
-
-> Is the state supreme court always the highest court in that state. 
-No. not always! Sometimes they have a different name or appeal system. 
-Texas has seperate courts for criminal and civil courts.   
-
-#### Subject matter jurisdiction
-* Power over the case issues. 
-* jurisdiction can be limited to: 
-    * A specific subject matter
-    * area in which the party lives (some areas with large and diverse populations will have static probate judges (specialize in wills/guardianship))  
-* Examples: 
-    * Probate courts: Wills and estates
-    * Traffic courts: Traffic violations 
-
-Fig. 3.1 - State Court System
-TODO: Move over flow chart from PP 
-##### *Term to know: Certiorari: a writ or order by which a higher court reviews a decision of a lower court.*
-
-Federal courts review: 
-1. if the US is involved as a party 
-2. state vs. state 
-3. Citizens of different states (ammount in controversy(ie. amounts greater than $75K), diversity of citizenship)  
-4. Law: Federal Question 
-
-Diversity of citizenship 
-* Diversity 
-    * Plaintifs / defendants are citizens of different states. 
-    * each claim must be $75K+ 
-    * guard against state court bias.  
-
-Federal Question cases: 
-* US Constitution issues ie. (Miranda vs. Arizona => Miranda rights)
-* Federal Statue issues
-* no $$$ limits.  
-
-Fig. 3.2 Federal Court System
-TODO: Move over flowchart from PP / book 
-
-District courts
-* Trial courts of the federal system. 
-* One court in every state and the Distric of Colombia. 
-* *Federal Rules of Civil Procedure:* Provide the details concerning procedures to be followed in federal court litigation. 
-
-#### Appellate courts
-TODO: Get Geographical boundries for Appellate courts. 
-* 12 courts of appeal
-* Special court of appeals hears appeals from 
-    * special courts. 
-    * Administrative decisions
-* Other courts have been created to handle the special subject matter.
-    * Court of appeals for armed forces. 
-* Texas is in the 5th circuit for court of appeals (apparently we rival the 9th district? (california - west coast?))
-
-> General role of an appelate court is to: 
-    Review questions of law. 
-
-#### Decisions by the US Supreme Court. 
-*SCOTUS:* Supreme court of the united states.  
-* review requires a petition for a writ of Certiorari
-* Supreme court resolves
-    * cases involving major Constitutional issues 
-    * interpretation of federal law. 
-* Final judgments of hightes state ourt are reviewed only by SCOTUS. 
-
-#### Power of judical review. 
-* Judicial restraint vs. judical activism
-* power should not be used except in unusual cases vs. Power should be used when the needs of society justify it. 
-##### US Supreme court has the ultimate power to invalidate actions by the President or Congress. 
-
-Judical restraint: 
-* COurts have a limited role. 
-* conservative 
-* Pragmatic approach to litigation.
-* Societal changes through polical process. 
-* synonomous with: *Strict constructionism* or *judicial abstention*
-
-Judicial activism
-* Liberal
-* COurts have expansive role
-* Policy directed / Result concious 
-* Value oriented. 
-* precedent  
-
-Nature of the judical process
-1. Case to be decided. 
-    * use existing statutes and precedents
-    * create a law where none exist. 
-    * Refusal to apply case law or find unconstitutional   
-*Will ruling provide justice and a sound precedent?*  
-
-Look at case 3.1 in book: Sebelius case regarding affordable care act. 
-
-TODO: Add Ch 6 Notes - link Power point - Ch 1-6 Test Opens 9/17 - homework is best source of review, lots of overlap in question bank
-
-## Test Review: 
-lawyers first duty is administration of justice
-commercial speech is protected under first amendment; govt can limit it; and it may not be as extensive as right of individual
-under a minimum rationality approach a permissible state end is a legit goal of government. 
-10th amendment reinforces federalism
-libel cases deal with printed defamatory falsehoods - tabloid magazines?  or slander (spoken defaming word)
-small claims courts do not require the services of a lawyer - think judge judy - not formal at all - limited by $$ amount asked for in claims
-lawyer is often involved in personal decision of clients
-judicial abstention; aka strict constructivism
-
-
 > 09/19/2019  
 
 ## Chapter 4  
-###### Exam 1 Due Tonight by 11:59pm
+###### Exam 1 Due Tonight by 11:59pm  
+[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EWaskRa2XXNJobt0mhntZhoBDthfzjU_Qrm2fzhafbbFkg?email=chesley.walker%40gmail.com&e=Ca1Uaf)
 
 ### Litigation
 
@@ -456,3 +107,31 @@ Gather the Evidence
 - expensive af $$$$$$$
 
 in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
+
+> 09/24/2019  
+
+## Motions
+- Statute of Limitations (SOL):
+    - Defendant
+    - Motion to dismiss suit
+    - Law says plaintiff took too long to file
+- Judgment on the pleadings
+    - Decide case based only on the complaint and answer
+- Summary Judgment    
+    - Decide based on the pleadings and other evidence  
+**TODO: Add Figure 4.2 from textbook - Pretrial **
+
+**TODO: Add figure 4.3 from textbook - Trial Steps - 2 pictures from slides/book **  
+
+## Food for thought... 
+"I consider a trial by jury as the only anchor yet devised by mn, by which a government can be held to the principles of its constitution"  -Thomas Jefferson
+
+## Jury Selection  
+- Jury Summons
+- **Voir Dire**: Speaking the Truth
+    - Selected jurors are called into jury box to conduct the examination
+- Peremptory Challenge: No cause or reason needs to be given to excuse a prospective juror
+
+# Chapter 5
+> 09/24/2019  
+[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EY_iJjizoxRBoyGhn1swV7UB5LyPsPhv1Esh4PzDBG9n-g?email=chesley.walker%40gmail.com&e=Lt0a9D)
