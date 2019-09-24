@@ -131,7 +131,73 @@ in a survey of 1000 judges, abusive discovery was rated highest among the reason
 - **Voir Dire**: Speaking the Truth
     - Selected jurors are called into jury box to conduct the examination
 - Peremptory Challenge: No cause or reason needs to be given to excuse a prospective juror
+- Strikes
 
-# Chapter 5
+### Read and add notes on Case 4.2
+
+#### Supreme court outlawed racial discrimination in peremptory challenges
+    - batson v. kentucky, 476 US 79 (1986)
+#### Gender discrimination is bannedd in the jury selection process 
+    - J.E.B. v. Alabama
+#### 
+
+## Opening statements
+- Attorneys make opening statements
+- Plaintiff introduces evidence to establish truth of allegations made in the complaint
+- Directed verdict: Motion by the defendant
+- Lawyers summarize the evidence
+- Jury instructions: judge informing the jury with the law 
+
+## Burden of Proof 
+- Criminal cases
+    - Beyond reasonable doubt
+- Civil cases - subject to two standards
+    - Preponderance of evidence (less evidence requried to win, OJ was found not guilty for murder, but found to have owed money in the wrongful death civil suit brought before him)
+    - Clear and convincing (More proof than Preponderance but less than reasonable doubt)  ex. Guardianship disputes (rare in civil cases, mostly Preponderance)
+
+## Deciding the case
+- Jury: 
+    - Determine what the facts are 
+    - apply the law as __**instructed by the judge**__ 
+- Verdict: Decision by the jury announced in the courtroom when jury deliberations are over. 
+- Judge will decide whether to accept the verdict or not. 
+
+## Post trial issues
+- Appellant: Party appealing. (Can be plaintiff or defendant)
+- Appellee: Successful party in the trial court. 
+- Petitioner: Party initiating the petition when a petition for certiorari is filed to the supreme court.
+    - Respondant: Opponent party in the petition
+##### If you are found not guilty in criminal case: the opposing party (the government) Cannot appeal the case.  Where as if the criminal loses the case, he can appeal. 
+
+## Appellant Procedures
+- Courts of appeal deal with the record of the proceedings in lower court. 
+- Courts of appeal studies the issues, testimony and proceedings to determine: 
+    - Whether prejudicial errors occured or 
+    - Whether lower court reached and erroneous result
+- Brief: Short description of the case by each party to the trial 
+
+## Appellate Procedures
+- Oral Arguement: Specified amount of time given to attorneys to explain their position to the court. (more like debate team) 
+- Vote of the judges or justices impressions is taken. 
+- Each judge prepares an opinion and circulates it among the other members. 
+    - when a majority ... 
+
+#### TODO: Add Fig 4.4 - Appellate Review 
+
+## Enforcement of judgments and decrees
+- Execution: 
+    - Court official seizes some property of the debtor
+    - Sells it at public auction
+    - Applies the proceeds to the creditor's claims 
+- Garnishment: involves having a portion of the debtors wages paid to the court, which in turn pays the creditor
+
+## *Res Judicata* 
+- Case has been decided on appeal
+- Time for appeal has expired. 
+- A cause of action finally determined by a competent court cannot be litigated by the parties anywhere. 
+- Successive suits involving the same factual setting between the same parties cannot be made as dispute has been concluded. 
+- Decision of the court is final and conclusive on all issues. 
+
+# Chapter 5 - Alternative Dispute Resolution
 > 09/24/2019  
-[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EY_iJjizoxRBoyGhn1swV7UB5LyPsPhv1Esh4PzDBG9n-g?email=chesley.walker%40gmail.com&e=Lt0a9D)
+[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EY_iJjizoxRBoyGhn1swV7UB5LyPsPhv1Esh4PzDBG9n-g?email=chesley.walker%40gmail.com&e=z148mg)
