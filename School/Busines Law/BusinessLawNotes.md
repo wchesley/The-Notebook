@@ -569,7 +569,26 @@ in a survey of 1000 judges, abusive discovery was rated highest among the reason
 - Peremptory Challenge: No cause or reason needs to be given to excuse a prospective juror
 - Strikes
 
-### Read and add notes on Case 4.2
+### Case 4.2
+
+> 564 U.S. _(2011)  
+> *Wal-Mart Stores v. Dukes*  
+
+One of the most expensive class action lawsuits ever.   
+3 current or former walmar employees allege that the company discriminated against them on the basis,  
+of their sex by denying them equal pay or promotions.  
+**violates Title VII of Civil Rights Act of 1964, 78 Stat. 253, as amended...**    
+was not directed at corporate policy but local managers discretion over pay and promotion  
+that was excersised disproportionately towards men.  
+this was overturned as there weren't enough people to justify class action law suit.  
+They took data from all walmart managers from accross all 50 states and had varying results.  
+some women did better and some were worse off.  
+Justice Ginsberg offerd this dissenting opinion:  
+> She emphasized that the majority opinion "disqualifies the class at the starting gate"  
+because it puts too much burden on the plaintiffs to show how their individual  
+claims are sufficiently similar to form a class action.
+>  
+She was joined by Justices Breyer, Sotomayor, and Kagan. 
 
 #### Supreme court outlawed racial discrimination in peremptory challenges
     - batson v. kentucky, 476 US 79 (1986)
@@ -655,13 +674,13 @@ in a survey of 1000 judges, abusive discovery was rated highest among the reason
 - Does *not* focus on underlying conflicts 
 
 ## Principled Negotiation
-I. Communication
-II. Relationship
-III. Interests 
-IV. Discuss all availabe options. 
-V. which options are actually legit. 
-VI. Consider the alternatives. 
-VII. Commitment to the alternatives.  
+I. Communication  
+II. Relationship  
+III. Interests   
+IV. Discuss all availabe options.   
+V. which options are actually legit.   
+VI. Consider the alternatives.   
+VII. Commitment to the alternatives.    
 
 ## Alternative dispute resolution systems (ADR Systems)
 - Litigation does not prevetnt the use of ADR. 
