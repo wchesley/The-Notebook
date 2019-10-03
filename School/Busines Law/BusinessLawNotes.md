@@ -752,6 +752,15 @@ VII. Commitment to the alternatives.
 
 # Chapter 7: Property Rights
 
+**Property:** The legal right to exclude others from resources that are origionally possessed  
+or are acquired without force, theft or fraud.  
+Property is *absolute* but not *infinite*, it's boundries can be *ambiguous*
+This definition makes property very central to the whole legal system.  
+Property becomes not just an exclusionary right but an entire system unto itself.  
+It is upon this property system of law that business depends. 
+Property is central to the legal enviroment   
+and central to society's acheivment of prosperity.  
+
 ## Problem of limited resources: 
 - Frameworks to handle limited resources. 
     - State makes major decisions about the production and distribution of resources. 
@@ -819,7 +828,8 @@ Land ownership greather than just surface rights. (Old saying: if you own the la
 School corporation was entrusted with 7 statues, 3 were destroyed and another badly damaged during construction;  
 the school provided no evidence as to the circuimstances of the origin of the damage.   
 If they had the plaintiff would then have to prove negligence on the bailee's end.   
-Since the school showed no evidence and the plaintiff met the minimum requirements for burden of proof plaintiff was awarded damages to cover the 4 statues; $26,100  
+Since the school showed no evidence and the plaintiff met the minimum requirements for burden of proof   
+plaintiff was awarded damages to cover the 4 statues; $26,100  
 Plaintiff Suk Semoon alleged that Wooster School Corporation, Suk loaned 7 satatues and upon asking for their return was told that 3 were missing and another was badly damaged.   
 
 > Previous exams are now available for practice attempts, final exam will be cumulative.  
