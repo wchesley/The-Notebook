@@ -543,3 +543,264 @@ Gather the Evidence
 - expensive af **$$$$$$$**5
 
 in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
+
+> 09/24/2019  
+
+## Motions
+- Statute of Limitations (SOL):
+    - Defendant
+    - Motion to dismiss suit
+    - Law says plaintiff took too long to file
+- Judgment on the pleadings
+    - Decide case based only on the complaint and answer
+- Summary Judgment    
+    - Decide based on the pleadings and other evidence  
+**TODO: Add Figure 4.2 from textbook - Pretrial **
+
+**TODO: Add figure 4.3 from textbook - Trial Steps - 2 pictures from slides/book **  
+
+## Food for thought... 
+"I consider a trial by jury as the only anchor yet devised by mn, by which a government can be held to the principles of its constitution"  -Thomas Jefferson
+
+## Jury Selection  
+- Jury Summons
+- **Voir Dire**: Speaking the Truth
+    - Selected jurors are called into jury box to conduct the examination
+- Peremptory Challenge: No cause or reason needs to be given to excuse a prospective juror
+- Strikes
+
+### Read and add notes on Case 4.2
+
+#### Supreme court outlawed racial discrimination in peremptory challenges
+    - batson v. kentucky, 476 US 79 (1986)
+#### Gender discrimination is bannedd in the jury selection process 
+    - J.E.B. v. Alabama
+#### 
+
+## Opening statements
+- Attorneys make opening statements
+- Plaintiff introduces evidence to establish truth of allegations made in the complaint
+- Directed verdict: Motion by the defendant
+- Lawyers summarize the evidence
+- Jury instructions: judge informing the jury with the law 
+
+## Burden of Proof 
+- Criminal cases
+    - Beyond reasonable doubt
+- Civil cases - subject to two standards
+    - Preponderance of evidence (less evidence requried to win, OJ was found not guilty for murder, but found to have owed money in the wrongful death civil suit brought before him)
+    - Clear and convincing (More proof than Preponderance but less than reasonable doubt)  ex. Guardianship disputes (rare in civil cases, mostly Preponderance)
+
+## Deciding the case
+- Jury: 
+    - Determine what the facts are 
+    - apply the law as __**instructed by the judge**__ 
+- Verdict: Decision by the jury announced in the courtroom when jury deliberations are over. 
+- Judge will decide whether to accept the verdict or not. 
+
+## Post trial issues
+- Appellant: Party appealing. (Can be plaintiff or defendant)
+- Appellee: Successful party in the trial court. 
+- Petitioner: Party initiating the petition when a petition for certiorari is filed to the supreme court.
+    - Respondant: Opponent party in the petition
+##### If you are found not guilty in criminal case: the opposing party (the government) Cannot appeal the case.  Where as if the criminal loses the case, he can appeal. 
+
+## Appellant Procedures
+- Courts of appeal deal with the record of the proceedings in lower court. 
+- Courts of appeal studies the issues, testimony and proceedings to determine: 
+    - Whether prejudicial errors occured or 
+    - Whether lower court reached and erroneous result
+- Brief: Short description of the case by each party to the trial 
+
+## Appellate Procedures
+- Oral Arguement: Specified amount of time given to attorneys to explain their position to the court. (more like debate team) 
+- Vote of the judges or justices impressions is taken. 
+- Each judge prepares an opinion and circulates it among the other members. 
+    - when a majority ... 
+
+#### TODO: Add Fig 4.4 - Appellate Review 
+
+## Enforcement of judgments and decrees
+- Execution: 
+    - Court official seizes some property of the debtor
+    - Sells it at public auction
+    - Applies the proceeds to the creditor's claims 
+- Garnishment: involves having a portion of the debtors wages paid to the court, which in turn pays the creditor
+
+## *Res Judicata* 
+- Case has been decided on appeal
+- Time for appeal has expired. 
+- A cause of action finally determined by a competent court cannot be litigated by the parties anywhere. 
+- Successive suits involving the same factual setting between the same parties cannot be made as dispute has been concluded. 
+- Decision of the court is final and conclusive on all issues. 
+
+# Chapter 5 - Alternative Dispute Resolution
+> 09/24/2019  
+[PowerPoint here](https://buffswtamu-my.sharepoint.com/:b:/g/personal/wrchesley1_buffs_wtamu_edu/EY_iJjizoxRBoyGhn1swV7UB5LyPsPhv1Esh4PzDBG9n-g?email=chesley.walker%40gmail.com&e=z148mg)
+
+> Conflicts leads to *disputes* when one party makes claim that the other denies. (usually from 2 differing points of view)
+
+## Negotiation
+- Process used to persuade or coerce someone.  
+- Conflict Styles - we all have a dom conflict style but typically use all conflict styles. 
+    - Avoidance (ie. ghosting)
+    - Accommodate 
+    - Competition 
+    - Collaborate
+    - Compromise
+    
+## Positional Negotiation
+- Positional bargaining: used instinctively
+- begins in competitive style
+- Does *not* focus on underlying conflicts 
+
+## Principled Negotiation
+I. Communication
+II. Relationship
+III. Interests 
+IV. Discuss all availabe options. 
+V. which options are actually legit. 
+VI. Consider the alternatives. 
+VII. Commitment to the alternatives.  
+
+## Alternative dispute resolution systems (ADR Systems)
+- Litigation does not prevetnt the use of ADR. 
+- Lawsuits are not required to use ADR methods. 
+- Usage can be part of a contractual relationship between parties. (required by contract)
+- Effective use can save costs associated with litigation. 
+
+## Fig. 5.1 Scale of dispute resolution systems. 
+> TODO: Add line graph from PowerPoint. 
+
+## Arbitration
+- ADR system 
+- Disputing parties agree to have a third party decide the merits of the dispute
+- Arbitrator: AUthorized to make decisions that are binding on the parties. 
+- Helps parties avoid litigation expenses adn courtroom formalities. 
+- Serves to ease congested court dockets. 
+- Allows to submit several disputes to experts for solutions
+- Submission: Act of referring the dispute to the Arbitrator
+- Voluntary arbitration: Submission to arbitration by the parties. 
+- Mandatory arbitration: Occurs when a statute or court requires parties to arbitrate. 
+- Award: decision made by an Arbitrator
+
+## Submission
+- Submission by contract.  
+    - Occurs when the parties enter into an agreement to arbitrate an exisiting dispute. 
+- Parties can contractually agree to submit to arbitration all issues that arise in the future. 
+- statuetes require Submission
+
+## Factors that influence the selection of Arbitrators
+- Get subject matter experts
+- The number chosen is usually 3, but bigger cases may require more, smaller; less
+- Authority over certain matters
+    - Arbitrators authority is a topic of controversy and litigation. (currently disputed) 
+
+## Case 5.1 Arbitrators Authority
+- Case Rent-A-Center, West, Inc. v. Antonio Jackson
+- 130 S. Ct. 2772 (2010)
+- Supreme court. 
+- Issue: 
+    - Jackson filed a race discrimination lawsuit in federal court instead of arbitrating his claim. 
+        - he claimed that the agreement to arbitrate was unconscionable and unenforceable under nevada law. 
+
+## Awards. 
+- Decision by the Arbitrator
+- Findings and reasons of the award must be disclosed if requried by the submission.  
+- U.S. Supreme Court favors a broad scope of the arbitrators authority
+- Final on all issues submited and enforceable by the courts 
+- Not subject to judicial review on the merits of the descison 
+
+## Federal Arbitration Act
+- Encourages businesses to use ADR (encourages courts to do the same with cases that should be settled)
+- Impact on Policy
+    - FAA covers any arbitration clause in a contract that involves interstate commerce. 
+    - Courts should enforce arbitration agreements. 
+    - Federal policy favors arbitration of commercial disputes. 
+- Impact on state laws. 
+    - Some state laws specify that designated matters are not to be submitted for arbitration
+    - Commerce Clause and supermecy clause of the US constitution invalidate state laws that deny arbitration 
+
+## Case 5.2
+
+## Statutorily Mandated Arbitration
+- Certain statues requrie arbitration of specific subject matter 
+- States statues require mandatory arbitration for certain types of disputes 
+- Viable alternative for controlling court congestion
+- ARbitrators are retired judges and practicing lawyers. 
+
+
+
+# Chapter 7: Property Rights
+
+## Problem of limited resources: 
+- Frameworks to handle limited resources. 
+    - State makes major decisions about the production and distribution of resources. 
+    - 
+- 
+
+## Property is essential to society acheiving prosperity
+- Promotes incentives
+- Makes resources easily divisible
+- Establishes conditions for forming capital
+
+## Divisions of property
+- Real property (ie. land, all interests in land)
+- personal property (ie. my cell phone, all moveable resources)  
+
+Land ownership greather than just surface rights. (Old saying: if you own the land, you own everything from heaven to hell on that land)
+- Air rights. 
+    - Owner of real property possesses the air above the land
+    - Can be sold to another for development. 
+- subsurface rights
+    - Landowner owns the rocks an minerals beneath the land
+    - Can be separately sold to another
+- fixtures on land
+    - Object of personal property become an object of real property
+    - Manufacturing equipment in a plant. 
+
+## Types of ownership
+- Fee simple: maximum estate allowed under law
+    - Estate: bundle of rights and powers of land ownership
+    - Absolute estate: mo limitations or conditions attached 
+    - Defeasible estate: can have a condition attached to its conveyance 
+- Life estate: grants ownership in land for the lifetime of a specified person. 
+    - Land reverts to the original grantor upone death of the person
+- Leasehold estate: Property right granted to tenants by a landlord. 
+    - land can be leased for a definate duration or indefinate duration. 
+- Concurrent ownership: more than one person can own the same property. 
+    - ownership is undivided; everybody shares. 
+    - Applies to personal and real property
+    - Tenancy in common: tenants own different shares of the resource. 
+    - Joint Tenancy: Equal ownership shares.  
+        - Right of survivorship: we all own this, but last alive gets total ownership. 
+
+## Easements
+- Right to cross over someone's land
+- Use of land behind the exclusive legal fence
+- Ways of aquiring: 
+    - Buying directly form a titleholder or resreved in a deed
+    - Natural Easements
+    - Negative Easements
+    - easement by perscription (court interveans)
+
+## Bailments
+- Goods placed into anothers possession to be returned in the future (storing my inventory in someone else's wharehouse)
+- Bailor: Owner
+- Bailee: possessor of the object (wharehouse owner) 
+- Categories
+    - for the sole benefit of the bailor 
+    - for the sole benefit of the Bailee
+    - for the mutual benefit of both parties.  
+### Case 7.2 Bailment: 
+> 2010 Conn. Super. LEXIS 1816  
+> *Semoon v. The Wooster School Corp.*  
+
+
+School corporation was entrusted with 7 statues, 3 were destroyed and another badly damaged during construction;  
+the school provided no evidence as to the circuimstances of the origin of the damage.   
+If they had the plaintiff would then have to prove negligence on the bailee's end.   
+Since the school showed no evidence and the plaintiff met the minimum requirements for burden of proof plaintiff was awarded damages to cover the 4 statues; $26,100  
+Plaintiff Suk Semoon alleged that Wooster School Corporation, Suk loaned 7 satatues and upon asking for their return was told that 3 were missing and another was badly damaged.   
+
+> Previous exams are now available for practice attempts, final exam will be cumulative.  
