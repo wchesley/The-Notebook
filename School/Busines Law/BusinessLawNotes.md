@@ -833,3 +833,80 @@ plaintiff was awarded damages to cover the 4 statues; $26,100
 Plaintiff Suk Semoon alleged that Wooster School Corporation, Suk loaned 7 satatues and upon asking for their return was told that 3 were missing and another was badly damaged.   
 
 > Previous exams are now available for practice attempts, final exam will be cumulative.  
+
+## Acquiring resources
+- Exchange
+    - Contract rules
+    - Owners commit leagally to future exchange of resources (wills and gifts)
+    - One person can sue another if agreements in the future are broken
+- possession
+    - Rule of first possession
+    - First person to reduce unowned / abandonded things to possession owns it. 
+    - Lost items: statutory procedure 
+- Confusion
+    - Fungible goods are mixed together
+    - Owners hold a proportional share of the confused goods if the confusion occurs by honest mistake. 
+- Accession
+    - Law of accession 
+    - When people apply efforts to any raw material and change it's nature into finished products, they own the finished products. 
+
+## Adverse Possession 
+Claiming abandond real estate  
+- Provides ownership of land under state statues when the possession is: 
+    - Open and notorious
+    - Actual and exclusive
+    - Continuous
+    - wrongful (cannot have legit ownership interests in property)
+    - for a perscribed perioud of time. 
+- Encourages land use
+- Prevents absent owner claiming right. 
+- How to fight against? Tresspass suit (tort) 
+
+## Acquiring resources through gift. 
+- Donor who owns something gives it to the donee, who becomes the new owner.  
+(word ending with -or is typically the owner, -ee is typically the person buying/working/leasing? think Employer -> Employee. Lease holder and Lesee, Bailor -> Bailee that kind of thing)
+- Gift does not take place unitl the donor: 
+    - Intends to make the gift. 
+    - Delivers the gift by physical transfer to the donee. 
+- Testamentary gift: one that is made through a will. 
+
+## Title and Property Registration
+- Title: ownership
+    - Represented by a physical document registered with the state for certain resources. SOmething to prove your possession  
+- Deed: Document of title that transfers ownership of land. 
+- Protection against ownership problems. 
+    - Warrenty Deed: good ownership and power to convey
+    - Special warranty deed: specifically identifies legal claims against the land. have to specify why.  
+    - Quitclaim deed: No guarantees (idk what ownership rights I have but I'll sell them to you)  
+    - Buyers and lenders are protected by registration statutes. (get yo shit registered)  
+
+## Security interests in Land 
+- Mortgage on homes and land
+    - Security interest provided by a person to a bank for borrowing money. 
+        - In this case it's the house, car or land that is the security interest. 
+- Deeds of trust: Borrower signs a note and deed of trust   
+    - Grants the lender a security interest in the building and land. 
+    - Trustee: Holds full legal ownership to the land  
+- Land sales contract: Owner sells the land by contract  
+    - subject to the condition that seller retains title to the land until buyer pays the purchase price 
+- Recording statutes 
+    - Mortgages and deeds of trust must be registered in a recording office. 
+    - Provide notice of the security interest to potential buyers and lenders of the land.   
+- Foreclosure: Closure must go through the court system to ensure that procedures are properly followed. 
+- Deficiency: balancy owed by the debtor to teh creditor-mortgagee 
+- Right of redemption: Allows mortagagor to get back land upon payment of the full amount of the debt. 
+
+## Secured Transactions 
+- Creditor makes a loan to a debtor 
+- Debtor agrees to give the creditor a security interest in a collateral  
+    - Collateral: Valuable object 
+- Article 9 of the Uniform Commercial Code. (UCC)   
+    - set of laws that controls security interests  
+- Attachment: Occurs when: 
+    - Secury party holds given value 
+    - debtor ownes collateral 
+    - security agreement is provided. 
+- Perfection: arrises when a security interest is attached and creditor has taken all proper steps required by Article 9  
+- FInancing statement: filed to perfect a security interest under Article 9  
+
+## Nuisance and Zoning 
