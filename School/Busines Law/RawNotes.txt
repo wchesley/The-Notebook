@@ -438,3 +438,116 @@ Claiming abandond real estate
 - FInancing statement: filed to perfect a security interest under Article 9  
 
 ## Nuisance and Zoning 
+- Public Nuisance: arises from use of land that causes inconvenience or damage to the public  
+- Private nuisance: unreasonable use of one's property to cause substantial interference with the use of another's land. 
+- Zoning Ordinances: laws that divide counties into use districts designated residential commercial or industrial. 
+
+## Duration limitations on property
+- **Patents and copyrights** are granted for limited times, some can be renewed.  
+- **Rule against perpetuities** limits amount of time you can control disposition over a property 
+    - Limits exercise of property over resources to a duration of lives in being plus twenty-one years.  
+    - Prevents an owner form controlling resources through many future generations 
+
+---
+### Inclass bonus Notes: 
+some countries fighting over treasure? London, Hungary and Lebonon 
+sliver items
+told they were coming from; 
+> *Provenance:* the chronology of the ownership, custody or location of historical object.  
+Guy who knew where silver originated was killed
+silver items were taken to new york for auction
+meuseam in LA attempted to curate the silver (from ancient rome) 
+
+**Time team special 34 - mystery of roman treasure**
+
+does the silver have legal provenance? 
+
+Legally exported from lebonon; there were a number of descrepeciens in export docs. docs were forged?! damn son
+no valid docs tracing ownership acusing americans of selling stolen goods 
+
+
+
+# Chapter 8 Contract formation
+
+basically making your own 'mini law' 
+unless contract directly violates the law, it will be upheld in court. 
+
+## Contracts
+- Promises  
+If you do 'A', I'll do 'B'
+I will work for you for $15/hr  
+    - Need to be enforcable. 
+    - Predictable consequences for performance failures (accountability) 
+- Enable buyers and sellers to: 
+    - account for future risks 
+    - have confidence in exhcanging valueables. 
+    - have confidence in what we are doing.   
+All promises are legal contracts?! Hell no! 
+
+## Sources of contract law
+- Legislation 
+    - Unifrom commercial code (UCC)
+    - contracts for goods
+- Common Law 
+    - Judicial decisions    
+        - contracts for goods 
+        - contracts for services. 
+
+## Classification of contracts 
+- Bilateral & Unilateral
+    - Bilateral
+        - Both parties have a duty to perform when contract is formed
+            - Paul's promise to deliver the laptop to Pearl
+            - Pearl's right to the computer
+            - Pearl promises to pay $1,000 
+            - Pauls right to the money
+    - Unilateral
+        - One party has duty to perform if contract is formed by performance. but the other party may elect not to perform
+            - Pat's promise to pay alex $1000 to perform at her birthday
+            - Pat's right to receive $1000 **IF** she performs 
+- Express and implied in fact 
+    - Express   
+        - Interactions in which parties discuss terms. 
+    - Implied-in-fact 
+        - conduct 
+- Implied-in-law & quasi-contracts
+    - Implied-in-law aka Quasi-contracts (court making contract after the fact)
+        - Judicial *remedy*
+            - Remedy available when no actual contract exists. 
+            - Goal: Prevent one party receiving *unjust enrichment*
+
+### Contract words to know: :
+- enforceable vs. unenforceable
+- void vs voidable
+- valid
+- Executed
+    - parties have perfomred their promises
+    - done. 
+- Executory
+    - Parties have yet to performan
+    - still in process
+
+## Requirements for enforceable contract
+- **offer** to enter into a contract. 
+- **acceptance** of the offer
+- **consideration** foreach promise 
+- **capacity** of each party to enter into a binding agreement. 
+- **legality** of subject matter 
+
+## Defenses to Enforcementj
+- Improper form when a writing is required. 
+- no true meeting of the minds due to fraud or mistake 
+- if it has to be in writing it's determind by the **statue of frauds** (not a satue and nothing to do with fraud)
+
+## Offer 
+> I am going to make him an offer he can't refuse  
+
+- Contains
+    - specific promise
+    - specific demand 
+- Intent - Offeror must intend to make the offer by making a commitment to the offeree 
+- Contractual terms
+    - definite and 
+    - specific
+
+## Offer termination 
