@@ -153,6 +153,6 @@
 
 ## Bond valuation, Three important relationships 
 
-A. Relationship 1 A decrease in interest rates (required rates of return) will cause the value of a bond to increase; an interest rate increase will cause a decrease in value. The change in value caused by changing interest rates is called interest rate risk. 
-B. Relationship 2 1. If the bondholder's required rate of return (current interest rate) equals the coupon interest rate, the bond will sell at par, or maturity value. 2. If the current interest rate exceeds the bond's coupon rate, the bond will sell below par value or at a discount. 3. If the current interest rate is less than the bond's coupon rate, the bond will sell above par value or at a premium. 
-C. Relationship 3 A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
+- Relationship 1: A decrease in interest rates (required rates of return) will cause the value of a bond to increase; an interest rate increase will cause a decrease in value. The change in value caused by changing interest rates is called interest rate risk. 
+- Relationship 2: 1. If the bondholder's required rate of return (current interest rate) equals the coupon interest rate, the bond will sell at par, or maturity value. 2. If the current interest rate exceeds the bond's coupon rate, the bond will sell below par value or at a discount. 3. If the current interest rate is less than the bond's coupon rate, the bond will sell above par value or at a premium. 
+- Relationship 3: A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
