@@ -226,3 +226,4 @@ As previously noted, the primary goal of finance managers should be to increase 
 - The rate of return the investor can expect to earn from the investment if it is bought at the current market price. 
 	- Expected rate of return is equal to the annual divided divided by the preferred stock market price 
 	- r<sub>ps</sub> = D / P<sub>ps</sub>
+	- r<sub>ps</sub> = D / P<sub>ps</sub>
