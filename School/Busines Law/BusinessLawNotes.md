@@ -910,3 +910,218 @@ Claiming abandond real estate
 - FInancing statement: filed to perfect a security interest under Article 9  
 
 ## Nuisance and Zoning 
+- Public Nuisance: arises from use of land that causes inconvenience or damage to the public  
+- Private nuisance: unreasonable use of one's property to cause substantial interference with the use of another's land. 
+- Zoning Ordinances: laws that divide counties into use districts designated residential commercial or industrial. 
+
+## Duration limitations on property
+- **Patents and copyrights** are granted for limited times, some can be renewed.  
+- **Rule against perpetuities** limits amount of time you can control disposition over a property 
+    - Limits exercise of property over resources to a duration of lives in being plus twenty-one years.  
+    - Prevents an owner form controlling resources through many future generations 
+
+---
+### Inclass bonus Notes: 
+some countries fighting over treasure? London, Hungary and Lebonon 
+sliver items
+told they were coming from; 
+> *Provenance:* the chronology of the ownership, custody or location of historical object.  
+Guy who knew where silver originated was killed
+silver items were taken to new york for auction
+meuseam in LA attempted to curate the silver (from ancient rome) 
+
+**Time team special 34 - mystery of roman treasure**
+
+does the silver have legal provenance? 
+
+Legally exported from lebonon; there were a number of descrepeciens in export docs. docs were forged?! damn son
+no valid docs tracing ownership acusing americans of selling stolen goods 
+
+
+
+# Chapter 8 Contract formation
+
+basically making your own 'mini law' 
+unless contract directly violates the law, it will be upheld in court. 
+
+## Contracts
+- Promises  
+If you do 'A', I'll do 'B'
+I will work for you for $15/hr  
+    - Need to be enforcable. 
+    - Predictable consequences for performance failures (accountability) 
+- Enable buyers and sellers to: 
+    - account for future risks 
+    - have confidence in exhcanging valueables. 
+    - have confidence in what we are doing.   
+All promises are legal contracts?! Hell no! 
+
+## Sources of contract law
+- Legislation 
+    - Unifrom commercial code (UCC)
+    - contracts for goods
+- Common Law 
+    - Judicial decisions    
+        - contracts for goods 
+        - contracts for services. 
+
+## Classification of contracts 
+- Bilateral & Unilateral
+    - Bilateral
+        - Both parties have a duty to perform when contract is formed
+            - Paul's promise to deliver the laptop to Pearl
+            - Pearl's right to the computer
+            - Pearl promises to pay $1,000 
+            - Pauls right to the money
+    - Unilateral
+        - One party has duty to perform if contract is formed by performance. but the other party may elect not to perform
+            - Pat's promise to pay alex $1000 to perform at her birthday
+            - Pat's right to receive $1000 **IF** she performs 
+- Express and implied in fact 
+    - Express   
+        - Interactions in which parties discuss terms. 
+    - Implied-in-fact 
+        - conduct 
+- Implied-in-law & quasi-contracts
+    - Implied-in-law aka Quasi-contracts (court making contract after the fact)
+        - Judicial *remedy*
+            - Remedy available when no actual contract exists. 
+            - Goal: Prevent one party receiving *unjust enrichment*
+
+### Contract words to know: :
+- enforceable vs. unenforceable
+- void vs voidable
+- valid
+- Executed
+    - parties have perfomred their promises
+    - done. 
+- Executory
+    - Parties have yet to performan
+    - still in process
+
+## Requirements for enforceable contract
+- **offer** to enter into a contract. 
+- **acceptance** of the offer
+- **consideration** foreach promise 
+- **capacity** of each party to enter into a binding agreement. 
+- **legality** of subject matter 
+
+## Defenses to Enforcementj
+- Improper form when a writing is required. 
+- no true meeting of the minds due to fraud or mistake 
+- if it has to be in writing it's determind by the **statue of frauds** (not a satue and nothing to do with fraud)
+
+## Offer 
+> I am going to make him an offer he can't refuse  
+
+- Contains
+    - specific promise
+    - specific demand 
+- Intent - Offeror must intend to make the offer by making a commitment to the offeree 
+- Contractual terms
+    - definite and 
+    - specific
+
+## Offer termination 
+- Revocation (remove offer)
+- Rejection 
+- Counter offer
+- Lapse of time 
+- Subject matter destruction 
+- Offeror Death or insanity 
+- Subject matter ilegality 
+
+## Acceptance 
+- Necessary to craete a valid and enforceable contract
+    - bilateral contract: accepted when offeree has made the rquired promise 
+    - Unilateral contract: Accepted by performing a requested act 
+- Mirror image rule: to create a binding contract, accepteance must match the offer **exactly** 
+- Section 2-207 of the UCC 
+    - Expression of accepance or 
+    - written confirmation 
+- Silence 
+    - Does not imply accepance
+- **Mailbox rule**: Acceptance becomes legally binding when the offer deposits it with the postal service
+
+## Consideration 
+- Is: 
+    - Receipt of legal benefit or
+    - suffering of a legal detrement 
+- agreement to not sue 
+    - consideration to support a promise when reasonable grounds for a lawsuit exists 
+        - Accord and satisfaction: resolving a dispute over an amount owed by reaching a compromise 
+- Preexisting obligation 
+    - Party to an agreement does not give consideration by promising to do something that he or she is already obligated to do. 
+- Prior consideration 
+    - Performance made before the discussion of the agreement does not count. 
+- Promise to make a gift 
+    - Option: agreement to not revoke an offer for a certain period, supported by the offeree's consideration. 
+    - Promissory estoppel: doctorine arises when promisee relies on promisor's promise to his or her economic injury 
+
+## Capacity of Parties
+- Minors
+    - cannot be legally bound to contractual promises with exceptions for necessaries of life. 
+    - contract is voidable at the election of the minor 
+- Intoxicated / Incompetent
+    - contracts are voidable dependingon person's capability to understand the contract's nature and purpose. 
+
+## Lawful Purpose
+- Contracts are void if they: 
+    - Require commission of crime or tort 
+    - Violate accepted standards of behavior 
+- Contracts that restrain trade are illegal and void 
+###### Covenanats not to competete: Protects employers from having the employees they train leave them and compete against them. 
+
+
+## Another legit excuse
+
+## Other ways out 
+- Waiver: occurs when a party intentionally relinquishees a right to enforce a contract. 
+    - happens after a contracting party fails to perform 
+- Release: 
+
+## Breach of Contract 
+- Arises whena a party does not accomplish the obligation of the contractual performance. 
+- Remedies: 
+    - Damages award 
+        - Compensatory 
+        - Consequential 
+        - Liquidated 
+    - Equitable damages 
+        - specific performance
+        - Injunction 
+        - Rescission - such a mess, lets cut up the contract: think scissors 
+
+## Remedies for Breach of Contract
+- TODO: Import image from book. 
+
+## So there's another way out of a contract? 
+- Efficient Breach  
+
+
+# Chapter 9 Torts
+**Tort: Any civil wrong other than breach of contract**
+- Note: this is a civil misdead, so it's between private parties, usually this is not a crime but it very well can be. `ie: assault and battery` also remember that the burden of proof is much much lower than in criminal cases. 
+Torts law limits how people act and use their resources.  
+
+## Categories of Torts 
+- Intentional: intentionally performing a wrong against some one (ie I point a deadly weapon at someone)
+	- Intent: Desire to bring about certain results (does not have to be your planned results) 
+		- Results are substantially likely to result from an action. 
+	- Assault: placing another in immediate anxiety for his or her physical saftey. Note: no physical contact (could be pointing a gun at someone, threatening them)
+	- Battery: illegal touching of another (ie. stabbing someone, though just threatening with a knife is assault, stabbing is battery)
+		- Case 10.1 Assault & Battery *Harper vs. Winston County*
+			- Sandra Wright fired her employee, sherry harper. Harper sued wright claiming that assault and batter had been commited. THe court granted Summary judgement in favor of Wright. Is Harpers appeal that assault and batter has been commited valid? 
+			- `892 So.2d 346 (Ala. Sup. Ct. 2004)` Alabama supreme court.
+	- Infliction of Mental distress: battery to the emotions. 
+		- Arises from outrageous conduct that has a chance of causing mental distress in the victim
+	- Invastion of privacy: Comprises invasions of personal interest. 
+		- using another person's name or likeness for personal gain. 
+		- case 10.2 INvasion of Privacy Ehling v. Monmouth-ocean hospital service corp. 
+		- 872 F.Supp. 2d 369 (D. N.J. 2012)
+			- Deborah Ehling worked at monmouth-ocean hospital. Ehling did not invite any of her coworkers to be her facebook friends. Ehling filed lawsuit for invasion of privacy claiming that supervisors at MONOC accessed her facebook wall without consent. Does MONOC's actions imply invasion of privacy. 
+	- False imprisonment: intentional unjustified confinement of a nonconcenting person. 
+	- Malicious prosecution: Causing someone to be arrested criminally without proper grounds 
+	- Tresspass: entering another's land without consent or to remain there after being asked to leave. 
+- Negligent: Lack of caring (ie. slip and fall cases) 
+- Strict liability: reserved for inheriently dangerous items/objects (ie. keeping a pet tiger, should he escape and hurt someone you are strictly liable as the tiger is inheriently dangerous)
