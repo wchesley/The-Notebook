@@ -73,3 +73,6 @@ controllers have a rating, pilots might?
 only points have transponder, 
 anything beginning wiht plan is all pilots stuff
 only controllers has ATIS message. 
+
+name of babbs db: vatsim
+name of babbs collection: inquiry
