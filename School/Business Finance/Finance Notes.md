@@ -227,3 +227,17 @@ As previously noted, the primary goal of finance managers should be to increase 
 	- Expected rate of return is equal to the annual divided divided by the preferred stock market price 
 	- r<sub>ps</sub> = D / P<sub>ps</sub>
 	- r<sub>ps</sub> = D / P<sub>ps</sub>
+
+
+# Cost of Capital
+- The return a company needs in order to take on a capital project, such as purchasing new equipment or constructing a new building. 
+	- usually comprised of both equity and debt 
+	- returns should exceed costs of financing the project else investors will not see a return. 
+	
+- Early stage companies will typically choose equity financing because they typically lack the assets to put forth as collateral for debt financing. Less-established companies will pay a higher interest rate on financing because of a lack of financial history; investors will demand a higher risk-premium. 
+- The cost of debt is merely the interest rate paid by the company on its debt. However, since interest expense is tax-deductible, the debt is calculated on an after-tax basis as follows:
+	- Cost of Debt equals interest expense divided by Total Debt, then multiplied by 1 minus the company's marginal tax rate
+	- Cost of Debt =  Interest Expense / Total Debt \* (1 - T)
+	- Where: 
+		- Interest expense = Int. Paid on the firms current debt
+		- T = The company's marginal tax rate
