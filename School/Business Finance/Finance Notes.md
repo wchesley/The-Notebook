@@ -241,3 +241,15 @@ As previously noted, the primary goal of finance managers should be to increase 
 	- Where: 
 		- Interest expense = Int. Paid on the firms current debt
 		- T = The company's marginal tax rate
+		- ![Cost of Debt]()
+		
+## Finding the Cost of Equity: 
+- The cost of equity is approximated by the capital asset pricing model as follows: 
+![Capital Asset Pricing Model](https://github.com/wchesley/The-Notebook/blob/master/images/School/Capital%20Asset%20Pricing%20Model.png?raw=true)  
+
+- A *Beta* is used in CAPM formula to estimate risk. 
+	- public companies *Beta* woudl require a companies own stock *Beta*
+	- Private companies *Beta* is estimated based on the average beta of a group of similar, public firms. The assumption is that the privat company *Beta* would be the same as the industry average.  
+- A Firms overall cost of capital is based on the weighted average of these costs. Example: An enterprise with a capital structure consisting of 70% equity and 30% debt; it's cost of equity is 10% and after-tax cost of debt is 7%
+	- Weighted average of Cost of capital is: 
+	- (0.7 x 10%)+(0.3 x 7%) = 9.1%
