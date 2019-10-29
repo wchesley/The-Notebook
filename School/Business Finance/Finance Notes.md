@@ -241,7 +241,7 @@ As previously noted, the primary goal of finance managers should be to increase 
 	- Where: 
 		- Interest expense = Int. Paid on the firms current debt
 		- T = The company's marginal tax rate
-		- ![Cost of Debt]()
+		- ![Cost of Debt](https://github.com/wchesley/The-Notebook/blob/master/images/School/Cost%20of%20Debt.png?raw=true)
 		
 ## Finding the Cost of Equity: 
 - The cost of equity is approximated by the capital asset pricing model as follows: 
