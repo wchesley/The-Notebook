@@ -1118,10 +1118,41 @@ Torts law limits how people act and use their resources.
 	- Invastion of privacy: Comprises invasions of personal interest. 
 		- using another person's name or likeness for personal gain. 
 		- case 10.2 INvasion of Privacy Ehling v. Monmouth-ocean hospital service corp. 
-		- 872 F.Supp. 2d 369 (D. N.J. 2012)
+		- `872 F.Supp. 2d 369 (D. N.J. 2012)`
 			- Deborah Ehling worked at monmouth-ocean hospital. Ehling did not invite any of her coworkers to be her facebook friends. Ehling filed lawsuit for invasion of privacy claiming that supervisors at MONOC accessed her facebook wall without consent. Does MONOC's actions imply invasion of privacy. 
 	- False imprisonment: intentional unjustified confinement of a nonconcenting person. 
 	- Malicious prosecution: Causing someone to be arrested criminally without proper grounds 
 	- Tresspass: entering another's land without consent or to remain there after being asked to leave. 
 - Negligent: Lack of caring (ie. slip and fall cases) 
 - Strict liability: reserved for inheriently dangerous items/objects (ie. keeping a pet tiger, should he escape and hurt someone you are strictly liable as the tiger is inheriently dangerous)
+- Conversion: Wrongful exercise of dominion and control over a resource. (kinda linke stealing? but not really...) 
+	- persay someone rents a car; rental agreements explicitly states that the car can only be used withing the US. the Buff takes his rental car into mexico for a beer run. This is conversion as the contract specified that the car cannot leave the US. 
+- Defamation: Publication of untrue statements about another that hold up that individuals reputation to ridicule. 
+- Fraud: intentional misrepresentation of a material fact that is relied upon by someone to his or her injury. to have fraud, the wrong has to be intentional, ie you can't accidentally turn back your cars odometer. (That is a LIE! Sauromon has always been our friend AND ally)  
+
+## Interference with business relations 
+- Injurious falsehood: publication of untrue statements that disparage teh business owner's product or it's quality. (talkin shit business to business, lies about the business not the individual) 
+- intentional interference with contractual relations. (pro athletes experience this. ie opposing team bidding for player before contract is up)  
+	- Raiding another company for employees 
+	- Interfering with contract of merger of one company with another (companies may have bidding wars with another but if a contract is in place and signed, then no one can interfear) 
+	
+## Negligence 
+- Unreasonable behavior that causes injury. 
+- Elements: 
+	- Duty of care (employee sees spill and does nothing to clean it up or mark the spill) 
+	- Breach of Duty (bear saw the spill and did nothing, there we have a breach) 
+	- Causation in fact (Bear decided to not clear up spill, is that why the buff slipped and fell?)
+	- Proximate causation (how direct was this thing; bear didn't clean up spill, buff fell in it; fairly direct) 
+	- Acutal injury (Buff broke a leg!)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
