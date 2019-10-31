@@ -33,7 +33,7 @@ Class day before tests open will be used for review.
     
 ## Rule of Law 
 - Laws are generally and equally applicable. To all memebers of society  
-    > we like to believe lady justice is blind (TODO: Get picture)  
+    > we like to believe lady justice is blind ![Blind Lady Justice](https://github.com/wchesley/The-Notebook/blob/master/images/School/Lady%20Justice.jpg)  
 - Rule of law nations adopt laws supporting the private market. (argued Rule of law nations have higher GDP on average)  
 - Judges play a viatal role in maintaining the rule of law.   
 
@@ -240,7 +240,7 @@ Organizational code of ethics
     * Enforcement - consistency is key!  
 
 Individual values: Self Examination:  
-> TODO: Import image from pp  
+> ![Self Examination-Ethics](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh2ETHICS-Self_Examination.png) 
 Should I do it?
 * Is it right or wrong? 
 * WIll I be proud if they found out
@@ -341,7 +341,7 @@ Texas has seperate courts for criminal and civil courts.
     * Traffic courts: Traffic violations 
 
 Fig. 3.1 - State Court System
-TODO: Move over flow chart from PP 
+![State Court Sys](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
 #### *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
 
 ## Federal courts review: 
@@ -362,7 +362,7 @@ TODO: Move over flow chart from PP
 * no $$$ limits.  
 
 Fig. 3.2 Federal Court System
-TODO: Move over flowchart from PP / book 
+![Federal Court Sys](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh3CourtSystem-FederalCourtFlowChart.png)
 
 ## District courts
 * Trial courts of the federal system. 
@@ -370,7 +370,7 @@ TODO: Move over flowchart from PP / book
 * *Federal Rules of Civil Procedure:* Provide the details concerning procedures to be followed in federal court litigation. 
 
 ## Appellate courts
-TODO: Get Geographical boundries for Appellate courts. 
+~~TODO: Get Geographical boundries for Appellate courts.~~
 * 12 courts of appeal
 * Special court of appeals hears appeals from 
     * special courts. 
@@ -637,7 +637,8 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
 - Each judge prepares an opinion and circulates it among the other members. 
     - when a majority ... 
 
-#### TODO: Add Fig 4.4 - Appellate Review 
+## Appellate Review: 
+![Appellate Review](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh4Litigation-AppellateReview.png)
 
 ## Enforcement of judgments and decrees
 - Execution: 
@@ -689,7 +690,7 @@ VII. Commitment to the alternatives.
 - Effective use can save costs associated with litigation. 
 
 ## Fig. 5.1 Scale of dispute resolution systems. 
-> TODO: Add line graph from PowerPoint. 
+> ![Dispute Scale](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh5ADR-ScaleofDisputeSystems.png) 
 
 ## Arbitration
 - ADR system 
