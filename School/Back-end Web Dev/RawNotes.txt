@@ -76,3 +76,4 @@ only controllers has ATIS message.
 
 name of babbs db: vatsim
 name of babbs collection: inquiry
+name of babbs collection: inquiry
