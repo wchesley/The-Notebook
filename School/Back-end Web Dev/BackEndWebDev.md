@@ -76,3 +76,9 @@ controllers have a rating, pilots might?
 only points have transponder, 
 anything beginning wiht plan is all pilots stuff
 only controllers has ATIS message. 
+
+###### 11/11/2019
+
+Read chapter 9 and finish chapter 8 by wednesday. 
+Final project requires third party api?! wtf, whyyyyyyyyyy???? it's not needed in my case, using a third party api, to me is just replicating whats already been done. 
+I wanted to create an OG api, for my app and consume my data; why do I need another feature or API to tie into this?! 
