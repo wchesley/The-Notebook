@@ -1144,12 +1144,192 @@ Torts law limits how people act and use their resources.
 	- Causation in fact (Bear decided to not clear up spill, is that why the buff slipped and fell?)
 	- Proximate causation (how direct was this thing; bear didn't clean up spill, buff fell in it; fairly direct) 
 	- Acutal injury (Buff broke a leg!)
+
+###### Consumer protection: flashcards reccommended; not interesting stuffs, more than likely to be on homework and tests cause there's tons of laws and neuances
+## FTC Federal Trades Commission
+- Keeps competition free and fair, protects consumers. 
+	- Trade practice regulation, ensures fair competition
+	- provides **advisory opinion** (Can ask if what are you about to do is ok, Hey IRS can I do this with my taxes?)
+	- Issues industry guides. 
+		- specifies FTC's views of the legality of an industry's trade practices
+	- Prosecutes business for committing unfair or deceptive trades. 
+
+## TODO: add fig. 18.1, Consumer Protection Laws the FTC administers
+
+## FTC Penalties and Remedies
+- Civil fines at $16,000 per violations
+	- assesssed in situations for violation of: 
+		- consent or cease and desist order
+		- Trade regulation rule 
+		- Proir FTC orders against others. 
+- Remedies
+	- corrective advertising
+	- recission of contracts
+	- refund of money or return of property
+	- payment of damages to consumers 
+	- public notification of trade practice violations 
+## FTC Today
+- Mission and enforcement of Section 5 varies according to the economic orientation of the president and congress. 
+- allows the market to regulate advertising
+- determines what is deceptive or unfair, making new rules as needed. 
+
+## False Advertising - Determining Deception
+- Reasonable consumer and context
+	- Express and implied claims 
+	- Misimpressions
+	- Materiality 
 	
+## Consumer privacy - Limitations on Government Intrusions
+- Bill of Rights protections. 
+- Privacy act of 1974
+	- Places contraints on collection and usage of information by the federal government 
+- Right to Financial Privacy act of 1978
+	- Requires government agencies seeking depositor records from financial institutions to notify the depositors 
+
+## Business Privacy 
+- Common law privacy torts 
+	- Intrusion on seclusion 
+	- public disclosure of private facts
+- Example fo legislated privacy related to a specific consumer transaction
+	- HIPPA, my health records are private (Health insurance portability and accountability act) 
+	- Video privacy protection act (VPPA) 
 	
+## Election and online privacy protection 
+- Electronic Communications Privacy Act	
+	- Prevents the interception of electronic or wire communications by unauthorized people 
+- Stored Communications Act 
+	- Prohibits unauthorized access or disclosure of stored communications
+- Children's online privacy protection act 
+	- Prohibits the collection of information on children under the age of 13 without a parent's consent. 
+- FTC
+	- Scrutinize companies tha tmake affirmative promises about privacy. 
+
+## Case 18.1 - Electronic and Online Privacy 
+- CDA Communications Decency Act; 
+
+## International Privacy Protection
+- Data Proctection Directive: 
+	- Mandates that companies can collect personal information only with consent. 
+		- Information can be kept only until necessary, and transferred to third parites only with permission. 
+	- Agreed to a safe harbor framework with the U.S. 
+###### review discrimination and it's varrying levels for final exam!   
+
+## Equal Credit Opportunity Act (ECOA) 
+	- Prevents discrimination in credit extension 
+	- Prohibits: 
+		- Discrimination based on sex, marital status, race, color, age, religion, national origin, or receipt of wellfare .
+		- Discouraging a consumer from seeking credit based on the categories. 
+	- applies to **all business** that extend credit regularly. 
+	- Responsibilities of a credit extender. 
+		- Must consider alimony, child support and maintenance payments as income. 
+		- Information on accounts used by both spouses must be reported to third parties in their names. 
+		- must provide specific reasons for credit denial. 
+	- Remedies and Penalties: 
+		- Recovery of actual damages. 
+		- punitive damages up to $10,000
+		- attorney's fees and legal costs. 
 	
+## Fair credit reporting act (FCRA) 
+- Applies to anyone who prepares or uses a credit report in connection with: 
+	- Extending credit 
+	- Selling insurance 
+	- Hiring or firing an employee  
+- Consumer rights: 
+	- To be given the name of the agency making the report 
+	- To require the agency to reveal the information given in the report. 
+- ** investigative consumer reports** 
+	- minimum of three days of advance notice must be given to attain such a report. 
+- Credit reporting agencies must observe reasonable procedures, or they will be liable to consumer. 
+- Penalties and Remedies: 
+	- Violators are civilly liable to the injured consumer. 
+	- legal fees. 
 	
+## Fair and accurate credit transactions (FACT) 
+- Provides the right to dispute information on credit reports. 
+- Allows consumers to place fraud alerts on the report to notify creditors of identy theft. 
+- Permits consumer to get free credit report from national consumer reporting agencies. 
+
+## Truth-in-Lending Act: 
+- Covers transactions with: 
+	- Lender is in the business of extending credit
+	- Debtor is a natural person
+	- Finance charge can be imposed. 
+	- Credit is obtained for personal, family, household and agricultural purposes. 
+- Full disclosure can be accomoplished through: 
+	- Finance charge 
+	- Annual Percentage rate 
+- Financial statement should include: 
+	- Default or delinquency charges due to late payment
+	- Description of property used as security 
+	- Total amount to be financed 
+- Penalties and Remedies: 
+	- Civil liability provisions make creditors liable to debtors for: 
+		- Actual damages and an amount equal to twice the finance charge
+		- cost and attorny fees
+	- Debtors have the right to rescind or cancel certain transactions for a period of three business days. 
+	- allows consumer-borrowers to rescind their mortgage agreements. 
+- Trends
+	- Truth-in-Lending Simplification act (1980)
+		- Elimates statutory penalties based on technical violations of the act. 
+		- Requires the government to issue model disclosure forms 
+	- Studies show that many involved in credit extension fail to make required Truth-in-Lending disclosures in their advertising. 
+
+## Fair debt collection practices act: 
+- The collector cannot: 
+	- Physically threaten the debtor
+	- Use obscene language
+	- Represent himself/herself as an attorney unless it is true. 
+	- Threaten debtor with arrest or garnishment unless the collector can legally take such action and intends to do so. 
+	- Fail to disclose his/her identity as a collector. 
+	- telephone before 8am or 9pm in most instances. 
+	- Telephone repeatedly with intent to annoy 
+	- Place collect calls to the debtor 
+	- Use any 'unfair or unconscionable means' to collect debt. 
+
+## Consumer financial protection act
+- Created teh consumer financial protection bureau 
+	- authority overlaps with that of the Federal Trade Commission
+	- makes and enforces rules regulating unfair, deceptive or abusive acts toward consumers. 
+	- applies to: 
+		- Any covered person offering a 
+		
+## Bankruptcy
+- Not subject to regulatory enforcement
+- Proceedings 
+	- Filing of a voluntary or involuntary petition	
+	- Individual property can be: 
+		- **Liquidated** under chapter 7, debts are discharged
+		- **Adjusted** under chapter 13
+- **Trustee:** person elected by creditors to represent the debtor's estate 
+	- powers	
+		- affirm or disaffirm contracts with the debtor which are yet to be performed
+		- set aside fraudulent conveyances (hiding assests from creditors) 
+		- Void certain transfers of property by the debtor to creditors  
+		- Sue people who owe the debtor an obligation 
+		- set aside statutory liens against the debtor's property 
+- Table 18.4 Priority of Bankruptcy creditors 
+	- Spouse, formor spouse, child or guardian with claims for domestic support. 
+	- Creditors with claims that arise from the costs of preserving and administering the debtor's estate 
+	- Creditors with claims that occur in the ordinary course of the debtor's business after a bankruptcy peition has been filed. 
+	- Employees who are owed wages earned within 180 days of the bankruptcy petition (limited to $12,475 per employee) 
+	- 
+- Discharge 
+	- secures a debtor of further obligation to the creditor
+	- Debtor may fail to receive discharge if he or she has: 
+		- concealed property of falsified books of record 
+		- refuesed to obey court orders 
+		- failed to explain any losses of assets 
+		- been discharged within the prior six years 
 	
-	
+## Additional statues for consumer portection
+- fair credit bililng act 
+- electronic fund transfer act 
+- consumer product saftey act 
+- Magnuson-moss warranty act 
+- federal, food drug and cosmetic act 
+- labeling laws. 
+- state consumer protection 
+
 	
 	
 	
