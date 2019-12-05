@@ -65,4 +65,15 @@ You will submit the following:
     1. Your Express Project ZIPPED up and submitted here.
 
 
-5
+status.vatsim.org? - Babb's project
+define schema by clienttype - Pilot or Controller. 
+Some data points are only defined for pilots and not controllers. 
+some data points are shared by each clienttype. 
+controllers have a rating, pilots might? 
+only points have transponder, 
+anything beginning wiht plan is all pilots stuff
+only controllers has ATIS message. 
+
+name of babbs db: vatsim
+name of babbs collection: inquiry
+name of babbs collection: inquiry

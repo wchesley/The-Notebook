@@ -551,3 +551,77 @@ All promises are legal contracts?! Hell no!
     - specific
 
 ## Offer termination 
+- Revocation (remove offer)
+- Rejection 
+- Counter offer
+- Lapse of time 
+- Subject matter destruction 
+- Offeror Death or insanity 
+- Subject matter ilegality 
+
+## Acceptance 
+- Necessary to craete a valid and enforceable contract
+    - bilateral contract: accepted when offeree has made the rquired promise 
+    - Unilateral contract: Accepted by performing a requested act 
+- Mirror image rule: to create a binding contract, accepteance must match the offer **exactly** 
+- Section 2-207 of the UCC 
+    - Expression of accepance or 
+    - written confirmation 
+- Silence 
+    - Does not imply accepance
+- **Mailbox rule**: Acceptance becomes legally binding when the offer deposits it with the postal service
+
+## Consideration 
+- Is: 
+    - Receipt of legal benefit or
+    - suffering of a legal detrement 
+- agreement to not sue 
+    - consideration to support a promise when reasonable grounds for a lawsuit exists 
+        - Accord and satisfaction: resolving a dispute over an amount owed by reaching a compromise 
+- Preexisting obligation 
+    - Party to an agreement does not give consideration by promising to do something that he or she is already obligated to do. 
+- Prior consideration 
+    - Performance made before the discussion of the agreement does not count. 
+- Promise to make a gift 
+    - Option: agreement to not revoke an offer for a certain period, supported by the offeree's consideration. 
+    - Promissory estoppel: doctorine arises when promisee relies on promisor's promise to his or her economic injury 
+
+## Capacity of Parties
+- Minors
+    - cannot be legally bound to contractual promises with exceptions for necessaries of life. 
+    - contract is voidable at the election of the minor 
+- Intoxicated / Incompetent
+    - contracts are voidable dependingon person's capability to understand the contract's nature and purpose. 
+
+## Lawful Purpose
+- Contracts are void if they: 
+    - Require commission of crime or tort 
+    - Violate accepted standards of behavior 
+- Contracts that restrain trade are illegal and void 
+###### Covenanats not to competete: Protects employers from having the employees they train leave them and compete against them. 
+
+
+## Another legit excuse
+
+## Other ways out 
+- Waiver: occurs when a party intentionally relinquishees a right to enforce a contract. 
+    - happens after a contracting party fails to perform 
+- Release: 
+
+## Breach of Contract 
+- Arises whena a party does not accomplish the obligation of the contractual performance. 
+- Remedies: 
+    - Damages award 
+        - Compensatory 
+        - Consequential 
+        - Liquidated 
+    - Equitable damages 
+        - specific performance
+        - Injunction 
+        - Rescission - such a mess, lets cut up the contract: think scissors 
+
+## Remedies for Breach of Contract
+- TODO: Import image from book. 
+
+## So there's another way out of a contract? 
+- Efficient Breach 
