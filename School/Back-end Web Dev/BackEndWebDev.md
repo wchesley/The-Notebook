@@ -81,4 +81,70 @@ only controllers has ATIS message.
 
 Read chapter 9 and finish chapter 8 by wednesday. 
 Final project requires third party api?! wtf, whyyyyyyyyyy???? it's not needed in my case, using a third party api, to me is just replicating whats already been done. 
-I wanted to create an OG api, for my app and consume my data; why do I need another feature or API to tie into this?! 
+I wanted to create an OG api, for my app and consume my data; why do I need another feature or API to tie into this?!  
+
+## Random notes:
+###### To be ordered someday 
+
+Getting parameters from `get` request: 
+(ref here)[https://stackabuse.com/get-query-strings-and-parameters-in-express-js/]
+- **TLDR; it's on `req.query`**   
+
+If request was sent back as param in angulars httpclient it looks something like:  
+```javascript
+public getSavedRecipe(userID:any): Observable<any> {
+    console.log("requested ID:" + userID)
+    let params = new HttpParams().set('id', userID)
+    return this.httpClient.get('/api/UserRecipes', {params}).pipe(
+      map(res => res)
+    );
+  } 
+```
+Here is an example of a URL with query strings attached:
+
+`https://stackabuse.com/?page=2&limit=3`
+The query parameters are the actual key-value pairs like page and limit with values of 2 and 3, respectively.
+
+Now, let's move on to the first main purpose of this article - how to extract these from our Express request object.
+
+This is a pretty common use-case in Express, and any HTTP server, so hopefully the examples and explanation I show here are clear.
+
+Now, taking the same example from above:
+
+`https://stackabuse.com/?page=2&limit=3`
+We'd like to extract both the `page` and `limit` parameters so we know which articles to return to the page that the user requested. While query parameters are typically used in GET requests, it's still possible to see them in POST and DELETE requests, among others.
+
+Your query parameters can be retrieved from the query object on the request object sent to your route. It is in the form of an object in which you can directly access the query parameters you care about. In this case Express handles all of the URL parsing for you and exposes the retrieved parameters as this object.
+
+Let's take a look at an example of us getting query parameters in a route:
+```javascript
+const express = require('express');
+const bodyParser = require('body-parser');
+const url = require('url');
+const querystring = require('querystring');
+const Article = require('./models').Article;
+
+let app = express();
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+
+// Function to handle the root path
+app.get('/', async function(req, res) {
+
+    // Access the provided 'page' and 'limt' query parameters
+    let page = req.query.page;
+    let limit = req.query.limit;
+
+    let articles = await Article.findAll().paginate({page: page, limit: limit}).exec();
+
+    // Return the articles to the rendering engine
+    res.render('index', {
+        articles: articles
+    });
+});
+
+let server = app.listen(8080, function() {
+    console.log('Server is listening on port 8080')
+});
+```
+In the example above, we assume the page and limit parameters always exist. If neither of these parameters are given in the URL, we'd receive undefined for both page and limit instead.
