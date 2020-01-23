@@ -5,10 +5,12 @@
 	- essentially write views with code to create, read, update, delete objects defined in the models
 - docker deployment
 	- needs documentation
+	- test deployment
+		- postgres works
 	- need babbs docker file
 	- example docker file for postgres: 
 	```yaml
-	version: '3'
+	version: '3.7'
 
 	services:
 
