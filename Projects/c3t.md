@@ -8,7 +8,7 @@
 	- need babbs docker file
 	- example docker file for postgres: 
 	```yaml
-	version: '12'
+	version: '3'
 
 	services:
 
