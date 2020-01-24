@@ -18,7 +18,7 @@
       image: postgres
       restart: always
       environment:
-	    POSTGRES_USER
+	    POSTGRES_USER: wchesley
         POSTGRES_PASSWORD: example
 
 	adminer:
