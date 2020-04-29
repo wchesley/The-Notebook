@@ -87,7 +87,7 @@ I wanted to create an OG api, for my app and consume my data; why do I need anot
 ###### To be ordered someday 
 
 Getting parameters from `get` request: 
-(ref here)[https://stackabuse.com/get-query-strings-and-parameters-in-express-js/]
+[ref here](https://stackabuse.com/get-query-strings-and-parameters-in-express-js/)
 - **TLDR; it's on `req.query`**   
 
 If request was sent back as param in angulars httpclient it looks something like:  
