@@ -1,0 +1,3 @@
+# The Notebook
+Intended to serve as my online journal, throughout college and career, written in a conversationalist format for easier reading. This is a collection of my notes, pretty much anything interesting or challenging I come across I'll write down here for later reference.  
+I'm open to contributions or corrections if anything incorrect within this site. To make a change, please open a pull request [in the site repo](https://github.com/wchesley/The-Notebook)
