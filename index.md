@@ -4,10 +4,12 @@ Intended to serve as my online journal, throughout college and career, written i
 
 ### [Dotnet](Dotnet/index.md)
 - [General](DotNet/dotnet.md)
-- [Dotnet on Heroku](DotNet/DotNetOnHeroku.md)
+- [Dotnet on Heroku](DotNet/DotNetOnHeroku.md)  
+
 ### Python
-- [Otree Project](Python/Otree-Projec.md)
-### [React](React/react.md)
+- [Otree Project](Python/Otree-Projec.md)  
+
+### [React](React/React.md)  
 - [Create React App](React/Create-react-app.md)
 - [Environment Variables](React/env-variables.md)
 - [Props](React/props.md)
@@ -18,7 +20,7 @@ Intended to serve as my online journal, throughout college and career, written i
 
 [Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Running TODO: 
+###  Running TODO: 
 * Git
 * Python (otree specifically)
 * Heroku
