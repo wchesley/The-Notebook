@@ -3,6 +3,7 @@
 > 08/28/2019
 
 Book can be located [here](https://livebook.manning.com/book/getting-mean-with-mongo-express-angular-and-node/chapter-1)
+My final Project from this course: https://github.com/wchesley/RecipeMe 
 
 ## Getting MEAN Chapter 01
 
