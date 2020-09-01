@@ -1,4 +1,301 @@
-# Chapter 7 Finance: The Valuation and Characteristics of Bonds
+# Business Finance WTAMU FIN-3320 
+### Summary: 
+ Course efforts are directed toward understanding basic concepts and analytical techniques appropriate to financial management. The course relies upon an interactive lecture/problem-solving/peer-to-peer learning format. The subject matter is central to the successful management of any firm and future courses presume a strong grasp of this subject. Financial management represents the process of planning for, acquiring, and allocating funds by a business enterprise. This process involves several decision-making tools, including the time value of money, financial statement analysis and financial forecasting, working capital management, pricing various types of risk facing the firm, asset and project valuation, and determination of the firm’s optimal capital structure.  
+
+ Book: Foundations of Finance 9th ed. 
+ Authors: Keown, Martin, Petty
+ Publisher: Pearson
+
+---
+
+## Chapter 1: An Introduction to the foundations of Financial Management
+
+### The Goal of the Firm: 
+The fundamental goal of the firm is to create value for the owners, more commonly stated as 'maxamizing shareholders wealth'.   
+- This is chosen because **all** financial descisions affect the firms stock price.
+
+### The five principles that form the foundations of finance: 
+
+#### 1. Cash Flow is what Matters
+Cash flow represents money that can be spent and is different from profits. A firm can have negative profits but high cashflows, ie. Hollywood movies typically turn zero profits but have hight cashflows. 
+Marginal, or incremental cash flows must also be taken into account, ie. Disney's movie frozen was successful not only from the film but other IP materials as well (toys, games and other movie related merch)
+
+#### 2. Money has a Time Value
+All money has a time value, for example, a dollar received today has more value than one received next year. We can invest the dollar today to accrue interest over the year, leading to a value of more than one dollar. 
+**Opportunity cost:** _The highest-valued alternative that you had to give up when you made the choice_ 
+Firms will use the concept of 'The Time Value of Money' to determine if a project should be accepted. 
+
+#### 3. Risk Requires Reward
+Investors will demand a reward for a risk being taken, the greater the risk, the greater the projected reward. Typically they will want a return that satisfies two requirements: 
+- *A return for delaying consumption* Why would anyone make an investment if it returned nothing, even if there was no risk it would still be a foolish investment. 
+- *An additional return for taking on risk* Investors don't typically like risks, thus risky investments are less attractive unless they are offering a greater reward. 
+
+#### 4. Market Prices are Generally Right
+*efficient market* is one in which the prices of hte assets traded in that market fully reflect all available information at any instant in time. Whether a market is effecient depends on the speed with wwhich newly released information is impounded into the prices. Profit driven investors in an efficeint market will act quicky to buy or sell stocks based on this new information. 
+Stock prices are typically a good barometer on the value of a firm. 
+- Naturally the real world is  never perfect, just look at the recession of 2008-2009 and the housing markets collapse. This isnt' an exact science, behavorial finance is still very much a work in progress, Robert Shiller once said, "*People think they know more than they do*" this over confidance can lead to people taking on more risks than they should, and this behavorial impact goes beyond just the stock market to analyzing new projects to forcast future cash flows for a firm. 
+
+#### 5. Conflicts of Interest cause Agency Problems
+Sometimes managers make decisions that are not in the best interest of the firm, rather in the own managers best interests. Conflicts of interest lead to *Agency Problems* which result from the seperation fo the management and ownership of the firm. Managers might not take on projects that have high return rates and low chance of failure becuase if the project fails the manager could lose their job. Agency problems contributed to the 2008-2009 financial crisis, brokers would create mortgages then sell them to someone else, since they only created the morgage they were not concerned with it's quality. These costs can be difficult to measure in the markets. The root of these problems is conflics of interest, for example: in 200 Edgerrin James was a running back for the Indianapolis Colts, and was told by his coach to run a first down then fall down. That way the Colts wouldn't be accused of running up the score on a team they were already beating really bad. Edgerrin had incentive payments accociated with number of yards ran and touchdowns, so instead of listening to his coach, Edgerrin acted in his own self interest and ran a touchdown on the next play. 
+Managers can be monitored to avoid agency problems, typically by rating agencies and by auditing financial statements, compensation packages may also be used to allign managers views with shareholders. 
+
+### The Essential Elements of Ethics and Trust
+Not technically one fo the five principles, but without ethics and trust, nothing works. Virtually everything we do involves some dependence on others. In fact the 2008-2009 financial crisis was cause by a lack of ethics in the housing industry. 
+Ethics has no clear cut definition, most people view it as "doing what's right" but everyone's view on what is right is radically different. This varies even more when working internationally. 
+Ultimatly, unethical behavior destroys trust and business cannot operate without trust. 
+
+### The role of finance in business
+- What long-term investments should the firm undertake? this is typically referred to as **Capital Budgeting**
+- How should the firm raise money to fund these investments? The firms funding choices are generally referred to as **capital structure decisions** 
+- How can the firm best manage its cash flows as they arise in its day to day operations? This area of finance is generally referred to as **Working Capital Management** 
+
+Why Study Finance? *Although finanace is primarilyh about the management of money, a key component of finance is the management of information* 
+
+### The Legal Forms of Business ORganization
+
+#### 1. Sole Proprietorships
+A sole proprietorship is a *business owned by an individual* The owner retains the title to the business's assets and is responsible, generally wihtout limit, the the liabilities incurred by the business. Typically there is no legal requirement to be met in starting operation, particularly if hte proprietor is conductino the business in his or her own name. 
+
+#### 2. Partnerships
+A partnership is *an association of two or more persons coming together as co-owners for the purpose of operationg a business for profit* Partnerships typically fall into two types: 
+- **General Partnerships:** in a general partnership each partner is fully responsible for all liabilities incurred by the partnership. The relationship amung partners is dictated entirely by the partnership agreement which may be an oral commitment or a formal document. 
+- **Limited Partnerships:** In addition to general partnerships many states allow for Limited partnerships, the State statutes permit *one or more of the partners to have limited liability, restricted to the amount of capital invested in the partnership*. There are a few conditions, at least one general partner must have unlimited liabilty and secondly the names of the limited partners amy not appear in the name of the firm, Lastly limited partners may not participate in the management of the business. 
+
+#### 3. Corporations
+Corporations are defined as: *An artificial being, invisible intangible and existing only in the contemplation of the law* (Taken from *The Trustees of Dartmouth College v. Woodard*, 3 Wheaton 636 (1819)). As such corporations act as a legal individual, they can sue, be sued, purchase, sell and own property and it's personell are subject ot criminal punishment for crimes. Ownership is reflected in common stock certificates, each designationg the number of shares owned by it's holder. The number of shares owned relative to the number of shares outstanding determines the stockholders proportionate ownership in the business. The shareholders liabilty is confined to the amount of investment in the company. 
+- **Double taxation on corporations** Corporations are double taxed; this occurs when a corporation earns a profit, pays taxes on those profits (first taxation) then pays some of those profits back to shareholders, where the shareholders pay personal income tax on those dividends (Second taxation). Currently taxation on dividends is capped at 20%, moreover if your personal income puts you in the 10-15% income rate bracket, you don't pay any tax on dividend income, and if you are in the 25-35% income bracket, you pay 15% on qualified dividends. 
+
+#### 4. S-Corporations and Limited Liability Companies (LLC)
+Double taxation provides a huge hurdle for entrepreneurs and small business owners looking to expand. Fortunatly the government has recognized the problem and has provided solutions: 
+- **S-Corporation:** Provides limited liability while allowing the business's owners to be taxed as if they were a partnership. That is distributions back to the owners are not taxed twice as is the case with a corporation. There are several restrictions (not listed in the book) that make this form of business less desriable, mostly it is used as joint ventures between two corporations. 
+- **Limited Liability Companies (LLC):** A cross between a partnership and a corporation. just as with the S-Corp, LLC retains limited liabilty for its owners, but it runs and is taxed like a partnership. In General it provides more flexability than an S-Corp. LLC's operate under state and IRS laws, state laws vary between states. Bottom line is that an LLC must not look to much like a corporation else it'll be taxed like one. 
+
+---
+## Chapter 2 The Financial Markets and Interest Rates
+- Capital Markets: *All the finanaical institutions that help a business raise long-term capital* (Long term meaning) greater than 1 year
+This section will focus on how business's go to raise money in the capital markets and helps to understand how capital markets work. 
+
+### Financing of Business: The Movement of Funds through the Economy
+In a healthy economy, funds are in constant motion, funds are moving from savings-surplus units into the hands of business's and people who need more money than they currently have. Say Bob & Melinda want to buy a $240K house but only have $50K saved up, where will the extra money come from? **Savings-Surplus units**, or those who spend less than they take in. These can be people or institutions such as banks and governments. 
+#### How the Money Moves
+- Direct Transfer of funds
+	- Firms seeking cash sell securities directly to investors
+	- **Angle Investor** Wealthy private investor, typically gives funds with no promise of a return. 
+	- **Venture Capitalist** is a private equity investor that provides capital to companies exhibiting high growth potential in exchange for an equity stake.
+- Indirect transfer using an investment firm
+	- An investment-banking firm is a financial institution that helps companies raise capital, trades in securitites, and provides advice on transactions such as mergers and acquisitions. 
+	- An investment-bank will buy all securities a firm wishes to sell, then resell them at a higher price to investors. 
+	- The security is just being resold by the investment-bank, nothing changes about the security. 
+- Indirect Transfer using a Financial Intermediary
+	- Life insurance, mutual funds, and pension funds operate this way
+	- Financial Intermediary will collect the savings of individuals and issue it's own (indirect) securities in exchange. The financial intermediary will then use the savings of these individuals to acquire other firms direct securities such as stocks and bonds. 
+A good financial system is one that moves money from savers and into the hands of those who can best put that money to use.
+
+### Public Offerings Vs. Private Placement
+- Public offering: Both individuals and institutional investors will have an opportunity to purchase the securities. 
+- Private Placement: Securities are offered and sold directly to a limited number of investors. 
+
+### Primary Markest Vs. Secondary Markets
+- Primary market: a market in which new, as opposed to previously issued, securities are traded. 
+	- This happens when a company issues a new batch of stock
+	- IPO: Initial Public Offering: The first time a company issues stocks to the public. 
+	- SEO: Seasoned Equity Offering: The sale of additional shares by a company whose shares are already publicily traded. 
+- Secondary Market: Where currently outstanding securities are traded (think used car market) 
+	- If an individual bought stock in Google, then desired to sell said stock, he/she would sell in a secondary market. 
+Both Primary and Secondary markets are regulated by the Securities and Exchange Commission (SEC)
+
+### The Money Market Vs. The Capital Market
+- Money markets are transactions in short term debt, maturitiy periods of less than one year. 
+- Capital Markets are transactions in long-term debt, maturity periods of greather than one year
+
+### Spot Markets Vs. Futures Markets
+- Spot Markets: Aka Cash Markets, where something sells on the spot, today.
+- Futures Markets: market where you can buy or sell something at a future date
+	- in effect: you sign a contract stating what you're buying, how much, at what price and at which date.  
+
+Biggest difference in these two markets is when it is delivered and when you pay for it
+
+### Stock Exchanges: Organized Security Exchanges Vs. Over-the-Counter Markets
+With the advance of technology, the difference between these two markets has blurred significantly. The most basic difference is that Organized Security Exchanges occupy physical space, there is a building you can go to (wall street) and financial instruments are traded on premesis. Over-the-Counter markets are any financial markets that aren't Organized Security Exchanges. 
+
+- New York Stock Exchange (NYSE) Also called the "Big Board" and is the oldest of all the organized exchanges. Though today NYSE is technically a hybrid-market, it occupies physical space but it's offerings are traded nation-wide. 
+- NASDAQ: Computerized over-the-counter market, most firms don't meet the requirements of an organized exchange or simply would rather be listed wiht NASDAQ. The system offers over 5,000 over-the-counter stocks and also facilitates trades by matching up buyers and sellers. 
+#### Stock Exchange Benefits
+- Providing an continouse market: argueably the most important function of the stock exchanges. This provides a series of continous prices as prices change from trade to trade and tend to be smaller than they would be in the absence of an organized market. 
+- Establishing and Publicizing Fair Security Prices: Organized Exchanges permits security prices to be set by competitive forces rather than negotiations on the trade floor where one party might have a barganing advantage. Security Prices are set by supply and demand and are widely publicized. 
+- Helping Business Raise new Capital: Because a continouse secondary market exists, it is easier for firms to float, or issue new security offerings at competitively determined prices. The means that the comparitive values of securities offered in these secondary markets are easily observed. 
+
+### Selling Securities to the Public  
+Most corporations do not raise long-term capital frequently. Most will seek aid from an investment banker serving as an underwriter that sells the stocks and bonds on a primary market. **Underwriting** process involves the purchase and subsequent resale of a new security issue. There is inherient risk in selling new securities *the difference between the price the corporation gets and the public offering price* is called the **Underwriters Spread** 
+
+#### Functions
+**Syndicate:** Group of investment-bankers
+The investment banker performs 3 basic functions: 
+- **Underwriting**: term is borrowed from the insurance industry, means *to assume risk* as the investment banker assumes the risk of selling the securities on the public market at a satisfactory price. 
+	- On a given day, the firm will be presented with a check from the investment-bank and in exchange the bank receives the batch of securities. Now the firm already has the cash it needs and is immune should the price of those securities fall. The bank hopes the opposite will happen (naturally) and hopes the value of the securities will rise so they can sell them at greater profit than expected. 
+
+- **Distributing**: Once the Syndicate owns the new securites it must get them into the hands of the investors. The investment banker may have brances all over the US or may make prior arrangements with several security dealers who regularly buy portions of each new offering for the final sale. It is not uncommon to have 300-400 dealers involved in the selling effort. 
+- **Advising**: The investment banker is an expert in the issuance and marketing of securities, the banker can analyze a firm's capital structure and make recommendations about what general source of capital should be issued. 
+
+### Distribution Methods
+- **Negotiated Purchase:** For a firm that needs funds a method is negotiated with the investment banker for determining the price the syndicate will pay for the securities. EX: An investment banker agrees to pay $2 less than the closing price of stock the day before the issuance of new securities. 
+- **Competitive Bid Purchase:** Several underwriting groups will place a bid on the newly issued securities and the highest bidder will be selected. The firm doesn't directly chose the syndicate. Most competitve bid purchases are confined to 3 situations: 
+	1. Railroad issues
+	2. Public utility issues
+	3. State and municipal bond issues
+- **Commission or Best-Effort Basis:** Investment-banker acts as an agent rather than as a principal in the distribution process. Securities are **not** underwritten rather the investment-banker sells the securities in exchange for a fixed commission on each security sold. Unsold securities are then returned to the firm. 
+- **Privileged Subscription:** When a new issue is marketed to a definate and select gorup of investors it is called a privileged subscription, these rights are also called *rights offerings*. Sometimes there is a *standby agreement* where the investment bank will not underwrite securites sold to the privileged investors. Three target markets are typically involved: 
+	1. Current Stockholders
+	2. Employees
+	3. Customers of the Firm
+- **Dutch Auction:** Investors first bid on the number of securities to purchase and the price they are willing to pay for them. Once all bids are in, the prices that were bid along with the number of shares are ranked from the highest price to the lowest. the selling price of the stock is then calculated as the highest price that allows for all the stock to be sold. 
+- **Direct Sale:** The issuing firm sells the securities directly to the investing public without involving an investment banker. Though, even amungst seasoned firms, this process is relativley rare. 
+
+### Private Debt Placement
+This focuses on debt issuance rather than stock offerings. This debt side of the private placement markets makes up a significant protion of the total private market. The major investors in private placements are large financial institutions. Based on volume of securities purchased, the 3 most important investor groups are:  
+1. Life insurance compaines
+2. State and local retirement funds
+3. Private pension funds  
+
+Private placements have advantages and disadvantages when compared to public offerings: 
+#### Advantages: 
+- Speed: Firms typically obtain funds faster through private placement becuase registration with the SEC is not required. 
+- Reduced Costs: Savings result because the lengthy registration statement with the SEC doesn't have to be prepared. 
+- Financing Flexibility: in private placement the firm deals on a face-to-face basis with a small number of investors, allowing them to tailor the terms of the issue to better suit the firms needs. 
+
+#### Disadvantages: 
+- Interest Cost: It is generally conceded that the interest cost on private placements exceed those of public issuance. 
+- Restricitive Covenants: A firms dividend policy, working capital levels and the raising of additional debt may all be affected by provisions in the private placement debt contract. There can be restrictions placed on public debt issuances as well. But the restrictions can be especially burdensome in private contracts. 
+- The Possibility of Future SEC Registration: If the lender(investor) should decide to sell the issue to a public buyer before maturity, the issue must be registered with the SEC. 
+
+### Flotation Costs
+2 Types of Flotation cost incurred: 
+1. The underwriters spread 
+	- greater of the two, cost wise, simply the difference in what the investment bank paid for the securities and what they sold them for. 
+2. Issuing costs
+	1. printing and engraving of the security certificates
+	2. legal fees
+	3. accounting fees
+	4. trustee fees
+	5. several other miscellaneous components
+	- Two most significant costs are Printing and engraving, then legal fees. 
+
+Data published by the SEC have consistently revealed two relationships about flotation costs: 
+1. The costs associated with issuing common stock are noteable higher than than preffered placement
+2. The flotation costs (expressed as a percentage of gross proceeds) decrease as the size of the security issue increases. 
+
+### The Sarbanes-Oxley Act: Regulation Aimed at Making the Goal of the Firm Work
+Due to increased concerns about both agency and ethical issues congress pased the Sarbanes-Oxley (SOX) act in 2002, a primary driver for this law was the failing of Enron in December 2001. SOX holds corporate advisors who have access to or influence on company decisions (accountants, lawyers, company officers and board of directors) legally accountable for any instances of misconduct. Opinions on the law are mixed, despite having recieved praise from the former Federal Reserve Chair Alan Greenspan and has increased investor confidence in financial reporting. The demanding reproting requirements are quite costly and as a result may inhibit firms form listing on US Stock markets. 
+
+### Rates of Return in the Financial Markets
+**Opportunity cost of funds** The rate of return on the next best investment alternative to the saver. 
+
+### Rates of Return over Long Periods 
+Common stocks have more risk than long-term corporate bonds, typically the annual return on stock is 10.1% 
+**Inflation-risk premium:** The investor who earns only the rate of inflation ahs earned "no real return". That is the *real* return is the return earned aboute the rate of increase in the general price level for goods and services in the economy, which is the inflation rate. 
+>TODO: Add Figure 2.3 from book, pg.35
+
+### Interest Rate Levels in Recent Periods
+>TODO: Add Table 2-2 and Figure 2.4 from book, pg. 36
+In the graph/Table we can observe: 
+1. Inflation-Risk Premium
+2. The default-risk premium across several instruments
+3. the approximate real return for each investment
+
+Investors requrie a *nominal rate of interest* that exceed the inflation rate else their realized real return will be negative. The **Default-Risk premium* is described in both figures..also evident here:  
+| **Security** | **Average Yield** |
+|---|---|
+|30yr Treasur Bonds | 5.49% |
+30yr AAA Corproate Bonds | 6.35% | 
+
+The preceeding array of numbers can also used ot identify another factor that affects interest rate levels. The **Maturity-Risk Premium** *the additional return requried by investors in longer-term securities (bonds in this case) to compensate them for the greater risk of price fluctuations on those securities caused by interest rate changes*   
+One other type of risk premium that helps determine interest rate levesl is the **Liquidity-Risk Premium** *the additional return requried by investors in securities that cannot be quickly convereted into cash at a reasonable price* For example: The stock of a local bank will be less liquid than that of Wells Fargo. 
+
+### Interest Rate Determinants in a Nutshell
+Utalizing the logic from **Principle 3: Risk Requires Reward** we can deconstruck the interest rate paid on a asecurity into a simple equation with the nominal interest rate equal to the sum of trhe real risk-free interest rate plus compensation for taking on several different types fo resk and several risk-premiums. **Real risk-free interest rate** *the required rate of return on a fixed-income security that has no risk in an economic environment that has zero inflation* 
+
+#### Nominal interest rate = real risk-free interest rate + inflation premium + default risk premium + maturity-risk premium + liquidity-risk premium 
+WHERE: 
+- Nominal interest rate = The quoted interest rate and is the interes rate paid on debt securities without an adjustment for any loss in purchasing power. 
+- Real risk-free interest rate = The interest rate on a fixed-income security that has no risk in an economic environment of zero inflation. It can also be stated as the nominal interest rate less the infaltion, default risk, maturity risk and liquididty risk premiums
+- Infaltion Premium = A premium to compensate for anticipated inflation that is equal to the price change expected to occur over the life of the bond or investment instrument. 
+- Default-Risk Premium = The additional rate of return requried by investors to compensate for the risk of default. It is calcualted as the difference in rates between a US Treasury bond and a corporate bond of the same maturity and market ability. 
+- Maturity-Risk Premium = The additional return requried by investors in longer-term securities to compensate them for the greater risk of price fluctuation on those securities caused by interest rate changes. 
+- Liquidity-Risk Premium = THe additional rate of return requried by investors for securities that cannot be exchanged quickly for cash at a reasonable price. 
+
+### Estimating Specififc Interest Rates Using Risk Premiums
+By using knowledge of various risk-premiums as contained in the above equation, a financial manager can generate useful information for the firms financial planning process. It is possible for the financial manager to estimate and better understand what interest rate (yield) would satisfy the market to help ensure that the bonds are actually bought by investors 
+
+### Real Risk-Free Interest Rate and the Risk-Free Interest Rate
+The difference between the two is that the risk-free interest rate includes compensation for inflation, where as the real risk-free interest rate is the risk-free rate *after* inflation. 
+- Risk-free interest rate = real risk-free interest rate + inflation premium
+- Real risk-free interest rate = risk-free interest rate - inflation premium
+
+Furthermore the term *risk-free* indicates there is no compensation for default-risk, maturity-risk, and liquidity-risk premiums. That is, it is the return if there were no risk and no inflation. 
+
+### Real and Nominal Interest Rates
+Nominal interes is the observed rate, the nominal rate of interest tells you how much money you'll earn in interest. 
+**Real rate of Interest** is *the rate of increase in your actual purchasing power, after adjusting for inflation.* NOTE: the real rate of interest is not a risk-free rate, it includes both the real risk-free rate of interest along with compensation for the default-risk, maturity-risk and liquidity-risk premiums. Nominal interest is calcualted as follows: 
+- Nominal interest rate ≈ Real rate of interest + inflation Premium
+	- This equation says that the nominal rate of interest is aproximatly equal to the real interest rate plus  the infaltion premium and proviedes a quick and *approximate* way of estimating the real rate of interest by solving directly for this rate. 
+
+### Inflation and Real Rates of Return: The Financial Analyst's Approach
+- Nominal interest rate - inflation rate ≈ real interest rate
+
+Concept is straight forward algebraic adaptation of the previously stated equation but it's implementation requries that several judgements be made. Suppose we want to use this relationship to determin the real risk-free interest rate. Which interest rate series and maturity period should be used? Suppose we settle for using some US Treasury security as a surrogate for nominal risk-free interest rate. then, should we use the yield on 3 month US Treasury bills or, perhaps the yield on 30 year Treasury Bonds? There is no absolute answer.  
+Example:  
+Suppose that an analysit wants to estimate the approximate real interest rate on: 
+1. 3 month Treasury bills
+2. 30 year Treasury bonds
+3. 30 year AAA Corporate bonds  
+All from the 1990-2014 time frame, furthermore the annual rate of change in the consumer price index is considdered a logical measure of past inflation experience.  
+Data:
+
+| **Security** | **Mean Nominal Yield (%)** | **Mean Inflation Rate (%)** | **Inferred Real Rate (%)** |
+|---           |---                         |---                          |---                         |
+| 3 Month Treasury Bills | 3.04 | 2.64 | 0.40 |
+| 30 Year Treasury Bonds | 5.49 | 2.64 | 2.85 | 
+| 30 Year AAA Corproate Bonds | 6.35 | 2.64 | 3.71 | 
+
+Notice that the mean yield and inflation rate over 25 years from 1990 - 2014 on all three classes of securities has been used. The last column provides the approximation for the real interest rate on each of class of security. 
+
+### The Term Structure of Interest Rates 
+**Term Structure of interest rate** Or the **Yield curve** is defined as *the relationship between a debt security's rate of return and the length of time until the debt matures* For this relationship to be useful to us all the factors, other than maturity must remain constant. Thus the *Term structure reflects observed rates or yields on similar securities, except for the length of time until maturity, at a particular moment in time* 
+
+### Shifts in the Term Structures of Interest Rates
+The term structure of interest rates changes over time as expectations change
+
+### What Explains the Shape of the Term Structure? 
+1. The unbiased expectations theory
+	- *the term structure is determined by an investor's expectations about future interest rates.* Lets say we have $10k to invest in two different government securities, one matures in 2 years at a 9% interest rate and the other matures in 1 year at an 8% rate, we're investing the $10K for 2 years so we'll buy the 1 year security twice. Lets compare them: 
+
+	| 2 year Security | | 
+	| ---| ---|  
+	| Principal Amount | $10,000 |
+	| Plus 1 year interest (0.09 * 10,000) | 900 |
+	| Principal plus interst at the end of year 1 | $10,900 | 
+	| Plus year 2 interest (0.09 /010,900 | 981 | 
+	| Principal plus interest at the end of year 2 | $11,881 | 
+
+	- If we go the 1 year route, we cannot determine next years interest rate, however we can calculate the rate needed to give us the same 2-year total savings. 
+
+	| 1 Year Security | | 
+	| --- | --- | 
+	| Savings needed in 2 years | $11,881 | 
+	| Savings at the end of year 1 [$10,000(1 + 0.08)] | $10,800 |
+	| Interest need in year 2 | $1,081 | 
+
+	- For us to receive the $1,081 in teh second year we'd need aprox 10% return rate. 
+		- Interst received in year 2 / Investment made at beginnign of year 2 = 1081 / 10800 == 10.0093%
+
+2. The liquidity preference theory
+	- In investing our $10K as we did above we did not care about the associated risks, these were govt securities afterall. Supposed we were ok with a little risk and sought out a security with .5% additional interest. This is the *risk premium* the additional interest earned for assuming more risk. According to **liquidity preferenc theory** *investors requrie maturity-risk premiums to compensate them for buying securities that expose them to the risks of fluctuationg interest rates* 
+
+3. The market segmentation theory
+The market segmentation theory of term structure of interest rates is built on the notion that legal restrictiosn and personal preferences limit choices for investors of certain rages of maturities. At an extreme the market segmentation theory implies that *the rate of interest for a particular maturity is determined soley by demand and supply for a given maturity and that it is independent of hte demand and supply for securities having different maturities*
+
+---
+## Chapter 7 Finance: The Valuation and Characteristics of Bonds
 ### Table of Contents: 
 1. Types of Bonds
 2. Terminology and Characteristics of Bonds
