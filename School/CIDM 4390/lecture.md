@@ -4,17 +4,20 @@
 ABET CAC
 BBA/CIS accreditation  
 WT has been accreidted for 8 years, renewed once.   
-essentially our program will be a way to track abet accreditation criteria at WT. More detailed doc to be posted after the meeting.   There is a pre-existing system, but to not be as biased we (as a class) might not see it.   
+essentially our program will be a way to track abet accreditation criteria at WT. ~~More detailed doc to be posted after the meeting.~~ Posted in the docs folder of project repo.  
+ There is a pre-existing system, but to not be as biased we (as a class) might not see it.   
 Instructors file the abet reports? details about students performance. There is an annual assessment and evaluation retreat at the end of spring where instructors compile all the data.   
 might have to do document storage. (manually add meta data, could attempt auto-extract?)
 it's needed at least yearly.   
-embedded rich text editor? has to be an asp.net library for that.   
-WT's current system: pars.cis.wtamu.edu  
+embedded rich text editor? ~~has to be an asp.net library for that.~~ [there is a few available](https://visualstudiomagazine.com/articles/2016/01/01/8-rich-text-editors.aspx)  
+WT's current system: pars.cis.wtamu.edu (Not externally accessable, assuming it's only on WT's LAN and only available to instructors)  
 instructors proof for assessment results need to be submitted as well, essentially we need to see the work on how they graded students, how they arrived at that grade, ect...   
 There is direct and indirect observations gathered from interactions with students.   
 Section for reflection and afterthoughts of the class from instructors viewpoint.   
 Lastly proposed actions for course improvement, instructors might list their thoughts on how they could improve the course next time. based on their own reflection and own analysis of the data.   
 part taking in measurments, part reporting   
+We will need to map Student Objectives (from ABET?) to the Course Learning Outcomes wich are set by WTAMU  
+We can glimpse the current WTAMU system, in the apendix section of the CIDM ABET Assessment and Continuous Improvement Process Quick Guide in the docs folder.
 ## SCRUM Expectations
 we have to build something and deploy it, customer needs their own version persay.   
 <img src="../../images/School/rubin_scrum.png">
