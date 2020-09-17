@@ -20,7 +20,7 @@ We will need to map Student Objectives (from ABET?) to the Course Learning Outco
 We can glimpse the current WTAMU system, in the apendix section of the CIDM ABET Assessment and Continuous Improvement Process Quick Guide in the docs folder.
 ## SCRUM Expectations
 we have to build something and deploy it, customer needs their own version persay.   
-<img src="../../images/School/rubin_scrum.png">
+<img src="../../images/School/rubin_scrum.png">5
 
 the above image arguably best represents the software development lifecycle according to scrum. client has an idea, gives his idea to developers who write out the features list (work log or backlog) and start developing features in sprints. Sprints are reviewed for effectiveness and effiency, was all of the work for the selected feature completed? if not we need to figure out what went wrong and attempt to fix it. typically there are daily scrum meetings. (as a class we'll meet 3-4 times a week, 4 preferably). Scrum master typically comes from dev team, sometimes it's from product owner. 
 - product backlog is a list of features to be developed.
@@ -37,3 +37,15 @@ gherkin notation?
 T-Shaped skill: 
 - broad skills and deep skills.  
 <img src="../../images/School/t-shapedskills.png">
+
+## 09/16/2020 Lecture:   
+need to get sprint zero done, user stories ect...  
+have to migrate to Jira
+have to get adam in meeting.  
+2 meetings
+one with adam one with babb
+product backlogg in jira
+have some user stories...  
+determine roles within team.   
+
+
