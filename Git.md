@@ -35,3 +35,12 @@ For more info:
 - [code.likeagirl.io](https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b)  
 - [Atlassian - Undoing changes](https://www.atlassian.com/git/tutorials/undoing-changes)
 - [Atlassian - Git Revert](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)
+
+
+## Dual remote origins (mirroring repos across sites)
+
+Having code hosted in two places provides challenges, why should we have to push the same commit twice to two different repos? Thankfully git has provided a solution. 
+
+`git remote set-url origin --add https://bitbucket.org/YOU/YOUR_REPO.git`
+
+By adding another remote (in this case bitbucket because I normally use github) with the same name `origin`, when I push, it goes to both repositories! Essentially a mirror. I had tried to use the `git --mirror` to no avail. It got the code to bitbucket but when I pushed to github again, the changes I made were not reflected in bitbucket. By adding another remote I am able to push to both repos in one go. 
