@@ -52,3 +52,25 @@ have some user stories...
 ~~determine roles within team.~~  
 
 
+## notes and questions for Babb by next meeting (Time still TBD)
+- What do faculty reports look like, can we get an example? 
+    - current link in Babb's CIDM ABET Doc is dead
+        - might have found the 2020-2021 version [here](http://www.abet.org/wp-content/uploads/2019/09/C002B-CAC-Self-Study-Questionnaire-2020-21-08-28-19.docx)
+    - I would still like to see a full completed report. at least one for a course. 
+- appears Program Educational objectives are independant of courses? However Courses are the main  contributor towards achieving program outcomes.   
+    - **Program Educational Objectives** – These objectives should reflect the attributes of graduates after they've left the program for a period of up to 3 to 5 years. These are the desired qualities of the "product" of a program's activities. This means that tracking student progress beyond graduation is an important part of program assessment.
+    - WTAMU BBA CIS Program Education Objectives: 
+        1. (Applied Skills and Knowledge) Apply computer information systems knowledge and skills to work in a vibrant business environment.
+        2. (Analysis and Design) Utilize core knowledge of computer information systems to synthesize, analyze, design, and implement solutions to real-world problems that enhances business decision-making processes.
+        3. (Currency) Actively engage in life-long learning and professional development.
+        4. (Teamwork) Work in teams to solve business problems by utilizing effective communication and collaboration skills.
+- Student Educational Objectives map to Program Educational objectives
+    - **Student Outcomes** - Attributes of student achievement that can be measured at graduation. The purpose of a program outcome is to describe the exit qualities of a student upon completion of and graduation from the program. These are short-term measurable objectives.
+    - WTAMU BBA CIS Student Outcomes: 
+        1. SO1: An ability to analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+        2. SO2: An ability to design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline
+        3. SO3: An ability to communicate effectively in a variety of professional contexts
+        4. SO4: An ability to recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+        5. SO5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+        6. SO6: An ability to support the delivery, use, and management of information systems within an information systems environment.
+- From what I understand, Course learning outcomes map to Student objectives, from there we can determine how well Program Educational Objectives are covered? 
