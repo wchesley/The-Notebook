@@ -32,6 +32,7 @@ the above image arguably best represents the software development lifecycle acco
     - given the circumstance on this occasion I see this behavior?  
 
 gherkin notation? 
+- Babb had provided [this link](https://docs.behat.org/en/v2.5/guides/1.gherkin.html) for gherkin 
 
 
 T-Shaped skill: 
@@ -40,12 +41,14 @@ T-Shaped skill:
 
 ## 09/16/2020 Lecture:   
 need to get sprint zero done, user stories ect...  
-have to migrate to Jira
-have to get adam in meeting.  
-2 meetings
-one with adam one with babb
-product backlogg in jira
+~~have to migrate to Jira~~  
+have to get adam in meeting. Still no response from him (9/19/2020)  
+2 meetings:  
+- one with adam 
+- one with babb  
+
+product backlogg in jira  
 have some user stories...  
-determine roles within team.   
+~~determine roles within team.~~  
 
 
