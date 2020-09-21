@@ -52,10 +52,14 @@ have some user stories...
 ~~determine roles within team.~~  
 
 
-## notes and questions for Babb by next meeting (Time still TBD)
-- What do faculty reports look like, can we get an example? 
+## notes and questions for Babb by next meeting (Time *still* TBD (emailed him Saturday am, no response as of yet...))
+- What do faculty reports look like, can we get an example?
+    - Want to see ~~blank~~ and completed FCAR (Faculty Course Assessment Report). 
+    - Already have blank FCAR located [here](https://github.com/wchesley/CIDM-Fall2020-4390/blob/master/Docs/ABET%20Faculty%20Course%20Assessment%20Report%20Template.docx) 
+    - can I get a completed one? (guess there's not much need? I can psuedo fill that data...)
+- ABET Self study questionare:  
     - current link in Babb's CIDM ABET Doc is dead
-        - might have found the 2020-2021 version [here](http://www.abet.org/wp-content/uploads/2019/09/C002B-CAC-Self-Study-Questionnaire-2020-21-08-28-19.docx)
+        - might have found the 2020-2021 version [here](https://github.com/wchesley/CIDM-Fall2020-4390/blob/master/Docs/C002B-CAC-Self-Study-Questionnaire-2020-21-08-28-19.docx)
     - I would still like to see a full completed report. at least one for a course. 
 - appears Program Educational objectives are independant of courses? However Courses are the main  contributor towards achieving program outcomes.   
     - **Program Educational Objectives** – These objectives should reflect the attributes of graduates after they've left the program for a period of up to 3 to 5 years. These are the desired qualities of the "product" of a program's activities. This means that tracking student progress beyond graduation is an important part of program assessment.
@@ -73,8 +77,57 @@ have some user stories...
         4. SO4: An ability to recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
         5. SO5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
         6. SO6: An ability to support the delivery, use, and management of information systems within an information systems environment.
-- From what I understand, Course learning outcomes map to Student objectives, from there we can determine how well Program Educational Objectives are covered? 
+- From what I understand, Course learning outcomes map to Student objectives, from there we can determine how well Program Educational Objectives are covered?   
+- Are Facilities the same for all CIMD Courses? (1.8 Criterion 7)  
+- are we pulling from the WT student/course database? (even eventually? should system be implemented)
+    - if so what do we have access to
+        - might be a privacy violation here, students aren't supposed to see other students information. 
+    - if not, for the sake of the project we'll have to create psuedo student data
+
 ## Rough ERD? 
-- Single Program educational outcome maps to multiple Student objectives
-- multiple course learning objectives map to a single student objective, one course learning objective cannot map to multiple student objectives. 
-- courses carry an instructor, and have multiple course learning objectives. Courses need an instructor, course number, a semester time, and relevant student information. 
+- users (presumably instructors only?)
+    - ID
+    - login credentials (password storage will have to be hashed and salted *before* storing in database)
+    - list of courses taught/teaching
+    - list of reports created, filed and still in creation? (last one adds complexity of saving incomplete models)
+- Program Educational Objectives (PEO's)
+    - ID
+    - Name
+    - Definition
+    - Single Program educational outcome maps to multiple Student objectives
+- Student Objectives
+    - ID
+    - Name
+    - Definition
+- courses
+    - instructor(userID)
+    - course plan
+    - course number
+    - semester taught (when was this class given)
+    - grading rubrics (proof behind grades students received)
+    - students grades
+    - list of students enrolled in the course
+    - course learning objectives
+        - multiple course learning objectives map to a single student objective, one course learning objective cannot map to multiple student objectives. 
+        - how to map Course objectives to Student objectives?
+- Students have courses, a name and an ID
+    - student ID
+    - course enrolled in? 
+    - name
+    - major classification (CIDM, CIS or what have you)
+- Seperate table for FCAR's? Looking really similar to the course table. I'm thinking it'll need to be seperate though, maybe a course won't have a FCAR filed or created? Plus it might be handy to only pull up FCAR's
+    - Course
+    - semester
+    - year
+    - instructor
+    - coordinator (optional?)
+    - catalog description
+    - Grade distribution
+        - entire class
+        - CIDM students
+    - modifications made to course (optional)
+
+## User Stories
+- as an instructor I want an easy way to make FCAR reports 
+- as a department head I want to see how well Student objectives are covered across classes
+- as a department head I want to see the distribution of Program Educational Objectives to Student Objectives
