@@ -74,3 +74,7 @@ have some user stories...
         5. SO5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
         6. SO6: An ability to support the delivery, use, and management of information systems within an information systems environment.
 - From what I understand, Course learning outcomes map to Student objectives, from there we can determine how well Program Educational Objectives are covered? 
+## Rough ERD? 
+- Single Program educational outcome maps to multiple Student objectives
+- multiple course learning objectives map to a single student objective, one course learning objective cannot map to multiple student objectives. 
+- courses carry an instructor, and have multiple course learning objectives. Courses need an instructor, course number, a semester time, and relevant student information. 
