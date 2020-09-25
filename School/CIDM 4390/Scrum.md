@@ -202,10 +202,12 @@ Sprint Execution takes up the majority of time during a sprint, beginning just a
 - Task Performance
 - Communicating
 - Flow Management  
-  Inputs into the Sprint Execution are:
+
+Inputs into the Sprint Execution are:
 - Sprint Goal
 - Sprint Backlog  
-  Outputs:
+  
+Outputs:
 - Potentially shippable product increment.
 
 ## Sprint Execution Planning (Task Planning)
