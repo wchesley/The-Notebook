@@ -33,53 +33,53 @@ Class day before tests open will be used for review.
     
 ## Rule of Law 
 - Laws are generally and equally applicable. To all memebers of society  
-    > we like to believe lady justice is blind ![Blind Lady Justice](https://github.com/wchesley/The-Notebook/blob/master/images/School/Lady%20Justice.jpg)  
+    > we like to believe lady justice is blind ![Blind Lady Justice](Lady-Justice.jpg)  
 - Rule of law nations adopt laws supporting the private market. (argued Rule of law nations have higher GDP on average)  
 - Judges play a viatal role in maintaining the rule of law.   
 
 ## Property (ownership)
 Legal right that allows a person to exclude others from him/her resources. (from a water bottle to houses, intellectual property)  
 Types of ownership:  
-* public  
-* private  
-* common (France v. Britan Mussel Treaty? 2018? Link to be found...aparently theres YT videos too :) )   
-* Exclusionary right of property - Basis for private markets and modern business.   
-* Open source software  
+- public  
+- private  
+- common (France v. Britan Mussel Treaty? 2018? Link to be found...aparently theres YT videos too :) )   
+- Exclusionary right of property - Basis for private markets and modern business.   
+- Open source software  
     
 ## Jurisprudence
 Philosophies that explain origin of law & it's justification  
-* Legal Realism  
-* Sociological  
-* Historical science  
-* Positive law  
-* Natural Law   
+- Legal Realism  
+- Sociological  
+- Historical science  
+- Positive law  
+- Natural Law   
      
 ## Classification of Law
 #### Common  & Civil 
-* Common Law
+- Common Law
     - Emphasizes the role of Judges in determining the meaning of laws
     - Related terms: Precedent
-* Civil Law
+- Civil Law
     - Relies on legislation for law
     - Related terms: Statues / Statutory
  #### Public & Private
-    * Public: Regulation of society 
-        - Constitutional Law ch.6
-        - Administrative Law ch.15
-        - Criminal Law
-    * Private Law: Covers legal problems and issues that concern private resource relationships
-        - property law ch.7
-        - contract law ch.8-9
-        - Tort law ch.10
+- Public: Regulation of society 
+    - Constitutional Law ch.6
+    - Administrative Law ch.15
+    - Criminal Law
+- Private Law: Covers legal problems and issues that concern private resource relationships
+    - property law ch.7
+    - contract law ch.8-9
+    - Tort law ch.10
  #### Civil & Criminal
-    * Civil cases
-        - Include suits for breach of contract or Tort cases. 
-        > In a civl case it's `me v you` in criminal it's `me v the state` 
-        - Involve request for damages or appropriate relief
-    * Criminal cases
-        - a govt representative attempts to prove the wrong commited against society
-        - Civil and criminal cases can overlap
-        - result in punishment 
+- Civil cases
+    - Include suits for breach of contract or Tort cases. 
+        - In a civl case it's `me v you` in criminal it's `me v the state` 
+    - Involve request for damages or appropriate relief
+- Criminal cases
+    - a govt representative attempts to prove the wrong commited against society
+    - Civil and criminal cases can overlap
+    - result in punishment 
 
 > 08/29/2019
 
@@ -93,28 +93,28 @@ Legislation - 2nd -
 administrative law or regulations - last in list of authority for laws.  
 
 ## State Law - ordered top to bottom, most authorative to least. 
-* State Constitution  
-* Statutes or Acts  
-* Regulatory law of state and administrative agencies  
-* ordinances (county or city)  
+- State Constitution  
+- Statutes or Acts  
+- Regulatory law of state and administrative agencies  
+- ordinances (county or city)  
 
 ## Judicial Decisions or Case law
-* interpret Constitutional, Legislative and Regulatory laws
-* opinions: decisions made by judges on legal issues. 
+- interpret Constitutional, Legislative and Regulatory laws
+- opinions: decisions made by judges on legal issues. 
     - Becomes `precedents` for future cases involving similar facts and legal issues
     - Citation: address for locating the case in a library or a computer database. ex: `3 cai. R. 175, 2 Am. Dec. 264 (N.Y. 1805)` Translates to  Pierson v. Post (the Foxhunt case used as an example in class)  
-* Advantages:  
-    * Stare decisis 
+- Advantages:  
+    - Stare decisis 
         - Judges follow precedents whenever possible. 
         - Ensures certainty and predictability in the law
-    * Specifies boundaries of Property-based legal system
-* Disadvantages:  
-    * Volume of cases  
-    * Conflicting precedents  
-    * **Conflicts of Law** 
-    * Distinction between **holding** and **dicta** Increased difficutly of determining the precedent  
-    * Rejection of precedent - Rare, but it can happen (*Constitutional Relativity vs Originalism*) 
-> dicta is extra stuff in a case that is not holding
+    - Specifies boundaries of Property-based legal system
+- Disadvantages:  
+    - Volume of cases  
+    - Conflicting precedents  
+    - **Conflicts of Law** 
+    - Distinction between **holding** and **dicta** Increased difficutly of determining the precedent  
+    - Rejection of precedent - Rare, but it can happen (*Constitutional Relativity vs Originalism*) 
+> dicta is extra stuff in a case that is not holding  
 Holding can set precedents, dicta does not  
 
        
@@ -130,17 +130,17 @@ Holding can set precedents, dicta does not
 8. case law  
 
 ## Legal Sanctions
-* Used by law enforcement officials and courts
-* to encourage and force compliance with the law [ie. speeding tickets.] 
-* Remedy: 
+- Used by law enforcement officials and courts
+- to encourage and force compliance with the law [ie. speeding tickets.] 
+- Remedy: 
     - Right of an individual
     - To take another persons resources. 
     - [slip and fall case - can sue for damages]
     - because that person failed to meet requirements of the law.  
 
 ## Sanctions for criminal conduct 
-* Crime is public wrong against society
-* Punishments   
+- Crime is public wrong against society
+- Punishments   
     - death   
     - imprisonment  
     - fine  
@@ -148,35 +148,35 @@ Holding can set precedents, dicta does not
     - disqualification  
 
 ## Tortios Conduct  
-* Tort 
+- Tort 
     - Civial wrong (other than breach of contract)
     - Intentional
     - Negligence
     - Strict liability  
-* Remedies
+- Remedies
     - Compensatory Damages (money) (compensation)
-    - Punitive damages (exemplary damages)  punishment (ie. mcdonalds hot coffee case, they had 200 prev people report overheated coffee)
+    - Punitive damages (exemplary damages)  punishment (ie. mcdonalds hot coffee case, they had 200 prev people report overheated coffee, they did nothing to fix it. Old lady had 3rd degree burns all over, had to have reconstructive surgery, she originally wanted only enough to cover her medical expenses. McDonald's offered like $800? something really small and ludicrous. This was taken before a jury who saught to punish McDonalds for their blatent misdeeds and awarded something like 3mill?  )
 
 ## Sanctions for breach of contract
-* Breach of contract 
+- Breach of contract 
     - failure to perform contractual promise. 
-* Remedies
+- Remedies
     - Damages (money)
     - Compensatory 
     - Consequential 
     - Specific performance  
 
 ## Corporations 
-* Businesses chartered by the state to do business as a legal person.  
-* owned by shareholders. 
-* Board of directors runs the business
-* Managers are in charge of day-to-day business operations.  
+- Businesses chartered by the state to do business as a legal person.  
+- owned by shareholders. 
+- Board of directors runs the business
+- Managers are in charge of day-to-day business operations.  
 
 ## Specific sense of Corporate governance
-* Legal relationship between 
+- Legal relationship between 
     - coroporate agents & 
     - shareholders of the corporation 
-* Value of corporations will be destroyed if managers abuse their control of resources for personal benefits.  
+- Value of corporations will be destroyed if managers abuse their control of resources for personal benefits.  
 
 
 # Chapter 2 Ethics 
@@ -185,18 +185,18 @@ Holding can set precedents, dicta does not
 > [PP Linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%202/Chap%202%20[Compatibility%20Mode].pdf?csf=1&e=eUaeqK)  
 
 #### Contemporary Business Ethics
-* Ethics officers
+- Ethics officers
     - Develop ethics policies / code of ethics
     - Listen to complaints of ethics violations
     - Investigate ethics abuses 
-* Sarbanes-Oxley Act (SOX) of 2002
+- Sarbanes-Oxley Act (SOX) of 2002
     - Reaction to Enron and WorldComm scandles of early 2000's  
     - Established higher standareds for coroporate responsibility and governance.  
 
 Ethics and Morality  
-* Morality: Values that guide one's behavior   
-* Ethics: formal system for deciding what's right and wrong  
-* The good: Moral goals and objectives one choooses to pursue.  
+- Morality: Values that guide one's behavior   
+- Ethics: formal system for deciding what's right and wrong  
+- The good: Moral goals and objectives one choooses to pursue.  
 
 Ethics and Law
 Fear Punishments vs. Want to do what's right 
@@ -205,33 +205,33 @@ Fear Punishments vs. Want to do what's right
 > 09/03/2019
 
 Systems of Ethics: 
-* Formalism: `affirms absolute Morality`
-    * Duty based view, if you have a duty, do it!
-    * Categorical Imperative  
-    * Social Contract - Idea that we all kinda have a contract with eachother, ie. i have my rights but no right to 'step' on your rights  
-* Consequentialialism - Concerned with moral consequnces of actions
-    * Utilitarianism
-    * Protestant ethic
+- Formalism: `affirms absolute Morality`
+    - Duty based view, if you have a duty, do it!
+    - Categorical Imperative  
+    - Social Contract - Idea that we all kinda have a contract with eachother, ie. i have my rights but no right to 'step' on your rights  
+- Consequentialialism - Concerned with moral consequnces of actions
+    - Utilitarianism
+    - Protestant ethic
 
 Ethics influences legal system: Is there a relationship between law and ethics? Yes.  
 
 Sources of value for business ethics
-* Legal regulation 
-* Professional codes of Ethics - Professional code is career choice based ie. Internal Auditor
-* Organizational codes of ethics - Publicly traded companies are required to have  code of ethics.  
-* Individual values 
+- Legal regulation 
+- Professional codes of Ethics - Professional code is career choice based ie. Internal Auditor
+- Organizational codes of ethics - Publicly traded companies are required to have  code of ethics.  
+- Individual values 
 
 Legal regulation - Ethical rules drawn from the law
-* Respect liberty and rights of others. (ie. free speech, but cannot yell fire in crowded theatre)
-* Act in good faith 
-* Exercise due care
-* avoid conflics of interest
-* Honor confidentiality 
+- Respect liberty and rights of others. (ie. free speech, but cannot yell fire in crowded theatre)
+- Act in good faith 
+- Exercise due care
+- avoid conflics of interest
+- Honor confidentiality 
 
 Professional code of ethics
-* Crtain professions have long traditions of codes of ethical conduct (CPA's have had a long standing code of ethics.)  
-    * More recent professions have developed and adopted their own codes.   
-* Ethical codes of organization are a form of *self regulation*.   
+- Crtain professions have long traditions of codes of ethical conduct (CPA's have had a long standing code of ethics.)  
+    - More recent professions have developed and adopted their own codes.   
+- Ethical codes of organization are a form of *self regulation*.   
 
 Organizational code of ethics
 * Business have adopted ethical codes at the individual organizational level
@@ -240,7 +240,7 @@ Organizational code of ethics
     * Enforcement - consistency is key!  
 
 Individual values: Self Examination:  
-> ![Self Examination-Ethics](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh2ETHICS-Self_Examination.png) 
+> ![Self Examination-Ethics](images\School\BusLawCh2ETHICS-Self_Examination.png) 
 Should I do it?
 * Is it right or wrong? 
 * WIll I be proud if they found out
@@ -251,7 +251,7 @@ Should I do it?
 Obstacles: 
 * Profits vs. Ethics
 * Group think - if everyone else is doing it...might as well...mob mentality
-    * Individuals feel less responsible  
+    * Individuals feel less responsible if the whole group is doing it.   
 * Control of resources by non-owners (potential conflics of interest)
     * Managerial agents can manipulate resoures in their own interest. 
     * Self-dealing
@@ -341,8 +341,8 @@ Texas has seperate courts for criminal and civil courts.
     * Traffic courts: Traffic violations 
 
 Fig. 3.1 - State Court System
-![State Court Sys](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
-#### *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
+![State Court Sys](images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
+> *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
 
 ## Federal courts review: 
 1. if the US is involved as a party 
@@ -388,7 +388,7 @@ Fig. 3.2 Federal Court System
 * Supreme court resolves
     * cases involving major Constitutional issues 
     * interpretation of federal law. 
-* Final judgments of hightes state ourt are reviewed only by SCOTUS. 
+* Final judgments of hightes state court are reviewed only by SCOTUS. 
 
 ## Power of judical review. 
 * Judicial restraint vs. judical activism
@@ -509,7 +509,7 @@ Pretrial procedures
 ## Pleadings
 - they are: 
     - Legal documents
-    - filed wiht a court
+    - filed with a court
     - begin litigation process
 - complaint: filed by plaintiff
 - answer: filed by defendant
@@ -540,7 +540,7 @@ Gather the Evidence
 - Discovery procedures are intended to be used freely by parties without courts supervision
 - Judges provide a liberal interpretation of degree of discoverable information. 
 - information is considered discoverable when it can lead to Evidence admissible during a trial. 
-- expensive af **$$$$$$$**5
+- expensive af **$$$$$$$**
 
 in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
 
@@ -555,7 +555,6 @@ in a survey of 1000 judges, abusive discovery was rated highest among the reason
     - Decide case based only on the complaint and answer
 - Summary Judgment    
     - Decide based on the pleadings and other evidence  
-**TODO: Add Figure 4.2 from textbook - Pretrial **
 
 **TODO: Add figure 4.3 from textbook - Trial Steps - 2 pictures from slides/book **  
 
@@ -607,7 +606,7 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
 - Criminal cases
     - Beyond reasonable doubt
 - Civil cases - subject to two standards
-    - Preponderance of evidence (less evidence requried to win, OJ was found not guilty for murder, but found to have owed money in the wrongful death civil suit brought before him)
+    - Preponderance of evidence (less evidence requried to win, OJ was found not guilty for murder, but found to have owed money in the wrongful death civil suit brought before him for the same charge. Beyond Reasonable doubt burden was not met but Preponderance was)
     - Clear and convincing (More proof than Preponderance but less than reasonable doubt)  ex. Guardianship disputes (rare in civil cases, mostly Preponderance)
 
 ## Deciding the case
@@ -622,7 +621,7 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
 - Appellee: Successful party in the trial court. 
 - Petitioner: Party initiating the petition when a petition for certiorari is filed to the supreme court.
     - Respondant: Opponent party in the petition
-##### If you are found not guilty in criminal case: the opposing party (the government) Cannot appeal the case.  Where as if the criminal loses the case, he can appeal. 
+##### If you are found not guilty in criminal case: the opposing party (the government) Cannot appeal the case.  Where as if the criminal loses the case, he can appeal. To be tried again would result in double jeapordy  
 
 ## Appellant Procedures
 - Courts of appeal deal with the record of the proceedings in lower court. 
