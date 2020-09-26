@@ -17,12 +17,21 @@ Intended to serve as my online journal, throughout college and career, written i
 - [CLI](React/React-Native-CLI.md)
 - [Tips and Tricks](React/Tips-N-Tricks.md) 
 
+### [Git](Git.md)
+
+### School Notes: 
+- [Back End Web Development](School/Back-end%20Web%20Dev/BackEndWebDev.md)
+- [Business Law](School/Business%20Law/BusinessLawNotes.md)
+- [Scrum](School/CIDM%204390/Scrum.md)
+- [Mobile App Development](School/mobile-app-dev/CIDM-4385-MobileAppDev.md)
+- [Network Security](School/Net-Sec/Net-Sec.md)
+- [Business Finance](School/Business%20Finance/Finance%20Notes.md)
+    - [Business Finance Formulas](School/Business%20Finance/Finance-Formulas.md)
+
 
 [Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ###  Running TODO: 
-* Git
-* Python (otree specifically)
 * Heroku
 
-###### I'm open to contributions or corrections if anything incorrect within this site. To make a change, please open a pull request [in the site repo](https://github.com/wchesley/The-Notebook)
+###### I'm open to contributions or corrections if anything is found to be incorrect within this site. To make a change, please open a pull request [in the site repo](https://github.com/wchesley/The-Notebook)
