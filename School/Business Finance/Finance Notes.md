@@ -347,7 +347,7 @@ On the balance sheet assets are always listed from most liquid to least liquid.
 				- With depreciable assets the original cost of an asset is allocated as an expense in the income statement over the asset's expected useful life. The sum of all depreciation taken up to the date of the balance sheet are shown as **accumulated depreciation** in the balance sheet. 
 			- Gross fixed assets vs net fixed assets
 				- Fixed assets are subject to depreciation as they lose their value due to wear and tear, obsolences. Gross fixed assets shows the historical value of the asset whereas net fixed asset shows the book value of the asses and is calculated as gross fixed asset less accumulated dpreciation. 
-			- <img src="../../images/School/Depreciation_and_accumulated_depreciation.jpg" alt="Depreciation and accumulated depreciation" width=50% height=50% style="transform:rotate(90deg);" display="block" margin-left="auto" margin-right="auto">
+			- <img src="../../images/School/Depreciation_and_accumulated_depreciation.jpg" alt="Depreciation and accumulated depreciation" width=50% height=50% display="block" margin-left="auto" margin-right="auto">
 		2. Other Long-term Assets
 			- Long term investments
 			- intangible assets (patents, trademarks and goodwill)
@@ -404,6 +404,7 @@ This is essentially a comparison of a companies current assets and currnet liabi
 |--- | ---|
 | **Decrease in an asset** | **Increase in an asset** | 
 | Example: Selling invetories or collecting receivables provides cash | Example: Investing in fixed assets or buying mor inventory uses cash | 
+
 
 ---
 ## Chapter 7 Finance: The Valuation and Characteristics of Bonds
@@ -661,3 +662,5 @@ As previously noted, the primary goal of finance managers should be to increase 
 - A Firms overall cost of capital is based on the weighted average of these costs. Example: An enterprise with a capital structure consisting of 70% equity and 30% debt; it's cost of equity is 10% and after-tax cost of debt is 7%
 	- Weighted average of Cost of capital is: 
 	- (0.7 x 10%)+(0.3 x 7%) = 9.1%
+
+
