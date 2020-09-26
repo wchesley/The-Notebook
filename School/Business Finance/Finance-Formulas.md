@@ -1,5 +1,17 @@
 # Formulas used in Finance
 
+## Chapter 2: 
+Nominal Interest Rate: 
+<img src="https://render.githubusercontent.com/render/math?math=NominalInterestRate = RealRiskFreeInterestRate %2b InflationPremium %2b DefaultRiskPremium %2b MaturityRiskPremium %2b LiquidityRiskPremium">  
+
+<img src="https://render.githubusercontent.com/render/math?math=NominalInterestRate \approx RealRateOfInterest %2b InflationRiskPremium">  
+
+
+<img src="https://render.githubusercontent.com/render/math?math=1 %2b NominalInterestRate = (1 %2b RealRateOfInterest)\times (1 %2b InflationRiskPremium)">  
+
+**OR:**   
+<img src="https://render.githubusercontent.com/render/math?math=NominalOrQuotedRealRateOfInterest = RealRateOfInterest %2b InflationRate %2b ProductOfTheRealRateOfInterestAndTheInflationRate"> 
+
 ## Chapter 3: 
 Total Assets:  
 <img src="https://render.githubusercontent.com/render/math?math=TotalAssets = TotalLiabilities %2b TotalShareholderEquity">
