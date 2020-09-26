@@ -29,7 +29,8 @@ Intended to serve as my online journal, throughout college and career, written i
     - [Business Finance Formulas](School/Business%20Finance/Finance-Formulas.md)
 
 
-[Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[My Markdown Notes](Markdown.md)
 
 ###  Running TODO: 
 * Heroku
