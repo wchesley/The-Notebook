@@ -1,5 +1,22 @@
 # Formulas used in Finance
 
+## Chapter 3: 
+Total Assets:  
+<img src="https://render.githubusercontent.com/render/math?math=TotalAssets = TotalLiabilities %2b TotalShareholderEquity">
+
+Ending Retained Earnings:  
+<img src="https://render.githubusercontent.com/render/math?math=EndingRetainedEarnings = BeginningRetainedEarnings %2b NetIncomeForTheYear - DividendsPaidDuringYear">
+
+Common Equity:  
+<img src="https://render.githubusercontent.com/render/math?math=CommonEquity = CommonShareholderInvestment %2b CumulativeProfits - CumulativeDividendsPaidToCommonShareholders">
+
+Debt Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=DebtRatio = \frac{TotalDebt}{TotalAssets}">
+
+Net Working Capital:  
+<img src="https://render.githubusercontent.com/render/math?math=NetWorkingCapital = CurrentAssets - CurrentLiabilities">
+
+## Chapter 4: 
 Current Ratio:  
 <img src="https://render.githubusercontent.com/render/math?math=CurrentRatio = \frac{CurrentAssets}{CurrentLiabilities}">
 
