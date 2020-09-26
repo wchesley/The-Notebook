@@ -51,5 +51,5 @@ Price to Earnings Ratio:
 Price to Book Ratio:  
 <img src="https://render.githubusercontent.com/render/math?math=PriceToBookRatio = \frac{MarketPricePerShare}{EquityBookValuePerShare}">
 
-EVA:  
+Economic Value Added (EVA):  
 <img src="https://render.githubusercontent.com/render/math?math=EVA = (OperatingReturnOnAssets - CostOfCapital) \times TotalAssets">
