@@ -44,3 +44,19 @@ Having code hosted in two places provides challenges, why should we have to push
 `git remote set-url origin --add https://bitbucket.org/YOU/YOUR_REPO.git`
 
 By adding another remote (in this case bitbucket because I normally use github) with the same name `origin`, when I push, it goes to both repositories! Essentially a mirror. I had tried to use the `git --mirror` to no avail. It got the code to bitbucket but when I pushed to github again, the changes I made were not reflected in bitbucket. By adding another remote I am able to push to both repos in one go. 
+
+### Caveats: 
+Due to the nature of Git, you cannot fetch from two different remotes under the same name. So while the above solution allows you to mirror your code to another place. If the code is altered in the added origin, you will not be able to fetch it, or push back to that origin due to the changes.  
+For example, when I added a second origin to a project, my git remotes looked as follows:  
+```bash
+$ git remote -v
+origin  https://github.com/wchesley/CIDM-Fall2020-4390.git (fetch)
+origin  https://github.com/wchesley/CIDM-Fall2020-4390.git (push)
+origin  https://Walker-Chesley@bitbucket.org/Walker-Chesley/cidm-4390-fall2020.git (push)
+```
+
+So my code is mirrored to bitbucket on push, but if someone was to push to bitbucket alone, I wouldn't be able to  
+1. See the changes
+2. Push to the repo
+
+##### Ref: https://jigarius.com/blog/multiple-git-remote-repositories
