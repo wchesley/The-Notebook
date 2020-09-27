@@ -6,9 +6,14 @@
  Authors: Keown, Martin, Petty
  Publisher: Pearson
 
----
+### Table of Contents: 
+- [Chapter 1: Introduction to the foundations of Financial Management](#Chapter-1:-An-Introduction-to-the-foundations-of-Financial-Management)  
+- [Chapter 2: The Financial Markets and Interest Rates](#Chapter-2:-The-Financial-Markets-and-Interest-Rates)
+- [Chapter 3: Understandign Financial Statements and Cash Flows](#Chapter-3:-Understandign-Financial-Statements-and-Cash-Flows)
+- [Chapter 7: The Valuation and Characteristics of Bonds](#Chapter-7:-The-Valuation-and-Characteristics-of-Bonds)
+- [Chapter 8: Valuation and Characteristics of Stock](#Chapter-8:-Valuation-and-Characteristics-of-Stock)
 
-## Chapter 1: An Introduction to the foundations of Financial Management
+# Chapter 1: An Introduction to the foundations of Financial Management
 
 ### The Goal of the Firm: 
 The fundamental goal of the firm is to create value for the owners, more commonly stated as 'maxamizing shareholders wealth'.   
@@ -70,8 +75,9 @@ Double taxation provides a huge hurdle for entrepreneurs and small business owne
 - **S-Corporation:** Provides limited liability while allowing the business's owners to be taxed as if they were a partnership. That is distributions back to the owners are not taxed twice as is the case with a corporation. There are several restrictions (not listed in the book) that make this form of business less desriable, mostly it is used as joint ventures between two corporations. 
 - **Limited Liability Companies (LLC):** A cross between a partnership and a corporation. just as with the S-Corp, LLC retains limited liabilty for its owners, but it runs and is taxed like a partnership. In General it provides more flexability than an S-Corp. LLC's operate under state and IRS laws, state laws vary between states. Bottom line is that an LLC must not look to much like a corporation else it'll be taxed like one. 
 
----
-## Chapter 2 The Financial Markets and Interest Rates
+
+# Chapter 2: The Financial Markets and Interest Rates
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
 - Capital Markets: *All the finanaical institutions that help a business raise long-term capital* (Long term meaning) greater than 1 year
 This section will focus on how business's go to raise money in the capital markets and helps to understand how capital markets work. 
 
@@ -294,8 +300,9 @@ The term structure of interest rates changes over time as expectations change
 3. The market segmentation theory
 The market segmentation theory of term structure of interest rates is built on the notion that legal restrictiosn and personal preferences limit choices for investors of certain rages of maturities. At an extreme the market segmentation theory implies that *the rate of interest for a particular maturity is determined soley by demand and supply for a given maturity and that it is independent of hte demand and supply for securities having different maturities*
 
----
-## Chapter 3: Understandign Financial Statements and Cash Flows
+
+# Chapter 3: Understandign Financial Statements and Cash Flows  
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 1. The Income Statement
 2. The Balance Sheet
 3. Measuring Cash Flows
@@ -406,8 +413,9 @@ This is essentially a comparison of a companies current assets and currnet liabi
 | Example: Selling invetories or collecting receivables provides cash | Example: Investing in fixed assets or buying mor inventory uses cash | 
 
 
----
-## Chapter 7 Finance: The Valuation and Characteristics of Bonds
+
+# Chapter 7: The Valuation and Characteristics of Bonds  
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 ### Table of Contents: 
 1. Types of Bonds
 2. Terminology and Characteristics of Bonds
@@ -568,9 +576,9 @@ A. Relationship 1 A decrease in interest rates (required rates of return) will c
 B. Relationship 2 1. If the bondholder's required rate of return (current interest rate) equals the coupon interest rate, the bond will sell at par, or maturity value. 2. If the current interest rate exceeds the bond's coupon rate, the bond will sell below par value or at a discount. 3. If the current interest rate is less than the bond's coupon rate, the bond will sell above par value or at a premium. 
 C. Relationship 3 A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
 
----
 
-# Chapter 8 Valuation and characteristics of stock
+# Chapter 8: Valuation and Characteristics of Stock
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
 - Preferred Stock
 - Valuing Preferred Stock
 - Common Stock
