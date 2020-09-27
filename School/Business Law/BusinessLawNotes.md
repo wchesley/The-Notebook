@@ -33,7 +33,7 @@ Class day before tests open will be used for review.
     
 ## Rule of Law 
 - Laws are generally and equally applicable. To all memebers of society  
-    > we like to believe lady justice is blind ![Blind Lady Justice](Lady-Justice.jpg)  
+    > we like to believe lady justice is blind ![Blind Lady Justice](../../images/school/Lady-Justice.jpg)  
 - Rule of law nations adopt laws supporting the private market. (argued Rule of law nations have higher GDP on average)  
 - Judges play a viatal role in maintaining the rule of law.   
 
@@ -240,7 +240,7 @@ Organizational code of ethics
     * Enforcement - consistency is key!  
 
 Individual values: Self Examination:  
-> ![Self Examination-Ethics](images\School\BusLawCh2ETHICS-Self_Examination.png) 
+> ![Self Examination-Ethics](../../images\School\BusLawCh2ETHICS-Self_Examination.png) 
 Should I do it?
 * Is it right or wrong? 
 * WIll I be proud if they found out
@@ -341,7 +341,7 @@ Texas has seperate courts for criminal and civil courts.
     * Traffic courts: Traffic violations 
 
 Fig. 3.1 - State Court System
-![State Court Sys](images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
+![State Court Sys](../../images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
 > *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
 
 ## Federal courts review: 
