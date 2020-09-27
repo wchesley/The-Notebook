@@ -50,9 +50,11 @@ Types of ownership:
 Philosophies that explain origin of law & it's justification  
 - Legal Realism  
 - Sociological  
-- Historical science  
-- Positive law  
-- Natural Law   
+- Historical science: Emphasizes that contemporary law should focus on legal principles that have withstood the test of time in a nation. 
+    - Friedrich Savigny (German legal philosopher) Helped develop this school of Jurisprudence. 
+- Positive law: (Legal Positivism) Beleives that law is simply the commands of the state backed up by force and punishments.   
+- Natural Law: Law contains universal moral principles that are often observed in nature and we can determine them through human reason. 
+    - John Looke (British Philosopher) his writings helped influence the framers of the US Constitution. He beleived that `Property` was a part of natural law. 
      
 ## Classification of Law
 #### Common  & Civil 
