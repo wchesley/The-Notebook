@@ -10,6 +10,7 @@
 - [Chapter 1: Introduction to the foundations of Financial Management](#Chapter-1:-An-Introduction-to-the-foundations-of-Financial-Management)  
 - [Chapter 2: The Financial Markets and Interest Rates](#Chapter-2:-The-Financial-Markets-and-Interest-Rates)
 - [Chapter 3: Understandign Financial Statements and Cash Flows](#Chapter-3:-Understandign-Financial-Statements-and-Cash-Flows)
+- [Chapter 4: Evalutaing a Firms Financial Performance](#Chapter-4:-Evalutaing-a-Firms-Financial-Performance)
 - [Chapter 7: The Valuation and Characteristics of Bonds](#Chapter-7:-The-Valuation-and-Characteristics-of-Bonds)
 - [Chapter 8: Valuation and Characteristics of Stock](#Chapter-8:-Valuation-and-Characteristics-of-Stock)
 
@@ -412,7 +413,133 @@ This is essentially a comparison of a companies current assets and currnet liabi
 | **Decrease in an asset** | **Increase in an asset** | 
 | Example: Selling invetories or collecting receivables provides cash | Example: Investing in fixed assets or buying mor inventory uses cash | 
 
+# Chapter 4: Evalutaing a Firms Financial Performance
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
+### Table of Contents: 
+1. [The Purpose of Financial Analysis](#The-Purpose-Of-financial-analysis)
+2. [Measuring Key Financial Relationships](#Measuring-Key-Financial-Relationships)
+3. [The Limitations of Financial Ratio Analysis](#The-Limitations-of-Financial-Ratio-Analysis)
 
+This chapter is a natural extension of chapter 3, we will be evaluating a firms financial performance as any group having financial interests in the firm would do. This is accomplished by looking at key financial relationships in the form of **ratios**. The process of looking into these relationships and makeing decisions is called **financial analysis**
+
+## The Purpose of Financial Analysis  
+Financial analysis is more than just reviewing financial statements. It is used to evaluate a firms historical performance, making projections about and improving future financial performance. 
+
+**Financial Ratios:** Provides 2 ways to make comparisons of a firm's financial data.  
+1. Examine the ratios across time to compare current and past performance. 
+2. We can compare the firm's ratios with those of other firm's 
+
+### Financial Analysis in and about the firm: 
+Managers of the firm would use financial analysis for: 
+- Finding defencies in the firms performance
+- Evaluate employee performance and determine incentive compensation 
+- Compare the financial performance of the firm's different divisions
+- Prepare financial projections
+- Understand financial performance of the firm's competitors
+- Evaluate the condition of the firm's suppliers.   
+
+Outside of the firm, Investors, lenders and anyone else with a financial stake or interest in the firm might use financial analysis for: 
+- Lenders to decide whether or not to make a loan to the company
+- Credit-rating agencies to determine the firm's credit-worthiness
+- Investors to decide whether or not to invest in the firm. 
+- Suppliers to decide whether or not to grant credit terms to the firm. 
+
+## Measuring Key Financial Relationships
+Using ratios to answer questions about the firms performance
+- How liquid is the firm? 
+- Are the firm's managers generating adequate operating profits on the company assets? 
+- How is the firm financing it's assets? 
+- Are the firm's managers providing good return on the capital provided by shareholder? 
+- Are the firm's managers creating shareholder value? 
+
+### Question 1: How liquid is the firm? Can they pay their bills? 
+**Liquidity:** The ability of a firm to have cash available when needed to meet financial obligations.  
+In this regard we are interested in two things: 
+1. The amount of current assets relative to current liabilities
+2. the *quality* of the individual current asset that will be used in meeting current debt payments. 
+
+**Current Ratio** Measuring the relative size of current assets to current liabilities, this is the most commonly used method for determining a firm's short-ter solvency.  
+Current Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=CurrentRatio = \frac{CurrentAssets}{CurrentLiabilities} = \frac{32,986M}{32,274M} = 1.02">  
+The above example is from the book, showing the current ratio for Coca-Cola. The current ratio is under the assumption that the firm's accounts receivable will be collected and turned into cash on a timely basis **AND** That the inventories can be sold without any extended delay. These assumptions will not always be true. 
+
+An **Acid-test Ratio** is a more stringet measure of liquidity that includes the cash and accounts receivable in the numerator of the equation (excluding inventory and other current assets)  
+Acid Test Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=AcidTest = \frac{Cash %2b AccountsReceivable}{CurrentLiabilities} = \frac{21,675M %2b 4,466M}{32,374M} = 0.81">    
+
+>The longer the time it takes to convert the asset into cash, the less liquid the asset it, and vis versa 
+
+### Converting Accounts Receivable into Cash
+**Days in Receivables** is the measure of how long it takes a frim to collect the receivables on average. *Note: this only includes **Credit** sales as opposed to cash.*  
+Converting Accounts Receivable into Cash:  
+<img src="https://render.githubusercontent.com/render/math?math=DaysInReceivables = \frac{AccountsReceivable}{DailyCreditSales} = \frac{AccountsReceivable}{AnnualCreditSales \div 365} = \frac{4,466M}{45,998M \div 365} = \frac{4,466M}{126M} = 35.44%20Days">  
+A similar measure would be the amount of times the accounts receivable 'rolls over' during a year. This measure is the **Accounts receivable turnover raio** So usign the example above, Coca-Cola would collect it's accounts receivable aprox 10.30 times per year (10.30 = 365 Days / 35.44 Days)  
+Accounts Receivable Turnover:  
+<img src="https://render.githubusercontent.com/render/math?math=AccountsReceivableTurnover = \frac{AnnualCreditSales}{AccountsReceivable} = \frac{45,998M}{4,466M} = 10.30X">  
+
+### Converting Inventories into Cash 
+**Days in Inventory** a measure of how long a firm's inventory was held before being sold.  
+Days in Inventory:  
+<img src="https://render.githubusercontent.com/render/math?math=DaysInInventory = \frac{Inventory}{DailyCostOfGoodsSold} = \frac{Inventory}{AnnualCostOfGoodsSold \div 365} = \frac{3,100M}{17,889M \div 365} = \frac{3,100M}{49.01M} = 63.25Days">  
+Akin to Accounts Receivable Turnover, we can measure inventory turnover in a similar fashion: 
+Inventory Turnover:  
+<img src="https://render.githubusercontent.com/render/math?math=InventoryTurnover = \frac{CostOfGoodsSold}{Inventory} = \frac{17,889M}{3,100M} = 5.77X">   
+In terms of the example, Coca-cola is turning over it's inventory about 5.7 times per year.  
+
+### Question 2: Are the Firm's Managers Generating Adequate Operating Profits on the company's assets? 
+From the firm's shareholders, this is probably the most important question regarding firm's financial performance. How well are the managers using the money I put into the company?  
+> We use *Operating profits* (same as operating income or earnings before interest and taxes) rather than *net income*  
+
+**Operating Profits** is the income generated by the firm, from the firm's assets, independent of how the firm is financed.  
+**Operating return on Assets (OROA)** The amount of operating profits relative to the firm's assets  
+Operation Return on Assets:  
+<img src="https://render.githubusercontent.com/render/math?math=OperationReturnOnAssets = \frac{OperatingProfitMargin}{Sales} \times \frac{Sales}{TotalAssets} = \frac{9,707M}{92,023M} = 0.105 = 10.5 Percent">   
+Operating return on assets is derrived from two different sources: 
+- **Operations Management** 
+	- Day to day buying and selling of a firm's goods and services as reflected in teh income statement.
+	- Operating Profit Margin:  
+	- <img src="https://render.githubusercontent.com/render/math?math=OperatingProfitMargin = \frac{OperatingProfits}{Sales}">
+
+- **Asset Management** 
+	- How effectively assets are being managed to generate sales. 
+	- Total Asset Turnover:  
+	- <img src="https://render.githubusercontent.com/render/math?math=TotalAssetTurnover = \frac{Sales}{TotalAssets}">
+
+**Fixed Asset Turnover** How well the fimr is managing its primary operating assets (accounts receivable, inventories, and fixed assets)
+Fixed-Asset Turnover:  
+<img src="https://render.githubusercontent.com/render/math?math=FixedAssetTurnover = \frac{Sales}{NetFixedAssets} = \frac{45,998M}{14,633M} = 3.14X">  
+
+### Question 3: How is the Firm financing its Assets? 
+How is the firm financed? (debt or equity)  
+**Debt Ratio** What percentage of the firms assets are financed by debt (short and long-term debt)?  
+Debt Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=DebtRatio = \frac{TotalDebt}{TotalAssets} = \frac{61,703M}{92,023M} = 0.671">  
+In this instance, coca-cola is financing 67% of their assets with debt.  
+An alternative to the debt ratio is the **Debt to equity Ratio** which is a basic alteration of the debt ratio formula 
+<img src="https://render.githubusercontent.com/render/math?math=DebtEquityRatio = \frac{TotalDebt}{TotalEquity} = \frac{DebtRatio}{1 - DebtRatio} = ">
+###### TODO: Fix Debt/Equity Ratio formula  
+
+When firms finance with debt, the debt incurrs an interest expense on what was borrowed, it's a good idea to compare
+- The amount of operating income that is available to pay the interest
+- The amount of interest that has to be paid
+This, stated as a ratio, is the **Times interest earned**  
+Times Interest Earned:  
+<img src="https://render.githubusercontent.com/render/math?math=TimedInterestEarned = \frac{OperatinProfits}{InterestExpense} = \frac{9,707M}{483M} = 20.1X">  
+When interpreting this ratio we need to under stand what drives it: 
+- The more or less profitable a business as measured by the operating return on assets, the higher or lower teh timers interest earned 
+- The more or less debt used by a firm, the higher or lower the times interest earned.  
+It is important to note that the times interest earned is a crude measure of a firm's capacity to service it's debt. Interest is not paid with income, but with cash and in addition to the interest the debt principle must also be paid
+
+### Question 4: Are the firm's managers providing a good return on the capital provided by the company's shareholders?
+**Return on Equity (ROE)** Are the shareholders receiving an attractive return on their investment when compared to the competition?  
+Return on Equity:  
+<img src="https://render.githubusercontent.com/render/math?math=ReturnOnEquity = \frac{NetIncome}{TotalCommonEquity} = \frac{7,098M}{30,320M} = 0.234">  
+> Total commone equity is also called total stockhodlers equity  
+
+Return on equity is driven by 2 primary factors: 
+1. The difference between the operating return on assets and the interest rate (OROA - i)
+2. How much debt is used? 
+	- measured by the debt ratio
 
 # Chapter 7: The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
@@ -454,7 +581,7 @@ This is essentially a comparison of a companies current assets and currnet liabi
 - Bond issued in a country different from the one in which the currency of the bond is denominated. 
 	- ex: a bond issued in Europe but interest is paid in US dollars. 
 	- bond needs to be sold in another country different from the one where the bonds currancy is denominated 
-- Eurobonds are **NOT** registered with the SEC (Securities and Exchange Commission) 
+- Eurobo,nds are **NOT** registered with the SEC (Securities and Exchange Commission) 
 - favorable rates of return 
 - less rigorous disclosure requriements than those of SEC 
 - may **NOT** be offered to US citizens and residents
