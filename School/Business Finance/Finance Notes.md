@@ -537,9 +537,40 @@ Return on Equity:
 > Total commone equity is also called total stockhodlers equity  
 
 Return on equity is driven by 2 primary factors: 
-1. The difference between the operating return on assets and the interest rate (OROA - i)
+1. The difference between the operating return on assets and the interest rate (OROA - *i*)
 2. How much debt is used? 
 	- measured by the debt ratio
+
+### Question 5: Are the Firm's Managers Creating Shareholder Value? 
+The previous questions relied exclusively on accounting data to assess the performance of firm's managers, lastly we will look at management's performance in terms of creating or destroying shareholder value. This will be showcased here in two ways: 
+- Market-Value Ratio's
+- Estimate of value being created for shareholders by Economic Value Added (EVA)
+
+### Market-Value Ratio's
+There are two commonly used ratio's used to compare a firm's stock price to it's earnings and the accounting book value of it's equity. 
+
+**Price/Earnings Ratio (P/E Ratio)** an indication of how much investors are willing to pay for an additional $1 of reported earnings. 
+Price to Earnings Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=PriceToEarningsRatio = \frac{MarketPricePerShare}{EarningsPerShare}">  
+
+**Price/Book Ratio** This ratio compares the market value of a share of stock to its book value per share of the firm's total common equity in its balance sheet.  
+Price to Book Ratio:  
+<img src="https://render.githubusercontent.com/render/math?math=PriceToBookRatio = \frac{MarketPricePerShare}{EquityBookValuePerShare}">  
+A ratio of greater than 1 says that investors beleive the firm is more valuable than the amount shareholders have invested in it. Inversly a ratio of less than 1 suggests that investors do not beleive the stock is worth the amount shareholders have invested in it. 
+
+### Economic Value Added (EVA) 
+EVA Attempts to measure a firm's economic profit rather than it's accounting profit for a given year. Economic profits assign a cost to the equity capital (opportunity cost of the funds provided by the shareholders) in addition to the interest cost on the firm's debt. Even though accountatns recognize only the interest expense as a financing cost when calculating a firm's net income. 
+Economic Value Added (EVA):  
+<img src="https://render.githubusercontent.com/render/math?math=EVA = (OperatingReturnOnAssets - CostOfCapital) \times TotalAssets">  
+This is but a simple explanation of EVA. In reality it requires converting a firm's financial statements from an accountant's perspective (GAAP) to an ecnomic book value which is a very involved effort. 
+
+## Limitations of Financial Ratio Analysis
+1. It is sometimes difficult to determine the industry to which a firm belongs when the firm engages in multiple lines of business. 
+2. Published peer group or industry averages are only approximations. They provide the user with general guidlines, rather than scientifically determined averages of the ratios for all, or even representative sample of the fimrs within an industry. 
+3. An industry average is not necessarily a desirable target ratio or norm. At best, it shows an indication as to the financial position of the average firm within the industry. 
+4. Accounting practices differ widely among firms. 
+5. Financial ratios can be too high or too low
+6. Many firms experience seasonal changes in their operations. To avoid this, an average account balance should be used (one calculated on the basis of several months or quarters) rather than the year-end balance. 
 
 # Chapter 7: The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
