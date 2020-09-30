@@ -656,6 +656,44 @@ PV = PP / *r*
 - PP = Constant dollare amount provided by the perpetuity
 - *r* = annual interest rate 
 
+# Chapter 6: The Meaning and Measurement of Risk and Return
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
+### Table of Contents: 
+1. [Expected Return Defined and Measured](#Expected-Return-Defined-and-Measured)
+2. [Risk Defined and Measured](#Risk-Defined-and-Measured)
+3. Rates of Return: The Investor's Experience
+4. Risk and Diversification
+5. The Investor's Required Rate of Return
+
+This chapter assist's in the understanding the nature of risk and how risk *should* relate to expected returns on investments. We will look back beyond the past few years to see what we can learn about long-term historical risk-and-return relationships.  
+
+## Expected Return Defined and Measured
+To begin the discussion about an asset's expected rate of return let's first understand how to compute a **historical** or **realized rate of return** on an investment; it can also be called the **holding-period return**  
+
+**Holding-Period dollar gain (DG)** = price<sub>end of period</sub> + cash distribution (Dividend) - price<sub>beginning of period</sub>  
+Holding-period rate of return (*r*) = dollar gain / price<sub>beginning of period</sub> = price<sub>end of period</sub> + dividend - price<sub>beginning of period</sub> / price<sub>beginning of period</sub>  
+
+The method described above is used to compute the holdin-period return on our investment tells us the return we actually earned during a historical time period. However the risk-return trade-off that investors face on a day-to-day basis is based *not* on realized rates of return but on what the investor *expects* to earn on an investment in the future. WE can think of the rate as one that will from making a risky investment in terms of range of possible return outcomes, much like the distribution of grades in a class at the end of a term. To describe this range of possible returns, it is customary to use the average of the different possible returns. This average of possible rates of return as the investment's **expected rate of return**  
+In any given year, the investment could produce any one of three possible cash flows, depending on the particular state of the economy. One approach is to calculate an *expected* cash flow. the expected cash flow is simply the weighted average of the *possible* cash flow outcomes where the weights are teh probabilities of the various states of the economy occurring.  
+As an Equation:  
+
+Expected Cash flow (CF) = (Cash flow in state 1 (CF<sub>1</sub>) * Probability of state 1 (Pb<sub>1</sub>)) + (Cash flow in state 2 (CF<sub>2</sub>) * Probability of state 2 (Pb<sub>2</sub>)) + .... + (Cash flow in state *n* (CF<sub>*n*</sub>) * Probability of state *n* (Pb<sub>*n*</sub>))
+
+Similar to the expected cash flow, teh expected rate of return is *an average of all the possible returns, weighted by the probability that each return will occur*  
+
+Expected Rate of Return (*r*) = (Rate of Return for state 1 (*r*<sub>1</sub>) * Probability of state 1 (Pb<sub>1</sub>)) + (Rate of Return for state 2 (*r*<sub>2</sub>) * Probability of state 2 (Pb<sub>2</sub>)) + .... + (Rate of Return for state *n* (CF<sub>*n*</sub>) * Probability of state *n* (Pb<sub>*n*</sub>))  
+
+## Risk Defined and Measured  
+In our study of risk, we want to consider these questions: 
+1. What is risk? 
+2. How do we know the amount of risk associated with a given investment; that is, how do we measure risk? 
+3. If we chose to diversify our investments by owning more than one asset, as most of us do, will such diversification reduce the riskiness of our combined portfolio of investments? 
+
+The definition of risk varies from person to person, it depends on the context and on how they feel about taking chances.  
+In Finance we define **risk** as the potential variability in future cash flows.  
+
+We can quantify the risk of an investment by computing the variance in the possible investment returns and its square root, known as the **standard deviation (σ)**  
+Variance in rates of return (σ<sup>2</sup>) = [(Rate of return for state 1 (r<sub>1</sub>) - expected rate of return (r))<sup>2</sup> * Probability of state 1 (Pb<sub>1</sub>)]
 
 # Chapter 7: The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
