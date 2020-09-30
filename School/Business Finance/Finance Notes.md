@@ -572,6 +572,91 @@ This is but a simple explanation of EVA. In reality it requires converting a fir
 5. Financial ratios can be too high or too low
 6. Many firms experience seasonal changes in their operations. To avoid this, an average account balance should be used (one calculated on the basis of several months or quarters) rather than the year-end balance. 
 
+# Chapter 5: The Time Value of Money
+to compare and evaluate investment proposals, we need to understand hwo dollare values might accrue. While time lines are a simple to construct and understand they prove to be invaluable for understanding complex problems in finance. 
+
+| Years | 0 | 1 | 2 | 3 | 4 | 
+| --- |--- |--- | --- |--- | --- |
+| **Cash Flows** | -100 | 30 | 20 | 10 | 50
+- positive values are cash **inflows**
+- negative values are cash **outflows**
+- Year 0 is today, or the day the investment starts. The time periods can be any value relevant to the investment (days, weeks, months, years)
+- in the above time line the investment rate (*r*) is equal to 10%
+
+**Compound Interest:** Interest paid on the initial investment during the first period is added to the principle; then, during the second period, interest is earned on this new principle. 
+
+**Future Value** = FV = PresentValue * (1 + *r*)<sup>*n*</sup>
+- FV = Future Value of the investment
+- r = interest rate
+- n = number of (days, weeks, months, years) between interest payments. 
+- (1 + *r*)<sup>*n*</sup> is called the **Future Value Factor**
+
+**Simple Interest** When you only earn interest on the principle amount. 
+
+The inverse of the Future Value formula is the **Present Value Formula**   
+Present Value = PV = FV<sub>*n*</sub>(1 / (1 + *r*)<sup>*n*</sup>)
+
+**Annuity:** Series of equal dollar payments for a specified number of years. 
+> unless otherwise noted I will be referring to *ordinary annuities* when referring to any annuity in these notes. 
+
+**Compound Annuity:** Depositing or investing an equal sum of money at teh end of each year, for a certain number of years and allowing it to grow.  
+FV<sub>A</sub> = PMT((1 + *r*)<sup>*n*</sup> -1 / *r* )
+- r = investment rate
+- n = number of days, weeks, months, years
+- PMT = Annual deposit or investment. 
+
+The **Annuity Futur Value Factor** is: 
+- ((1 + *r*)<sup>*n*</sup> -1 / *r* )  
+
+The inverse of a compund annuity is the **Present Value of an Annuity** 
+PV<sub>A</sub> = PMT( 1 - (1 + *r*)<sup>*-n*</sup> / *r* )  
+>N is a negative value here  
+
+The **Annuity Present Value Factor** is: 
+- ( 1 - (1 + *r*)<sup>*-n*</sup> / *r* )
+
+**Annuities Due:** Just like an ordinary annuity except all annuity payments are shifted forward by 1 year.  
+
+Future Value<sub>Annuity Due</sub> = PMT(1 + (1 +*r*)<sup>*n*</sup> / *r* )(1 + *r* )  
+And the inverse:  
+Present Value<sub>Annuity Due</sub> = PMT(1 - (1 +*r*)<sup>*-n*</sup> / *r* )(1 + *r* )  
+> Annuities Due are more common in accounting than they are in the finance world. 
+
+**Amortized Loans:** Loans that are padi off in equal, periodic, payments. 
+>To Determine your periodic payments, use the Present Value of Annuity Due Formula
+
+Comparing Interest Rates: To compare two loans where interest is compounded at different intervals, we convert the interest to the **Annual Percentage Rate (APR)**
+
+APR = Interest Rate per period multiplied by Compounding periods per year. 
+> APR calculation will not compare rates that do NOT compound the same number of times over a year. 
+
+APR is also known as the nominal or stated interest rate, also required by law to be displayed on loans. 
+
+To compare interest rates with different compounding intervals we use the **Effective Annual Rate (EAR)** also known as the Annual Percentage Yeild (APY) 
+
+EAR = (1 + APR / *m*)<sup>*m*</sup> - 1
+= *m* = Compounding periods per year
+
+**Periodic Rate:** Interest rate per nonannual compounding period. 
+
+Periodic Rate = PR = APR / *m*
+- *m* =  Compounding periods per year
+
+Present and Future Values with Nonannual periods  
+FV<sub>*n*</sub> = PV(1 + APR / *m* )<sup>*m* * *r*</sup>
+- FV<sub>*n*</sub> = Future value at the end of *n* years
+- *n* = number of years compounding occurs. 
+- APR = Annual Percentage Rate
+- PV = Present Value: Original value invested. 
+- *m* = number of times compounding occurs per year. 
+
+**Perpetuity** An annuity that continues forever. 
+PV = PP / *r*
+- PV = Present Value, original value invested. 
+- PP = Constant dollare amount provided by the perpetuity
+- *r* = annual interest rate 
+
+
 # Chapter 7: The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 ### Table of Contents: 
