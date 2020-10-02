@@ -11,6 +11,7 @@
 - [Chapter 2: The Financial Markets and Interest Rates](#Chapter-2:-The-Financial-Markets-and-Interest-Rates)
 - [Chapter 3: Understandign Financial Statements and Cash Flows](#Chapter-3:-Understandign-Financial-Statements-and-Cash-Flows)
 - [Chapter 4: Evalutaing a Firms Financial Performance](#Chapter-4:-Evalutaing-a-Firms-Financial-Performance)
+- [Chapter 6 The Meaning and Measurement of Risk and Return](#Chapter-6-The-Meaning-and-Measurement-of-Risk-and-Return)
 - [Chapter 7: The Valuation and Characteristics of Bonds](#Chapter-7:-The-Valuation-and-Characteristics-of-Bonds)
 - [Chapter 8: Valuation and Characteristics of Stock](#Chapter-8:-Valuation-and-Characteristics-of-Stock)
 
@@ -755,7 +756,7 @@ Investor's Required Rate of Return = risk-free rate of return + risk premium
 
 ### Measuring the Required Rate of Return
 The finance profession has had difficulty in developing a practical approach to measure an investor's requried rate of return; however, financial managers often use a method called the capital asset pricing model (CAPM)  
-**capital asset pricing model (CAPM)** an equation tha tequates the expected rae of return on a stock to the risk free rate plus a risk premium for hte stock's systematic risk. This is widely accepted but is not without critisim.   
+**capital asset pricing model (CAPM)** an equation that equates the expected rae of return on a stock to the risk free rate plus a risk premium for the stock's systematic risk. This is widely accepted but is not without critisim.   
 Starting to measure the CAPM begins with calculating the Risk Premium. 
 
 Risk Premium = Investor's required rate of return ( *r* ) - risk free rate of return ( *r<sub>f</sub>* )
