@@ -661,9 +661,9 @@ PV = PP / *r*
 ### Table of Contents: 
 1. [Expected Return Defined and Measured](#Expected-Return-Defined-and-Measured)
 2. [Risk Defined and Measured](#Risk-Defined-and-Measured)
-3. Rates of Return: The Investor's Experience
-4. Risk and Diversification
-5. The Investor's Required Rate of Return
+3. [Rates of Return: The Investor's Experience](#Rates-of-Return:-The-Investor's-Experience)
+4. [Risk and Diversification](#Risk-and-Diversification)
+5. [The Investor's Required Rate of Return](#The-Investor's-Required-Rate-of-Return)
 
 This chapter assist's in the understanding the nature of risk and how risk *should* relate to expected returns on investments. We will look back beyond the past few years to see what we can learn about long-term historical risk-and-return relationships.  
 
@@ -694,6 +694,79 @@ In Finance we define **risk** as the potential variability in future cash flows.
 
 We can quantify the risk of an investment by computing the variance in the possible investment returns and its square root, known as the **standard deviation (σ)**  
 Variance in rates of return (σ<sup>2</sup>) = [(Rate of return for state 1 (r<sub>1</sub>) - expected rate of return (r))<sup>2</sup> * Probability of state 1 (Pb<sub>1</sub>)]
+
+How to interpret this risk? 
+1. Statisticians tell us that 2/3 of the time, an event will fall within 1 standard deviation of the expected value (assuming an even distribution) 
+	- given a 14% expected return and standard deviation of 11.14% we can reasonably anticipate that the actual returns will fall between 2.86% and 25.14% (14% ± 11.14%) 2/3's of the time. 
+2. The dstandard deviation comes by comparing the chosen investment against other investments. The attractivesness of a security with respect to its return and risk cannot be determined in isolation. 
+
+## Rates of Return: The Investor's Experience
+Lets look at returns that investors have actually received on different types of securities.   
+Ibbotson Associates publishes the long-term historical annual rates of return for the folowing types of investmetns beginning in 1926 and continuing to the present: 
+1. Common stocks of large companies
+2. common stocks of small firms
+3. Long-term U.S. Government bonds. 
+4. Intermediate-term U.S. Government bonds. 
+6. U.S. Treasury bills (short-term Government securities) 
+
+| Securities | Nominal Average Annual Return | Standard Deviation of Returns | Real Average Annual Returns | Risk Premium | 
+| --- | --- | --- | --- | --- | 
+| Stocks of small firms | 16.7% | 32.1% | 13.8% | 13.2% | 
+| Stocks of large companies | 12.1% | 20.1% | 9.2% | 8.6% |
+| Intermediate-term U.S. Government bonds | 6.3% | 5.6% | 3.4% | 2.8% | 
+| Corporate Bonds | 6.1% | 8.4% | 3.2% | 2.6% |   
+| U.S. Treasury Bills | 3.5% | 3.1% | 0.6% | 0.0% | 
+| Inflation | 2.9% | 4.1% | - | - |
+
+## Risk and Diversification 
+How is risk affected if we diversify our investment by holding a variety of securities? 
+### Diversifying Away the Risk 
+If we diversify our investments the variability of our portfolio *should* decline. In practice, it would be rather difficult to cancel all the variations of return of a portfolio because stock prices have some tendency to move together.  
+We can divide the total risk (total variability) into two types of risk: 
+1. Company-unique Risk (Unsystematic risk): Risks in this investment are unique to the company and can be diversified away.  
+2. Market Risk (Systematic Risk): Risk in this investment relate to the market as a whole and cannot be diversified away. 
+### Measuring Market Risk
+Monthly returns measured against the market over a 1 year period provide a way of measuring market risk.  
+Calculated as follows: 
+
+Monthly Holding Return = price<sub>end of month</sub> - price<sub>beginning of month</sub> / price<sub>beginning of month</sub> = (price<sub>end of month</sub> / price<sub>beginning of month</sub>) - 1
+
+Average Holding-Period Return = (return in month 1 + return in month 2 + ... + return in last month) / number of monthly returns
+
+Standard Deviation = √( ((return in month 1 - average return)<sup>2</sup> + (return in month 2 - average return)<sup>2</sup> + ... + (return in last month - average return)<sup>2</sup>) / number of monthly returns - 1)
+
+It is helpful to see the relationship between the desired stock and that of the market in a graphical format.   
+**Characteristic line** A line of 'best fit' between the desired stock and the market. The slope of the characteristic line measures the average relationship between a stock's returns and those of the market. Stated differently the slope of the line indicates the average movement in a stocks price in respone to a movement in the markets price.   
+The slope of this line (in financial terms) is called the **Beta (ß)**
+>TODO: add graph showing this^^^
+
+### Measuring a Portfolio's Beta
+**Portfolio beta** is merely the average of the individual stock betas. It is a weighted average of the individual securities betas, with the weights being equal to the proportion of the portfolio invested in each security. 
+
+Portfolio Beta = (Percentage of portfolio invested in asset 1 * Beta for asset 1) + (Percentage of portfolio invested in asset 2 * Beta for asset 2) + ... + (Percentage of portfolio invested in asset *n* * Beta for asset *n*)
+
+## The Investor's Required Rate of Return
+**Required rate of return:** the minimum rate of return necessary to attract an investor to purchase or hold a security.  
+Calculated as follows: 
+
+Investor's Required Rate of Return = risk-free rate of return + risk premium 
+- Risk-free rate of return is the required rate of return, or discount rate, for riskless investments. They typical measure for this is the U.S. Treasury bill rate. 
+- Risk Premium is the additional return we must expect to receive for assuming risk. 
+
+### Measuring the Required Rate of Return
+The finance profession has had difficulty in developing a practical approach to measure an investor's requried rate of return; however, financial managers often use a method called the capital asset pricing model (CAPM)  
+**capital asset pricing model (CAPM)** an equation tha tequates the expected rae of return on a stock to the risk free rate plus a risk premium for hte stock's systematic risk. This is widely accepted but is not without critisim.   
+Starting to measure the CAPM begins with calculating the Risk Premium. 
+
+Risk Premium = Investor's required rate of return ( *r* ) - risk free rate of return ( *r<sub>f</sub>* )
+
+In general; The appropriate requrired rate of return for a given security should be determined by:  
+
+Required Return on security ( *r* ) = risk free rate of return ( *r<sub>f</sub>* ) + [ beta for security ( *ß* ) * ( required return on market portfolio ( *r<sub>m</sub>* ) - risk free rate of return ( *r<sub>f</sub>* ) ) ]  
+
+A graphical representation of CAPM is the security market link  
+**Security Market Line:** Is is a line that shows the appropriate required rate of return given a stock's systematic risk.  
+>TODO: Add graph showing this^^^ 
 
 # Chapter 7: The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
