@@ -769,21 +769,19 @@ A graphical representation of CAPM is the security market link
 **Security Market Line:** Is is a line that shows the appropriate required rate of return given a stock's systematic risk.  
 >TODO: Add graph showing this^^^ 
 
-# Chapter 7: The Valuation and Characteristics of Bonds  
+# Chapter 7 The Valuation and Characteristics of Bonds  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 ### Table of Contents: 
-1. Types of Bonds
-2. Terminology and Characteristics of Bonds
-3. Defining Value
-4. What Determinds Value
-5. Valuation: The basic process 
-6. Valuing Bonds
-7. Bond Yields 
-8. Bond Valuation: Three Important Relationships
+1. [Types of Bonds](#Types-of-Bonds)
+2. [Terminology and Characteristics of Bonds](#Terminology-and-Characteristics-of-Bonds)
+3. [Defining Value](#Defining-Value)
+4. [What Determines Value](#What-Determines-Value)
+5. [Valuation The basic process](#Valuation-The-basic-process) 
+6. [Valuing Bonds](#Valuing-Bonds)
+7. [Bond Yields](#Bond-Yields)
+8. [Bond Valuation Three Important Relationships](#Bond-Valuation-Three-Important-Relationships)
 
 > A Bond is a type of debt or long-term promissory note, issued by the borrower, promising to pay it's holder a predetermined and fixed amount of interest per year and the face value of the bond at maturity    
-
----
 
 ## Types of Bonds: 
 
@@ -809,7 +807,7 @@ A graphical representation of CAPM is the security market link
 - Bond issued in a country different from the one in which the currency of the bond is denominated. 
 	- ex: a bond issued in Europe but interest is paid in US dollars. 
 	- bond needs to be sold in another country different from the one where the bonds currancy is denominated 
-- Eurobo,nds are **NOT** registered with the SEC (Securities and Exchange Commission) 
+- Eurobonds are **NOT** registered with the SEC (Securities and Exchange Commission) 
 - favorable rates of return 
 - less rigorous disclosure requriements than those of SEC 
 - may **NOT** be offered to US citizens and residents
@@ -869,11 +867,10 @@ A graphical representation of CAPM is the security market link
 	- **AA** Bonds rated AA also qualify as high quality debt obligations. Their capacity to pay principal and interest is very strong; in the majority of instances, they differ from AAA issues only by a small degree. 
 	- **A** Bonds rated A have a strong capacity to pay principal and interest, although they are somewhate more susceptible to the adverse effects of changes in circumstances and economic conditions
 	- **BBB** Bonds rated BBB are regarded as having an adequate capacity to pay principal and interest. whereas they normally exhibit adequate protection parameters, adverse economic conditions or changing circumstances are more likely to lead to a weakened capacity to pay principal and interest for bonds in this catagory than for bonds in the A catagory
-	- ** BB B CCC CC ** => Bonds rated BB, B, CCC, or CC are regarded, on balance, as predomiinantly speculative with respect to the issuer's capacity to pay interest and repay principal in accordance with the terms of obligation. BB indicates the lowest degree of speculation, and CC is the highest. Although such bonds will likely have some quality and protective characteristics, they are outweighted by large uncertainties or major risk exposures to adverse conditions. 
-	- ** C** This rating is reserved for bonds that are paying 0 interest. 
+	- **BB B CCC CC** => Bonds rated BB, B, CCC, or CC are regarded, on balance, as predomiinantly speculative with respect to the issuer's capacity to pay interest and repay principal in accordance with the terms of obligation. BB indicates the lowest degree of speculation, and CC is the highest. Although such bonds will likely have some quality and protective characteristics, they are outweighted by large uncertainties or major risk exposures to adverse conditions. 
+	- **C** This rating is reserved for bonds that are paying 0 interest. 
 	- **D** Bonds rated D are in default; and payment of principal and/or interest is in arrears. 
 
----
 
 ## Defining Value
 - Value is defined differently depending on it's context. For us, in finance, value is the present value of future cash flows expected to be received from an investment, discounted at the investor's required rate of return. 
@@ -884,21 +881,30 @@ A graphical representation of CAPM is the security market link
 - Efficient market: market in which the value of all securitites fully recognize all available public information. 
 - Behavioral finance: the field of study that examines whether investors act rationally or irrationally when making investment descisions
 
-### 3 Major factors in determining value
+## What Determines Value
+For our purposes, the value of an asset is it's intrinsic value or the present value of it's expected future cash flows. The value of bonds is determined by 3 elements: 
 1. Amount and timing of future cash flows
 2. the riskiness of the cash flows
-3. the investors attitude towards risk 
+3. the investors attitude towards risk (Required rate of return)  
 
-### Valuation: The basic process 
+The first two factors are characteristics of the asset. The third one is the minimum rate of return necessary to attract an investor to purchase or hold a security.  Finding the value of an asset involves the following steps: 
+1. Assess the asset's characteristics, which include the amount and timing of the expected cash flows and the riskiness of these cash flows.  
+2. Determine the investor's requried rate of return, which embodies the investor's attitude about assuming risk and the investor's perception of the riskiness of the asset. 
+3. Discount the expected cash flows back to the present, using the investor's required rate of return as the discount rate.   
+
+## Valuation The basic process 
 - Assigns value to an asset by calculating the present value of its expected future cash flows using the investors required rate of return as the discount rate. Investors required rate *r* is determined by the level fo the risk-free rate of interest and risk premium that the investor feels is necessary compensation. 
-- `V = Cn / ( 1 + r)^n`
+
+Asset Value = Cash flow in year 1 / ( 1 + required rate of return)<sup>1</sup> + Cash flow in year 2 / ( 1 + required rate of return)<sup>2</sup> + ... + Cash flow in year *n* / ( 1 + required rate of return)<sup>*n*</sup>
+
+- `V = C`<sub>`1`</sub>` / ( 1 + r)^*1* + C`<sub>`2`</sub>` / ( 1 + r)`<sup>`2`</sup>` + ... + C`<sub>*`n`*</sub> `/ ( 1 + r)`<sup>*`n`*</sup>
 - where: 
 	- `V` = Intrisic value, or present value of an asset producing expected future cashflows (`C`) in years 1 through `n`
-	- `C` = Cash flow to be received at time `t`
+	- `C`<sub>`t`</sub> = Cash flow to be received at time `t`
 	- `r` = Investors requried rate of return 
 	- `n` = number of years 
 
-### Valuing bonds 
+## Valuing bonds 
 - Present value of bond plus the future interest to be received and the par or maturity value of the bond. 
 - Process for valuing a bond, need to know 3 things: 
 	- The amount and timing of the cash flows to be received by the investor. 
@@ -910,9 +916,10 @@ A graphical representation of CAPM is the security market link
 		- the face value to be received at bond maturity
 	- **STEP 2** Determine the investor's required rate of return by evaluating the riskiness of the bond's future cash flows. Required rate of return is equal to the rate earned on a risk-free security plus a risk premium for assuming risk. 
 	- **STEP 3** Calculate intrinsic value of the bond as the present value of the expected future interest and principal payment discounted at the investor's requried rate of return. 
-	- value of bonds Equation: ![equation here](https://buffswtamu-my.sharepoint.com/:i:/g/personal/wrchesley1_buffs_wtamu_edu/EUFYjVx9j0lFodRgApcTl34BkhHIxYG83uc7izumOBtQUg?e=eIR65X "alt text")
+	- value of bonds Equation:   
+![equation here](../../images\School\Value-Of-Bond-Equation.PNG "alt text")
 
-### Bond Yields 
+## Bond Yields 
 - There are two calculations used to measure the rate of return a bondholder receives from owning a bond. 
 	- Yield to maturity
 	- Current yield 
@@ -921,15 +928,23 @@ A graphical representation of CAPM is the security market link
 - The yield to maturity is the rate of return the investor will earn if the bond is held to maturity, provided, of course, that the company issuing the bond does not default on the payments. (This is equal to the expected rate of return) 
 - We compute the yield to maturity by finding the discount rate that equates the present value of the future interest payments and principal payment to the bond's current market price. 
 
+To solve for expected rate of return for a bond:  
+
+market price = P<sub>0</sub> = $ Interest in year 1 / ( 1 + Expected rate of return)<sup>1</sup> + $ Interest in year 2 / ( 1 + Expected rate of return)<sup>2</sup> + ... + $ Interest in year *n* / ( 1 + Expected rate of return)<sup>*n*</sup> + $ Maturity value of bond / (1 + Expected rate of return)<sup>*n*</sup> 
+
 ## Current Yield
 - The current yield on a bond is the ratio of the annual interest payment of the bond’s current market price. 
-- The current yield is not an accurate measure of the bondholder’s expected rate of return from holding the bond to maturity. 
+- The current yield is not an accurate measure of the bondholder’s expected rate of return from holding the bond to maturity. Rather the current yield indicates the cash income that results from holding a bond in a given year, but it fails to recognize the capital gain or loss that will occur if the bond is held to maturity. 
+
+To solve for Current yield: 
+
+Current Yield = annual interest payment / current market price of the bond
 
 ## Bond valuation, Three important relationships 
 
-A. Relationship 1 A decrease in interest rates (required rates of return) will cause the value of a bond to increase; an interest rate increase will cause a decrease in value. The change in value caused by changing interest rates is called interest rate risk. 
-B. Relationship 2 1. If the bondholder's required rate of return (current interest rate) equals the coupon interest rate, the bond will sell at par, or maturity value. 2. If the current interest rate exceeds the bond's coupon rate, the bond will sell below par value or at a discount. 3. If the current interest rate is less than the bond's coupon rate, the bond will sell above par value or at a premium. 
-C. Relationship 3 A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
+1. **Relationship 1** A decrease in interest rates (required rates of return) will cause the value of a bond to increase; an interest rate increase will cause a decrease in value. The change in value caused by changing interest rates is called interest rate risk. 
+2. **Relationship 2** 1. If the bondholder's required rate of return (current interest rate) equals the coupon interest rate, the bond will sell at par, or maturity value. 2. If the current interest rate exceeds the bond's coupon rate, the bond will sell below par value or at a discount. 3. If the current interest rate is less than the bond's coupon rate, the bond will sell above par value or at a premium. 
+3. **Relationship 3** A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
 
 
 # Chapter 8 Valuation and Characteristics of Stock
