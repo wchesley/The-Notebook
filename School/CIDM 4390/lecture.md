@@ -131,3 +131,19 @@ have some user stories...
 - as an instructor I want an easy way to make FCAR reports 
 - as a department head I want to see how well Student objectives are covered across classes
 - as a department head I want to see the distribution of Program Educational Objectives to Student Objectives
+
+## 10/7/2020
+- stories worded as spoken word
+- backlog grooming... 
+- goal is more encompassing... 
+- admin functionality
+- add auth
+- fixtures for .net? seed? or scaffold? json, xml if going config file route? 
+- so that I can... 
+- so commits, show checkins with features. 
+- stricter use of rubin termenology he will want to just see the proof. 
+- reread sprint planning/execution...though terminology is still vague.. 
+- read retrospective
+- have insight backlog on friday; 
+- enforce smart commits, have to log hours per feature? can do this in jira. 
+- 
