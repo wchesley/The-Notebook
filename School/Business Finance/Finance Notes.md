@@ -7,15 +7,15 @@
  Publisher: Pearson
 
 ### Table of Contents: 
-- [Chapter 1: Introduction to the foundations of Financial Management](#Chapter-1:-An-Introduction-to-the-foundations-of-Financial-Management)  
-- [Chapter 2: The Financial Markets and Interest Rates](#Chapter-2:-The-Financial-Markets-and-Interest-Rates)
-- [Chapter 3: Understandign Financial Statements and Cash Flows](#Chapter-3:-Understandign-Financial-Statements-and-Cash-Flows)
-- [Chapter 4: Evalutaing a Firms Financial Performance](#Chapter-4:-Evalutaing-a-Firms-Financial-Performance)
+- [Chapter 1: Introduction to the foundations of Financial Management](#Chapter-1-An-Introduction-to-the-foundations-of-Financial-Management)  
+- [Chapter 2: The Financial Markets and Interest Rates](#Chapter-2-The-Financial-Markets-and-Interest-Rates)
+- [Chapter 3: Understandign Financial Statements and Cash Flows](#Chapter-3-Understandign-Financial-Statements-and-Cash-Flows)
+- [Chapter 4: Evalutaing a Firms Financial Performance](#Chapter-4-Evalutaing-a-Firms-Financial-Performance)
 - [Chapter 6 The Meaning and Measurement of Risk and Return](#Chapter-6-The-Meaning-and-Measurement-of-Risk-and-Return)
-- [Chapter 7: The Valuation and Characteristics of Bonds](#Chapter-7:-The-Valuation-and-Characteristics-of-Bonds)
-- [Chapter 8: Valuation and Characteristics of Stock](#Chapter-8:-Valuation-and-Characteristics-of-Stock)
+- [Chapter 7: The Valuation and Characteristics of Bonds](#Chapter-7-The-Valuation-and-Characteristics-of-Bonds)
+- [Chapter 8: Valuation and Characteristics of Stock](#Chapter-8-Valuation-and-Characteristics-of-Stock)
 
-# Chapter 1: An Introduction to the foundations of Financial Management
+# Chapter 1 An Introduction to the foundations of Financial Management
 
 ### The Goal of the Firm: 
 The fundamental goal of the firm is to create value for the owners, more commonly stated as 'maxamizing shareholders wealth'.   
@@ -78,7 +78,7 @@ Double taxation provides a huge hurdle for entrepreneurs and small business owne
 - **Limited Liability Companies (LLC):** A cross between a partnership and a corporation. just as with the S-Corp, LLC retains limited liabilty for its owners, but it runs and is taxed like a partnership. In General it provides more flexability than an S-Corp. LLC's operate under state and IRS laws, state laws vary between states. Bottom line is that an LLC must not look to much like a corporation else it'll be taxed like one. 
 
 
-# Chapter 2: The Financial Markets and Interest Rates
+# Chapter 2 The Financial Markets and Interest Rates
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
 - Capital Markets: *All the finanaical institutions that help a business raise long-term capital* (Long term meaning) greater than 1 year
 This section will focus on how business's go to raise money in the capital markets and helps to understand how capital markets work. 
@@ -303,7 +303,7 @@ The term structure of interest rates changes over time as expectations change
 The market segmentation theory of term structure of interest rates is built on the notion that legal restrictiosn and personal preferences limit choices for investors of certain rages of maturities. At an extreme the market segmentation theory implies that *the rate of interest for a particular maturity is determined soley by demand and supply for a given maturity and that it is independent of hte demand and supply for securities having different maturities*
 
 
-# Chapter 3: Understandign Financial Statements and Cash Flows  
+# Chapter 3 Understanding Financial Statements and Cash Flows  
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 1. The Income Statement
 2. The Balance Sheet
@@ -414,7 +414,7 @@ This is essentially a comparison of a companies current assets and currnet liabi
 | **Decrease in an asset** | **Increase in an asset** | 
 | Example: Selling invetories or collecting receivables provides cash | Example: Investing in fixed assets or buying mor inventory uses cash | 
 
-# Chapter 4: Evalutaing a Firms Financial Performance
+# Chapter 4 Evalutaing a Firms Financial Performance
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)  
 ### Table of Contents: 
 1. [The Purpose of Financial Analysis](#The-Purpose-Of-financial-analysis)
@@ -932,13 +932,14 @@ B. Relationship 2 1. If the bondholder's required rate of return (current intere
 C. Relationship 3 A bondholder owning a long-term bond is exposed to greater interest rate risk than an investor owning a short-term bond.  
 
 
-# Chapter 8: Valuation and Characteristics of Stock
+# Chapter 8 Valuation and Characteristics of Stock
 ###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
-- Preferred Stock
-- Valuing Preferred Stock
-- Common Stock
-- Valuing Common Stock
-- Expected Rate of Return of Stockholders
+### Table of Contents
+- [Preferred Stock](#Preferred-Stock)
+- [Valuing Preferred Stock](#Valuing-Preferred-Stock)
+- [Common Stock](#Common-Stock)
+- [Valuing Common Stock](#Valuing-Common-Stock)
+- [Expected Rate of Return of Stockholders](#Expected-Rate-of-Return-of-Stockholders)
 
 As previously noted, the primary goal of finance managers should be to increase the value of a firms common stock. Thus, we need to understand what determines stocks value. Also, only with an understanding of valutation can we compute a firm's cost of capital, a concept essential to making effective capital investment decisions-an issue to be discussed in chapter 9.
 
