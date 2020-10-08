@@ -814,7 +814,7 @@ A graphical representation of CAPM is the security market link
 
 ### Convertable Bonds 
 - debt securitites that can be converted to a firm's stock at a prespecified price. 
-	- ie. buy bond wiht face value of $1000, maturing in 6 years. in 6 years time you can either take the total pay out of $1000 or since the company offered conversion at $50/stock you could take 20 stocks in the firm. Taking the option would be dependant on the currant price of the firm's stock at the time of the bonds payout. should valueation of stock be greater than $50 you could take the stock option and increase the bond payout (dividends or selling stock outright). 
+	- ie. buy bond with a face value of $1000, maturing in 6 years. In 6 years time you can either take the total pay out of $1000 or since the company offered conversion at $50/stock you could take 20 stocks in the firm. Taking the option would be dependant on the currant price of the firm's stock at the time of the bonds payout. should valuation of stock be greater than $50 you could take the stock option and increase the bond payout (dividends or selling stock outright). 
 
 ## Terminology and Characteristics of Bonds
 
