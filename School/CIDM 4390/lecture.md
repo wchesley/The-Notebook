@@ -146,4 +146,12 @@ have some user stories...
 - read retrospective
 - have insight backlog on friday; 
 - enforce smart commits, have to log hours per feature? can do this in jira. 
+
+
+## 10/9/2020 Meeting 
+- will cover testing next wednesday, then SOLID
+- rotation in work load; ensure one person doesn't do too much of one thing, ie. Shaun can't be our only DBA, everyone should be almost equal in terms of database admin. 
+- complete product backlog, 
+- flesh out measurement of course learning outcomes. 
+- finish authorization 
 - 
