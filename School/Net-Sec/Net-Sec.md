@@ -9,7 +9,7 @@
 - [Chapter 8 Firewalls](#Chapter-8-Firewalls)
 
 # Chapter 5 IP Addressing
-###### [Back to top](#-Table-of-Contents)
+###### [Back to top](#Table-of-Contents)
 <div id="TextViewer-root" class="TextViewer-root">
   <p>As you study this section, answer the following questions:</p>
 
