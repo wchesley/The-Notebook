@@ -3,10 +3,12 @@
 #### WTAMU CIDM-3385
 
 # Table of Contents: 
+- [Chapter 5 IP Addressing](#Chapter-5-IP-Addressing)
 - [Chapter 7 Routing](#Chapter-7-Routing)
 - [Chapter 8 Firewalls](#Chapter-8-Firewalls)
 
 # Chapter 5 IP Addressing
+###### [Back to top](#-Table-of-Contents)
 <div id="TextViewer-root" class="TextViewer-root">
   <p>As you study this section, answer the following questions:</p>
 
