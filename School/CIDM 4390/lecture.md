@@ -154,4 +154,14 @@ have some user stories...
 - complete product backlog, 
 - flesh out measurement of course learning outcomes. 
 - finish authorization 
-- 
+
+
+## 10/12/2020
+- acceptance criteria is given, when then. 
+- admin is the only one to create new users. Helps make system more secure. 
+
+## 10/14/2020
+- Archiving old records
+    - as an administrator I want to archive old records so that they can be referred to later
+    - given a record is old, when a class has been completed and reviewed by faculty then the records should be archived as read-only
+
