@@ -954,7 +954,7 @@ Current Yield = annual interest payment / current market price of the bond
 - [Valuing Preferred Stock](#Valuing-Preferred-Stock)
 - [Common Stock](#Common-Stock)
 - [Valuing Common Stock](#Valuing-Common-Stock)
-- [Expected Rate of Return of Stockholders](#Expected-Rate-of-Return-of-Stockholders)
+- [The Expected Rate of Return of Stockholders](#The-Expected-Rate-of-Return-of-Stockholders)
 
 As previously noted, the primary goal of finance managers should be to increase the value of a firms common stock. Thus, we need to understand what determines stocks value. Also, only with an understanding of valutation can we compute a firm's cost of capital, a concept essential to making effective capital investment decisions-an issue to be discussed in chapter 9.
 
@@ -1003,7 +1003,7 @@ As previously noted, the primary goal of finance managers should be to increase 
 
 ## Valuing Common Stock
 - Like bonds and preferred stock, common stock value is equal to the present value of all future cash flows (dividends in this case) expected to be received by the stockholder. *However* Common stock does not have a garunteed dividend like preferred stock does. For common stock the divided is based on profitability of the firm. 	
-	- Common Stock value is equal to teh dividend in year 1 divided by the required rate of return minus the growth rate of the company. 
+	- Common Stock value is equal to the dividend in year 1 divided by the required rate of return minus the growth rate of the company. 
 	- V<sub>cs</sub> = D<sub>1</sub> / r<sub>cs</sub> - g
 		- where g = ROE x pr 
 		- ROE = Return on equity (net income divided by common book value) 
@@ -1013,11 +1013,21 @@ As previously noted, the primary goal of finance managers should be to increase 
 ## The Expected Rate of Return of Stockholders
 - The rate of return the investor can expect to earn from the investment if it is bought at the current market price. 
 	- Expected rate of return is equal to the annual divided divided by the preferred stock market price 
-	- r<sub>ps</sub> = D / P<sub>ps</sub>
-	- r<sub>ps</sub> = D / P<sub>ps</sub>
+### Preferred Stock: 
 
+Preferred Stock Value: V<sub>ps</sub> = Annual Dividend / Required rate of return = D / r<sub>ps</sub>
 
-# Cost of Capital
+Required Rate of return:  r<sub>ps</sub> = Annual Dividend / Preferred Stock Value = D / V<sub>ps</sub> 
+
+The required rate of return of preferred stockholders simply equals the stock's annual dividend divided by the stock's intrinsic value. We can also use this equation to solve fora  preferred stock's expected rate of return *R*<sub>ps</sub> as follows: 
+
+Expected Rate of return = *R*<sub>ps</sub> = Annual Dividend / Preferred stock market prices = D / P<sub>ps</sub>
+
+The expected rate of return equals the annual dividend relative to the price the stock is currently selling for. Therefore the **Expected Rate of Return** is the rate of return the investore can expect to earn from the investment if it is bought at the current market price. 
+
+### Common Stock: 
+
+# Chapter 9 The Cost of Capital
 - The return a company needs in order to take on a capital project, such as purchasing new equipment or constructing a new building. 
 	- usually comprised of both equity and debt 
 	- returns should exceed costs of financing the project else investors will not see a return. 
