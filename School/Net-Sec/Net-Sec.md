@@ -4,6 +4,7 @@
 
 # Table of Contents: 
 - [Chapter 5 IP Addressing](#Chapter-5-IP-Addressing)
+- [Chapter 6 Switch Management](#Chapter-6-Switch-Management)
 - [Chapter 7 Routing](#Chapter-7-Routing)
 - [Chapter 8 Firewalls](#Chapter-8-Firewalls)
 
@@ -3207,6 +3208,1759 @@ Interface: 192.168.1.141 on Interface 0x1000003
 
 </br>
 
+# Chapter 6 Switch Management
+###### [Back to top](#Network-Security-and-Data-Communications)
+<br/>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+  <div class="discussion">
+    <ul>
+      <li>What are the requirements for connecting a VTY (virtual terminal) to a Cisco device?</li>
+      <li>What types of cable can you use to connect a PC to a router console port?</li>
+      <li>What is the difference between a managed switch and an unmanaged switch?</li>
+      <li>What is the difference between in-band and out-of-band management?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Use the command line interface (CLI).</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">Managed Switch</td>
+      <td class="content">A switch that must be configured before you can use 
+		it.</td>
+    </tr>
+    <tr>
+      <td class="centered">Unmanaged Switch</td>
+      <td class="content">An unmanaged switch allows Ethernet devices to communicate with one another automatically using
+      auto-negotiation to determine parameters such as the data rate and whether to use half-duplex or full-duplex mode.</td>
+    </tr>
+    <tr>
+      <td class="centered">Out-of-Band Management</td>
+      <td class="content">Out-of-band management allows you to use a dedicated communication channel that separates management
+      traffic from normal network traffic. Network switches and routers allow you to use console redirection to access the
+      device's console through a built-in serial or USB port.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>You must configure an enterprise network switch before you implement it. An <i>unmanaged switch</i> is a low-end switches
+  available from many retail stores. To implement an unmanaged switch, plug it into a power outlet and connect your network devices
+  with UTP cables. While unmanaged switches are convenient and easy to implement, they lack many of the advanced management and
+  security features available. It is preferable to use a managed switch instead. A <i>managed switch</i> is a switch that must be configured before you
+  can use it.</p>
+
+  <h3 style="color:#F96302">In-Band Management</h3>
+
+  <p>In-band management allows you to perform router and switch management tasks using a standard network connection. You do this
+  with management utilities your workstation operating system provides through a network connection. For example, tools such as
+  Telnet and SSH provide in-band management. Using the same network connection for both data and management has several
+  drawbacks:</p>
+
+  <ul>
+    <li>You must compete with normal network traffic for bandwidth.</li>
+
+    <li>The network traffic created by the management utilities must have protection from sniffing attacks to ensure that hackers
+    cannot capture sensitive configuration information.</li>
+
+    <li>If the network connection is unavailable or the device is unresponsive to network communications, you cannot perform
+    management tasks.</li>
+  </ul>
+
+  <h3 style="color:#F96302">Out-of-Band Management</h3>
+
+  <p>Out-of-band management allows you to use a dedicated communication channel 
+	that separates management traffic from normal network traffic. Network switches and routers 
+	allow you to use console redirection to access the device's console through a
+  built-in serial or USB port. For example, Cisco routers and switches do not use monitors, and you cannot connect a keyboard or a
+  mouse directly to the device. Instead, you connect a standard PC to the device's console port to manage the device.</p>
+
+  <h3 style="color:#F96302">System Management</h3>
+
+  <p>Use the following options to manage a Cisco device:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Cisco Connection Type</td>
+        <td class="contentheader">Description</td>
+      </tr>
+      <tr>
+        <td class="centered">Console</td>
+        <td class="content">
+          A console connection allows for a direct connection through a PC to the console port on the device. The PC needs a
+          terminal emulation program (such as PuTTY) to connect to the device's command line interface. This is an example of
+          out-of-band management. In the terminal emulation program, use the following settings:
+          <ul>
+            <li>9600 baud (or a rate supported by your router)</li>
+            <li>Data bits = 8 (default)</li>
+            <li>Parity = None (default)</li>
+            <li>Stop bits = 1 (default)</li>
+            <li>Flow control = None</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Virtual Terminal (VTY)</td>
+        <td class="content">A VTY connection connects through a LAN or WAN interface configured on the device. Use a program (such
+        as PuTTY) to open the command line interface. This is an example of in-band management. The Cisco device must be configured
+        with an IP address before a VTY connection can be made.</td>
+      </tr>
+      <tr>
+        <td class="centered">Security Device Manager (SDM)</td>
+        <td class="content">
+          The Cisco SDM allows a web browser connection to the device using HTTPS. When connected, the SDM allows you to manage
+          the security features and network connections through a web-based graphical user interface. This is an example of in-band
+          management. Be aware of the following SDM settings:
+          <ul>
+            <li>10.10.10.1 is the default IP address of the SDM.</li>
+            <li>The default value for both the username and password is <b>cisco</b>.</li>
+          </ul>
+          <blockquote class="info">
+            A new router may not be completely configured for an SDM connection, so you may need to make a console connection
+            first.
+          </blockquote>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3 style="color:#F96302">Router and Switch Connection</h3>
+
+  <p>Use the following cable types to make the initial connection to the switch or router for device management:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Cable Type</td>
+        <td class="centered">Pin-outs</td>
+        <td class="contentheader">Use</td>
+      </tr>
+      <tr>
+        <td class="centered"><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/cab_typ/ro.jpg" width="320" height="180" border="0"><br>
+        Rollover Ethernet Cable</td>
+        <td class="centered">1 ' 8<br>
+        2 ' 7<br>
+        3 ' 6<br>
+        4 ' 5<br>
+        5 ' 4<br>
+        6 ' 3<br>
+        7 ' 2<br>
+        8 ' 1</td>
+        <td class="content">
+          Use a rollover Ethernet cable to connect the device's console port to the serial port on a PC. Connect the RJ45 end
+          to the console port, and connect the serial end to the PC. A rollover cable is also called a <i>console cable</i>.
+          <blockquote class="info">
+            Many recently developed Cisco devices use a USB for the console connector, so you can access it with any standard USB
+            cable.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered"><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/cab_typ/st.jpg" width="320" height="180" border="0"><br>
+        Straight-Through Ethernet Cable</td>
+        <td class="centered">1 ' 1<br>
+        2 ' 2<br>
+        3 ' 3<br>
+        6 ' 6</td>
+        <td class="content">
+          Use a straight-through Ethernet cable to connect an Ethernet port on a router to an Ethernet port on a hub or switch. You
+          can then access the router from another PC connected to the same network using a VTY connection.
+          <blockquote class="info">
+            If the router has an AUI port, connect one end to an AUI transceiver before you connect to the router.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered"><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/cab_typ/co.jpg" width="320" height="180" border="0"><br>
+        Crossover Ethernet Cable</td>
+        <td class="centered">1 ' 3<br>
+        2 ' 6<br>
+        3 ' 1<br>
+        6 ' 2</td>
+        <td class="content">
+          Use a crossover Ethernet cable to connect an Ethernet port on a router directly to the NIC in a PC. Establish a VTY
+          session from the PC to connect to the device.
+          <blockquote class="info">
+            If the router has an AUI port, connect one end to an AUI transceiver before you connect to the router.
+          </blockquote>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Switch IP Configuration
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>Why would you configure an IP address on a switch?</li>
+      <li>What does the <b>ip address dhcp</b> command allow you to do?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Configure management VLAN settings.</li>
+      <li>Configure switch IP settings.</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">VLAN</td>
+      <td class="content">A VLAN (Virtual Local Network) is a group of devices on one or more local area networks (LANs) that are
+      configured to communicate as if they were attached to the same wire when, in fact, they could be located on a number of
+      different LAN segments.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>Keep in mind the following facts about IP addresses configured on switches:</p>
+
+  <ul>
+    <li>Basic switches operate at Layer 2, so they are able to perform switching functions with no IP address configured.</li>
+    <li>A switch does not need to have an IP address configured unless you want to manage it with an in-band management utility
+    such as SSH or a web-based interface.</li>
+    <li>Switch ports do not have IP addresses unless the switch performs Layer 3 switching, which is not supported on all
+    switches.</li>
+    <li>The switch itself only has one active IP address. The IP address identifies the switch as a host on the network.</li>
+  </ul>
+
+  <h3 style="color:#F96302">Configure the Switch IP Address</h3>
+
+  <p>To configure the switch IP address, set the address on the VLAN interface (a logical interface defined on the switch to allow
+  management functions). By default, the VLAN is VLAN 1. Use the following commands to configure the switch IP address:</p>
+
+  <code>
+    switch#config terminal<br>
+    <br>
+    switch(config)#interface vlan 1<br>
+    <br>
+    switch(config-if)#ip address <i>IP_address subnet_mask</i><br>
+    <br>
+    switch(config-if)#no shutdown
+  </code>
+
+  <h3 style="color:#F96302">Enable Management From a Remote Network</h3>
+
+  <p>To enable management from a remote network, configure the default gateway. Use the following command in global configuration
+  mode:</p>
+
+  <code>
+    switch(config)#ip default-gateway <i>IP_address</i>
+  </code>
+
+  <blockquote class="info">
+    You can use the <code>ip address dhcp</code> command to configure a switch (or a router) to get its IP address from a DHCP server.
+    The DHCP server can be configured to deliver the default gateway and DNS server addresses to the Cisco device as well. A
+    manually configured default gateway address overrides any address received from the DHCP server.
+  </blockquote>
+
+  <blockquote class="info">
+    You can use the <code>show cdp neighbors detail</code> command to displays detailed information about neighboring devices including
+    network address, enabled protocols, hold time, and software version.
+  </blockquote>
+</div>
+
+## Switch Interface Configuration
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>How does the VLAN interface configuration mode differ from Ethernet, FastEthernet, and GigabitEthernet interface
+      configuration modes?</li>
+      <li>What must you consider if you manually configure speed or duplex settings?</li>
+      <li>What happens when autonegotiation fails for the Ethernet interface on a Cisco device?</li>
+      <li>What is the default setting for all ports on a switch?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Configure switch interfaces.</li>
+      <li>Configure switch ports.</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">Forwarding Database</td>
+      <td class="content">A forwarding database is a list of Layer 2 MAC addresses and the ports used to reach each device.</td>
+    </tr>
+    <tr>
+      <td class="centered">Content Addressable Memory<br>
+      (CAM)</td>
+      <td class="content">The Content Addressable Memory (CAM) table stores the relationship between the MAC addresses on the
+      network and the switch port each one is connected to.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+## Switch Forwarding
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>Bridges and switches build forwarding databases. A <i>forwarding database</i> is a list of Layer 2 MAC addresses and the ports
+  used to reach each device. Bridges and switches automatically learn about devices to build the forwarding database, but a network
+  administrator can also program the device database manually. When a frame arrives on a switch port (also called an interface),
+  the switch examines the source and destination address in the frame header and uses the information to complete the following
+  tasks:</p>
+
+  <table>
+    <tbody>
+      <tr class="header">
+        <td class="centered">Step</td>
+        <td class="contentheader">Results</td>
+      </tr>
+      <tr>
+        <td class="centered">
+          <p>1. The switch examines the source MAC address of the frame and notes which switch port the frame arrived on.</p>
+        </td>
+        <td class="content">
+          <p>If the source MAC address is:</p>
+          <ul>
+            <li>Not in the switch's Content Addressable Memory (CAM) table, a new entry is added to the table that maps the
+            source device's MAC address to the port on which the frame was received. Over time, the switch builds a map of the
+            devices that are connected to specific switch ports.</li>
+            <li>Already mapped to the port on which the frame was received, no changes are made to the switch's CAM table.</li>
+            <li>Already in the switch's CAM table but the frame was received on a different switch port, the switch updates the
+            record in the CAM table with the new port.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">
+          <p>2. The switch examines the destination MAC address of the frame.</p>
+        </td>
+        <td class="content">
+          <p>If the destination MAC address of the frame is:</p>
+          <ul>
+            <li>A broadcast address, then the switch sends a copy of the frame to all connected devices on all ports. This is
+            called flooding the frame.</li>
+            <li>A unicast address but no mapping exists in the CAM table for the destination address, the switch floods the frame
+            to all ports. The connected device that the frame is addressed to will accept and process the frame. All other devices
+            will drop the frame.</li>
+            <li>A unicast address and mapping exists in the CAM table for the destination address, the switch sends the frame to
+            the switch port specified in the CAM table. This is called forwarding the frame.</li>
+            <li>A unicast address and mapping exists in the CAM table for the destination address, but the destination device is
+            connected to the same port from which the frame was received, the switch ignores the frame and does not forward it.
+            This is called filtering the frame.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Switch Configuration Mode (Cisco)
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>The following image illustrates some of the configuration modes available on a Cisco switch:</p>
+
+  <p><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/swi_mode/swi_mode.jpg" border="0"></p>
+
+  <h3 style="color:#F96302">Cisco Switch Configuration Modes</h3>
+
+  <p>The following table describes some of these configuration modes:</p>
+
+  <table border="1">
+    <tbody>
+    <tr class="header">
+      <td class="centered">Mode</td>
+      <td class="contentheader">Details</td>
+      <td class="contentheader" width="200">CLI Mode Prompt</td>
+    </tr>
+    <tr>
+      <td class="centered">Interface Configuration</td>
+      <td class="content">
+        <p>The switch has multiple interface modes depending on the physical (or logical) interface type. For this course, you
+        should be familiar with the following switch interface modes:</p>
+        <ul>
+          <li>Ethernet (10 Mbps Ethernet)</li>
+          <li>FastEthernet (100 Mbps Ethernet)</li>
+          <li>GigabitEthernet (1 GB Ethernet)</li>
+          <li>VLAN</li>
+        </ul>
+        <blockquote class="info">
+          The VLAN interface configuration mode is used to configure the switch IP address and for other management functions. It
+          is a logical management interface configuration mode rather than the physical interface configuration modes used for the
+          FastEthernet and GigabitEthernet ports.
+        </blockquote>
+      </td>
+      <td class="content code">Switch(config-if)#</td>
+    </tr>
+    <tr>
+      <td class="centered">Config-VLAN</td>
+      <td class="content">
+        Config-VLAN mode:
+        <ul>
+          <li>Can perform all VLAN configuration tasks.</li>
+          <li>Applies changes immediately.</li>
+        </ul>
+        <blockquote class="info">
+          Do not confuse the Config-VLAN mode with the VLAN interface configuration mode.
+        </blockquote>
+      </td>
+      <td class="content code">Switch(config-vlan)#</td>
+    </tr>
+    <tr>
+      <td class="centered">VLAN Configuration</td>
+      <td class="content">
+        VLAN configuration mode:
+        <ul>
+          <li>Allows you to configure a subset of VLAN features.</li>
+          <li>Does not apply changes until you save them, either before or while exiting the configuration mode.</li>
+          <li>Does not store changes in the regular switch configuration file.</li>
+        </ul>
+        <blockquote class="info">
+          For most modern Cisco switches, it is recommended that you configure VLAN parameters from config-vlan mode, as VLAN
+          configuration mode is being deprecated (phased out).
+        </blockquote>
+      </td/>
+      <td class="content code">Switch(vlan)#</td>
+    </tr>
+    <tr>
+      <td class="centered">Line Configuration</td>
+      <td class="content"><span class="content">Use Line Configuration mode to configure parameters for the terminal line, such as
+      the console, Telnet, and SSH lines.</span></td>
+      <td class="content code">Switch(config-line)#</td>
+    </tr>
+  </tbody></table>
+</div>
+
+## Switch Configuration Commands List
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>The following table lists common switch configuration commands:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="contentheader">Command</td>
+        <td class="contentheader">Action</td>
+      </tr>
+      <tr>
+        <td class="content code">switch(config)#interface FastEthernet 0/14<br>
+        <br>
+        switch(config)#interface GigabitEthernet 0/1</td>
+        <td class="content">Moves to interface configuration mode.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch(config)#interface range fastethernet 
+		0/14 - 24<br>
+        <br>
+        switch(config)#interface range gigabitethernet 0/1 - 4<br>
+        <br>
+        switch(config)#interface range fa 0/1 - 4 , 7 - 10<br>
+        <br>
+        switch(config)#interface range fa 0/8 - 9 , gi 0/1 - 2</td>
+        <td class="content">Moves to configuration mode for a range of 
+		interfaces.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch(config-if)#speed 10<br>
+        <br>
+        switch(config-if)#speed 100<br>
+        <br>
+        switch(config-if)#speed 1000<br>
+        <br>
+        switch(config-if)#speed auto</td>
+        <td class="content">Sets the port speed on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch(config-if)#duplex half<br>
+        <br>
+        switch(config-if)#duplex full<br>
+        <br>
+        switch(config-if)#duplex auto</td>
+        <td class="content">Sets the duplex mode on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch(config-if)#no shutdown<br>
+        <br>
+        switch(config-if)#shutdown</td>
+        <td class="content">Enables or disables the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch#show interface status</td>
+        <td class="content">Shows the interface status of all ports.</td>
+      </tr>
+      <tr>
+        <td class="content code">switch#show ip interface brief</td>
+        <td class="content">Shows the line and protocol status of all ports.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3 style="color:#F96302">Switch Configuration Facts</h3>
+<p>Important facts about switch configuration include the following:</p>
+
+  <ul>
+    <li>All switch ports are enabled (no shutdown) by default.</li>
+    <li>Port numbering on some switches begins at 1, not 0. For example, <b>
+	FastEthernet 0/1</b> is the first FastEthernet port on a switch.</li>
+    <li>Through auto-negotiation, the 10/100/1000 ports configure themselves to 
+	operate at the speed of attached devices. If the attached ports do not 
+	support auto-negotiation, you can explicitly set the speed and duplex 
+	parameters.</li>
+    <li>Some switches always use the <i>store-and-forward</i> switching method. 
+	On other models, you may be able to configure the switching method.</li>
+    <li>If the speed and duplex settings are set to <b>auto</b>, the switch&nbsp; 
+	uses auto-MDIX to sense the cable type (crossover or straight-through) 
+	connected to the port and automatically adapts itself to the cable type 
+	used. When you manually configure the speed or duplex setting, it disables 
+	auto-MDIX, so you need to be sure you use the correct cable.</li>
+    <li>By default, the link speed and duplex configurations for Ethernet 
+	interfaces in Cisco devices are set using IEEE 802.3u auto-negotiation. The 
+	interface negotiates with remote devices to determine the correct settings. 
+	However, you can disable auto-negotiation con the Cisco device and other 
+	Ethernet network hosts and manually assign static values. Devices with 
+	auto-negotiation enabled try to negotiate link speed and duplexing, but get 
+	no response. When auto-negotiation fails, Cisco devices that have 
+	auto-negotiation enabled default to the following:
+      <ul>
+        <li>The interface attempts to sense the link speed. If it cannot, it 
+		uses the slowest link speed supported on the interface (usually 10 
+		Mbps).</li>
+        <li>If the link speed selected is 10 Mbps or 100 Mbps, half-duplex is 
+		used. If it is 1000 Mbps, full-duplex is used.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+## Virtual LANs
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>What are two advantages of creating VLANs on your network?</li>
+      <li>You have two VLANs configured on a single switch. How many broadcast domains are there? How many collision domains are
+      there?</li>
+      <li>What happens if two devices on the same switch are assigned to different VLANs?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Create VLANs.</li>
+      <li>Explore VLANs.</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">VLAN</td>
+      <td class="content">A VLAN (Virtual Local Network) is a group of devices on one or more local area networks (LAN) that are
+      configured to communicate as if they were attached to the same wire when, in fact, they could be located on a number of
+      different LAN segments.</td>
+    </tr>
+    <tr>
+      <td class="centered">VLAN ID</td>
+      <td class="content">Switches use VLAN identifications (IDs) to route VLAN traffic. VLAN IDs are appended to the header of
+      each frame.<br>
+      In addition, VLAN IDs allow switches to identify which VLAN the frame belongs to and are used for inter-switch traffic.<br>
+      &nbsp;</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>A virtual LAN (VLAN) uses switch ports to define a broadcast domain. When 
+	you define a VLAN, you assign devices on different switch ports to a 
+	separate logical (or virtual) LAN. Although a switch can support multiple 
+	VLANs, each switch port can only be assigned to one VLAN at a time. The 
+	following graphic shows a single-switch VLAN configuration:</p>
+
+  <p><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/swi_vfct/swi_vfct.jpg" border="0"></p>
+
+  <p>In the single-switch VLAN configuration above, the following is true:</p>
+
+  <ul>
+    <li>FastEthernet ports 0/1 and 0/2 are members of VLAN 1.</li>
+    <li>FastEthernet ports 0/3 and 0/4 are members of VLAN 2.</li>
+    <li>Workstations in VLAN 1 cannot communicate with workstations in VLAN 2 
+	even though they are connected to the same physical switch. Communications 
+	between VLANs requires a router, just as with physical LANs.</li>
+    <li>Two broadcast domains are defined, each of which corresponds to one of 
+	the VLANs.</li>
+    <li>On Cisco switches, all ports are members of VLAN 1 by default.</li>
+  </ul>
+
+  <h3 style="color:#F96302">VLAN IDs</h3>
+
+  <p>Switches use VLAN IDs to route VLAN traffic. VLAN IDs:</p>
+
+  <ul>
+    <li>Are appended to the header of each frame.</li>
+    <li>Allow switches to identify which VLAN the frame belongs to.</li>
+    <li>Are used for inter-switch traffic.</li>
+  </ul>
+
+  <blockquote class="info">
+    VLAN IDs are only understood by switches. VLAN IDs are added and removed by 
+	switches, not the clients.
+  </blockquote>
+
+  <h3 style="color:#F96302">VLAN Switch Benefits</h3>
+
+  <p>VLANs with switches offer many administrative benefits. You can:</p>
+
+  <ul>
+    <li>Create virtual LANs based on criteria other than physical location (such 
+	as workgroup, protocol, or service).</li>
+    <li>Simplify device moves (devices are moved to new VLANs by modifying the 
+	port assignment).</li>
+    <li>Control broadcast traffic and create collision domains based on logical 
+	criteria.</li>
+    <li>Control security (isolate traffic within a VLAN).</li>
+    <li>Load-balance network traffic (divide traffic logically rather than 
+	physically).</li>
+  </ul>
+
+  <blockquote class="info">
+    VLANs are commonly used with Voice over IP (VoIP) to separate voice traffic 
+	from data traffic. Traffic on the voice VLAN can be given a higher priority 
+	to ensure timely delivery.
+  </blockquote>
+</div>
+
+## VLAN Commands List
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>To configure a simple VLAN, first create the VLAN, then assign ports to 
+	that VLAN. The following table shows common VLAN configuration commands:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="contentheader">Command</td>
+        <td class="contentheader">Action</td>
+      </tr>
+      <tr>
+        <td class="Content code">switch(config)#vlan <i>[1-4094]</i><br>
+        <br>
+        switch(config-vlan)#name <i>[unique_name]</i></td>
+        <td class="content">
+          Defines a VLAN.<br>
+          Gives the VLAN a name.
+          <blockquote class="info">
+            Naming the VLAN is optional. VLAN names must be unique.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="Content code">switch(config)#no vlan <i>[1-4094]</i></td>
+        <td class="content">
+          Deletes a VLAN.
+          <blockquote class="info">
+            When you delete a VLAN, all ports assigned to the deleted VLAN 
+			remain associated with it and are, therefore, inactive. After a VLAN 
+			is deleted, you must reassign its ports to an appropriate VLAN.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="Content code">switch(config-if)#switchport access vlan <i>
+		[1-4094]</i></td>
+        <td class="content">
+          Assigns ports to the VLAN.<br>
+          <blockquote class="info">
+            If you assign a port to a VLAN that does not exist, the VLAN is 
+			created automatically.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="Content code">switch#show vlan<br>
+        <br>
+        switch#show vlan brief</td>
+        <td class="content">Shows a list of VLANs on the system.</td>
+      </tr>
+      <tr>
+        <td class="Content code">switch#show vlan id <i>[1-4064]</i></td>
+        <td class="content">Shows information for a specific VLAN.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 class="subtitle">Example</h4>
+
+  <p>The following commands create VLAN 12, name it IS_VLAN, identify port 0/12 
+	as having only workstations attached to it, and assign the port to VLAN 12.</p>
+
+  <blockquote class="code">
+    switch#config t<br>
+    switch(config)#vlan 12<br>
+    switch(config-vlan)#name IS_VLAN<br>
+    switch(config-vlan)#interface fast 0/12<br>
+    switch(config-if)#switchport access vlan 12
+  </blockquote>
+</div>
+
+## Trunking
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>What is trunking?</li>
+      <li>Why is trunking important to VLAN configuration?</li>
+      <li>What protocol does a Cisco switch use to automatically detect trunk ports?</li>
+      <li>By default, traffic from which VLANs are allowed on trunk ports?</li>
+      <li>What is the default configuration of most Cisco switches?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Configure trunking</li>
+      <li>Configure the native VLAN</li>
+      <li>Configure allowed VLANs</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">VTP</td>
+      <td class="content">VLAN Trunking Protocol (VTP) is a Cisco proprietary protocol that propagates the definition of Virtual
+      Local Area Networks (VLAN) on the whole local area network. Trunking occurs when you configure VLANs that span multiple
+      switches.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>Trunking occurs when you configure VLANs that span multiple switches, as 
+	shown in the following diagram:</p>
+
+  <p><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/swi_tfct/swi_tfct.jpg" border="0"></p>
+
+  <p>In this example, each switch has two VLANs configured with one port on each 
+	VLAN. Workstations in VLAN 1 can only communicate with other workstations in 
+	VLAN 1. This means that workstations connected to the same switch in this 
+	example cannot communicate directly with each other. Communications between 
+	workstations within each VLAN must pass through the trunk link to the other 
+	switch.</p>
+<h3 style="color:#F96302">Trunking Facts</h3>
+  <p>Important facts regarding trunking and VLANs include the following:</p>
+
+  <ul>
+    <li>Access ports are connected to endpoint devices (such as workstations), 
+	while trunk ports are connected to other switches.</li>
+    <li>An access port can be a member of only a single VLAN.</li>
+    <li>Trunk ports are members of all VLANs on the switch by default.</li>
+    <li>Any port on a switch can be configured as a trunk port.</li>
+    <li>By default, trunk ports carry traffic for all VLANs between switches. 
+	However, you can reconfigure a trunk port so that it carries only specific 
+	VLANs on the trunk link.</li>
+  </ul>
+
+  <p>When trunking is used, frames that are sent over a trunk port are tagged 
+	with the VLAN ID number so the receiving switch knows which VLAN the frame 
+	belongs to. In VLAN tagging:</p>
+
+  <ul>
+    <li>Tags are appended by the first switch in the path and removed by the 
+	last.</li>
+    <li>Only VLAN-capable devices understand the frame tag.</li>
+    <li>Tags must be removed before a frame is forwarded to a non-VLAN capable 
+	device.</li>
+  </ul>
+
+  <p>A trunking protocol defines the process that switches use to tag frames 
+	with a VLAN ID. One widely implemented trunking protocol is the IEEE 802.1Q 
+	standard, which supports a wide range of switches from many device 
+	manufacturers. 802.1Q supports VLAN numbers 1 through 4094.</p>
+
+  <p>802.1Q trunking does not tag frames from the default VLAN, but does tag 
+	frames from all other VLANs. For example, suppose VLAN 1 is the default VLAN 
+	on a switch (the default setting on most Cisco switches). In this 
+	configuration, any frame on VLAN 1 that is placed on a trunk link is not 
+	assigned a VLAN tag. If a switch receives a frame on a trunk port that 
+	doesn't have a VLAN tag, the frame is automatically put on VLAN 1.</p>
+
+  <blockquote class="info">
+    When using switches from multiple vendors in the same network, be sure that 
+	each device supports the 802.1Q standard.
+  </blockquote>
+
+  <p>The VLAN Trunking Protocol (VTP) simplifies VLAN configuration on a 
+	multi-switch network by propagating configuration changes between switches. 
+	For VTP to work, the switches must be connected by trunk links. With VTP, 
+	switches are configured in one of the following configuration modes:</p>
+
+  <ul>
+    <li>A switch in <i>server mode</i> is used to modify the VLAN configuration. 
+	The switch then advertises VTP information to other switches in the network.</li>
+    <li>A switch in <i>client mode</i> receives changes from a VTP server switch 
+	and passes that information on to other switches. Changes cannot be made to 
+	the local VLAN configuration on a client switch.</li>
+    <li>A switch in <i>transparent mode</i> allows local configuration of VLAN 
+	information, but it does not update its configuration with information from 
+	other switches. Likewise, local VLAN information is not advertised to other 
+	switches. However, VTP information received on the network is passed on to 
+	other switches.</li>
+  </ul>
+
+  <p>By default, most managed switches are preconfigured to operate in server 
+	mode. If you do not intend to use VTP, configure your switches to use 
+	transparent mode.</p>
+</div>
+
+## Trunking Commands List
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>The following table lists important commands for configuring and monitoring 
+	trunking on a Cisco switch:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="contentheader">Command</td>
+        <td class="contentheader">Action</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport mode trunk</td>
+        <td class="content">Enables trunking on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport mode access</td>
+        <td class="content">Configures an interface as an access port, which 
+		disables trunking on the interface (if it was previously configured).</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport trunk 
+		encapsulation dot1q<br>
+        <br>
+        Switch(config-if)#switchport trunk encapsulation negotiate</td>
+        <td class="content">
+          <p>Sets the trunking protocol to 802.1Q.</p>
+          <p>Allows the trunking protocol to be negotiated between switches.</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport trunk native vlan <i>
+		[vlan_id]</i></td>
+        <td class="content">Configures the VLAN that sends and receives untagged 
+		traffic on the trunk port when the interface is in 802.1Q trunking mode.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport trunk allowed vlan 
+		all<br>
+        <br>
+        Switch(config-if)#switchport trunk allowed vlan add <i>[vlan_id]</i></td>
+        <td class="content">Defines which VLANs are allowed to communicate over 
+		the trunk.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport trunk allowed vlan 
+		remove <i>[vlan_id]</i></td>
+        <td class="content">Removes a VLAN from a trunk link.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#switchport access vlan <i>
+		[number]</i></td>
+        <td class="content">Assigns an interface to a VLAN.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show interface trunk<br>
+        <br>
+        Switch#show interface fa0/1 trunk</td>
+        <td class="content">
+          Shows interface trunking information with the following:
+          <ul>
+            <li>Mode</li>
+            <li>Encapsulation</li>
+            <li>Trunking status</li>
+            <li>VLAN assignments</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 class="subtitle">Example</h4>
+
+  <p>Two distribution layer switches, SW1 and SW2, are connected through their 
+	respective Gi0/1 interfaces. The following commands configure a trunk link 
+	between the switches:</p>
+
+  <blockquote class="code">
+    SW1&gt;ena<br>
+    SW1#conf t<br>
+    SW1(config)#int gi 0/1<br>
+    SW1(config-if)#switchport mode trunk
+  </blockquote>
+
+  <blockquote class="code">
+    SW2&gt;ena<br>
+    SW2#conf t<br>
+    SW2(config)#int gi 0/1<br>
+    SW2(config-if)#switchport mode trunk
+  </blockquote>
+</div>
+
+## Spanning Tree Protocol 
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>Why does root switch selection never require a tie breaker?</li>
+      <li>When would you modify an STP mode?</li>
+      <li>How does PVST+ differ from Rapid PVST+?</li>
+      <li>How do ports work in a multiple VLAN environment?</li>
+      <li>How are root bridges designated in a multiple VLAN environment?</li>
+      <li>What happens during STP convergence?</li>
+    </ul>
+  </div>
+
+  <p>In this section, you will learn to:</p>
+
+  <div class="skills">
+    <ul>
+      <li>Configure STP</li>
+      <li>Select a root bridge</li>
+      <li>Configure Rapid PVST+</li>
+      <li>Find STP Info</li>
+      <li>Configure EtherChannels</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">Switching Loop</td>
+      <td class="content">Many networks implement redundant paths between multiple switches to create fault tolerance. However,
+      providing redundant paths between segments could cause frames to pass between the redundant paths endlessly. This condition
+      is known as a switching loop.</td>
+    </tr>
+    <tr>
+      <td class="centered">Spanning Tree Protocol<br>
+      (STP)</td>
+      <td class="content">
+        <p>The Spanning Tree Protocol (STP) is a network protocol that builds a 
+		loop-free logical topology for Ethernet networks. </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="centered">Root Bridge</td>
+      <td class="content">The root bridge is the master bridge, or controlling bridge.</td>
+    </tr>
+    <tr>
+      <td class="centered">Designated Bridge</td>
+      <td class="content">A designated bridge is any other device that participates in forwarding packets through the network.</td>
+    </tr>
+    <tr>
+      <td class="centered">Backup Bridge</td>
+      <td class="content">All redundant devices are classified as backup 
+		bridges. They listen to network traffic and build the bridge database. 
+		However, they do not forward packets. They can take over if the root bridge 
+		or a designated bridge
+      fails.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>Many networks implement redundant paths between multiple switches to create 
+	fault tolerance. However, providing redundant paths between segments could 
+	cause frames to pass between the redundant paths endlessly. This condition 
+	is known as a <i>switching loop</i>.</p>
+
+  <p>To prevent switching loops, the IEEE 802.1d committee defined the Spanning 
+	Tree Protocol (STP). With STP, one switch for each route is assigned as the 
+	designated bridge. Only the designated bridge can forward packets. Redundant 
+	switches are assigned as backups.</p>
+
+  <p>The spanning tree protocol:</p>
+
+  <ul>
+    <li>Eliminates loops.</li>
+    <li>Provides redundant paths between devices.</li>
+    <li>Enables dynamic role configuration.</li>
+    <li>Recovers automatically from a topology change or device failure.</li>
+    <li>Identifies the optimal path between any two network devices.</li>
+  </ul>
+
+  <p>The spanning tree protocol uses a spanning tree algorithm (STA) to 
+	calculate the best loop-free path through a network by assigning a role to 
+	each bridge or switch. The bridge role determines how the device functions 
+	in relation to other devices and whether the device forwards traffic to 
+	other segments. </p>
+
+<h3 style="color:#F96302">Bridge Role Types</h3>
+<p>The following table describes the three types of bridge roles:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Role</td>
+        <td class="contentheader">Characteristics</td>
+      </tr>
+      <tr>
+        <td class="centered">Root bridge</td>
+        <td class="content">
+          The <i>root bridge</i> is the master bridge, or controlling bridge.
+          <ul>
+            <li>There is only one root bridge in the network. <span class="content">
+			The root bridge is the logical center of the spanning tree topology 
+			in a switched network.</span></li>
+            <li>The root bridge is determined by the switch with the lowest 
+			bridge ID (BID):
+              <ul>
+                <li>The bridge ID is composed of two parts—a bridge priority 
+				number and the MAC address assigned to the switch.</li>
+                <li>The default priority number for all switches is 32,768. This 
+				means the switch with the lowest MAC address becomes the root 
+				bridge unless you customize the priority values.</li>
+                <li>You can manually configure the priority number to force a 
+				specific switch to become the root switch.</li>
+              </ul>
+            </li>
+            <li>The root bridge periodically broadcasts configuration messages. 
+			These messages are used to select routes and reconfigure the roles 
+			of other bridges if necessary.</li>
+            <li>All ports on a root bridge forward messages to the network.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Designated bridge</td>
+        <td class="content">
+          A <i>designated bridge</i> is any other device that participates in 
+			forwarding packets through the network.
+          <ul>
+            <li>Designated bridges are selected automatically by exchanging 
+			bridge configuration packets.</li>
+            <li>To prevent bridge loops, there is only one designated bridge per 
+			segment.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Backup bridge</td>
+        <td class="content">
+          All redundant devices are classified as <i>backup bridges</i>.
+          <ul>
+            <li>They listen to network traffic and build the bridge database. 
+			However, they will not forward packets.</li>
+            <li>They can take over if the root bridge or a designated bridge 
+			fails.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
+<h3 style="color:#F96302">Port States</h3>
+<p>Devices send special packets called Bridge Protocol Data Units (BPDUs) out 
+each port. BPDUs sent to and received from other bridges are used to determine 
+bridge roles and port states, verify that neighbor devices are still 
+functioning, and recover from network topology changes. During the negotiation 
+process and normal operations, each switch port is in one of the following 
+states:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Port State</td>
+        <td class="contentheader">Description</td>
+      </tr>
+      <tr>
+        <td class="centered">Disabled</td>
+        <td class="content">A port in the disabled state is powered on but does 
+		not participate in forwarding or listening to network messages. A bridge 
+		must be manually placed in the disabled state.</td>
+      </tr>
+      <tr>
+        <td class="centered">Blocking</td>
+        <td class="content">When a device is first powered on, its ports are in 
+		the blocking state. Backup bridge ports are always in the blocking 
+		state. Ports in a blocking state receive packets and BPDUs sent to all 
+		bridges, but they will not process any other packets.</td>
+      </tr>
+      <tr>
+        <td class="centered">Listening</td>
+        <td class="content">The listening state is a transitory state between 
+		blocking and learning. The port remains in the listening state for a 
+		specific period of time. This time period allows network traffic to 
+		settle down after a change has occurred. For example, if a bridge goes 
+		down, all other bridges go into the listening state for a period of 
+		time. During this time, the bridges redefine their roles.</td>
+      </tr>
+      <tr>
+        <td class="centered">Learning</td>
+        <td class="content">A port in the learning state receives packets and 
+		builds the bridge database (associating MAC addresses with ports). A 
+		timer is also associated with this state. The port goes to the 
+		forwarding state after the timer expires.</td>
+      </tr>
+      <tr>
+        <td class="centered">Forwarding</td>
+        <td class="content">The root bridge and designated bridges are in the 
+		forwarding state when they can receive and forward packets. A port in 
+		the forwarding state can learn and forward. All ports of the root switch 
+		are in the forwarding state.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ 
+<h3 style="color:#F96302">Port Types</h3>
+<p>During the configuration process, ports on each switch are configured as one 
+of the following types:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Port Type</td>
+        <td class="contentheader">Description</td>
+      </tr>
+      <tr>
+        <td class="centered">Root Port</td>
+        <td class="content">
+          The port on a designated switch with the lowest port cost back to the 
+			root bridge is identified as the <i>root port</i>.
+          <ul>
+            <li>Each designated switch has a single root port (a single path 
+			back to the route bridge).</li>
+            <li>Root ports are in the forwarding state.</li>
+            <li>The root bridge does not have a root port.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Designated Port</td>
+        <td class="content">
+          One port on each segment is identified as the <i>designated port</i>. 
+			The designated port identifies which port on the segment is allowed 
+			to send and receive frames.
+          <ul>
+            <li>All ports on the root bridge are designated ports (unless the 
+			switch port loops back to a port on the same switch).</li>
+            <li>Designated ports are selected based on the lowest path cost to 
+			get back to the root switch. Default IEEE port costs include the 
+			following:
+              <ul>
+                <li>10 Mbps = 1000</li>
+                <li>100 Mbps = 19</li>
+                <li>1 Gbps = 4</li>
+                <li>10 Gbps = 2</li>
+              </ul>
+            </li>
+            <li>If two switches have the same cost, the switch with the lowest 
+			priority becomes the designated switch, and its port becomes the 
+			designated port.</li>
+            <li>If two ports have the same cost, the port on the switch with the 
+			lowest port ID becomes the designated port.
+              <ul>
+                <li>The port ID is derived from two numbers, the port priority 
+				and the port number.</li>
+                <li>The port priority ranges from 0–255, and its default setting 
+				is 128.</li>
+                <li>The port number is the number of the switch's port. For 
+				example, the port number for Fa0/3 is 3.</li>
+                <li>With the default port priority setting, the lowest port 
+				number becomes the designated port.</li>
+              </ul>
+            </li>
+            <li>Designated ports are used to send frames back to the root 
+			bridge.</li>
+            <li>Designated ports are in the forwarding state.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Blocking Port</td>
+        <td class="content">A blocking port is any port that is not a root or a 
+		designated port. A blocking port is in blocking state.</td>
+      </tr>
+    </tbody>
+  </table>
+
+<h3 style="color:#F96302">Spanning Tree Configuration</h3>
+<p>Devices participating in the spanning tree protocol use the following process 
+to configure themselves:</p>
+
+  <ol>
+    <li>At startup, switches send BPDUs out each port.</li>
+    <li>Switches read the bridge ID contained in the BPDUs to elect (identify) a 
+	single root bridge (the device with the lowest bridge ID). All of the ports 
+	on the root bridge become designated ports.</li>
+    <li>Each switch identifies its root port (the port with the lowest cost back 
+	to the root bridge).</li>
+    <li>Switches on redundant paths identify a designated switch for each 
+	segment. A designated port is also identified on each designated switch.</li>
+    <li>Remaining switch ports that are not root or designated ports are put in 
+	the blocking state to eliminate loops.</li>
+    <li>After configuration, switches periodically send BPDUs to ensure 
+	connectivity and discover topology changes.</li>
+  </ol>
+
+  <p>The following table lists commands used to configure spanning tree:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="contentheader">Command</td>
+        <td class="contentheader c1">Function</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config)#spanning-tree mode {pvst | 
+		rapid-pvst}</td>
+        <td class="content">
+          Sets the spanning tree mode.
+          <ul>
+            <li>PVST+ (Per VLAN Spanning Tree Protocol), also known as PVSTP, is 
+			a Cisco proprietary protocol used on Cisco switches.</li>
+            <li>Rapid PVST+ is Cisco's proprietary version of Rapid STP, which 
+			is based on the 802.1w standard.</li>
+          </ul>
+          <blockquote class="info">
+            PVST+ and Rapid PVST+ are the same except that Rapid PVST+ uses a 
+			rapid convergence based on the 802.1w standard. To provide rapid 
+			convergence, Rapid PVST+ deletes learned MAC address entries on a 
+			per-port basis after receiving a topology change.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config)#spanning-tree vlan <i>[1-4094]</i> 
+		root primary</td>
+        <td class="content">Forces the switch to be the root of the spanning 
+		tree.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config)#spanning-tree vlan <i>[1-4094]</i> 
+		cost <i>[1 - 200000000]</i></td>
+        <td class="content">
+          Manually sets the cost. The cost range value depends on the path-cost 
+			calculation method:
+          <ul>
+            <li>Short method range: 1 - 65536.</li>
+            <li>Long method range: 1 - 200000000.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config)#spanning-tree vlan <i>[1-4094]</i> 
+		priority <i>[0-61440]</i></td>
+        <td class="content">
+          Manually sets the bridge priority number as follows:
+          <ul>
+            <li>The priority value ranges between 0 and 61440.</li>
+            <li>Each switch has the default priority of 32768.</li>
+            <li>Priority values are set in increments of 4096. If you enter 
+			another number, your value is rounded to the closest increment of 
+			4096 or you are prompted to enter a valid value.</li>
+            <li>The switch with the lowest priority number becomes the root 
+			bridge.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config)#no spanning-tree vlan <i>
+		[1-4094]</i></td>
+        <td class="content">Disables spanning tree on the selected VLAN.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show spanning-tree</td>
+        <td class="content">
+          Shows spanning tree configuration information, including the 
+			following:
+          <ul>
+            <li>Root bridge priority and MAC address</li>
+            <li>The cost to the root bridge</li>
+            <li>Local switch bridge ID and MAC address</li>
+            <li>The role and status of all local interfaces</li>
+            <li>The priority and number for each interface</li>
+          </ul>To verify that spanning tree is working, look for an entry 
+			similar to the following for each VLAN:
+          <blockquote class="code">
+            Spanning tree enabled protocol ieee
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show spanning-tree vlan <i>[1-4094]</i> 
+		root</td>
+        <td class="content">
+          Shows information about the root bridge for a specific VLAN. 
+			Information shown includes:
+          <ul>
+            <li>The root bridge ID, including the priority number and the MAC 
+			address</li>
+            <li>The cost to the root bridge from the local switch</li>
+            <li>The local port that is the root port</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show spanning-tree vlan <i>[1-4094]</i> 
+		bridge</td>
+        <td class="content">Shows spanning tree configuration information about 
+		the local switch for the specified VLAN. Information includes the local 
+		bridge ID, including the priority and MAC address.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ 	<h3 style="color:#F96302">Shortest Path Bridging Protocol</h3>
+<p>Even though STP is great at eliminating switching loops, it has a key 
+weakness: it allows only a single active path between two switches at any given 
+time. If that active link goes down, it can sometimes take 30 seconds or more 
+for STP to detect that the link has gone down before it activates a redundant 
+link. To address this weakness, a new protocol, <i>Shortest Path Bridging</i> 
+(SPB), has been developed to eventually replace STP. SPB is a routing protocol 
+defined in the IEEE 802.1aq standard that adds routing functions to Layer 2 
+switching. SPB uses a link-state routing protocol to allow switches to learn the 
+shortest paths through a switched Ethernet network and dynamically adjust those 
+paths as the topology changes, just like a Layer 3 router does.</p>
+
+  <p>SPB addresses this issue by applying Layer 3 routing protocols to Layer 2 
+	switches. This allows those switches to actually route Ethernet frames 
+	between switches, just as Layer 3 protocols route packets between routers. 
+	By doing this, SPB allows multiple links between switches to be active at 
+	the same time without creating a switching loop. This functionality is 
+	designed to eliminate the time lag associated with failed links managed by 
+	STP. If a link between switches goes down on a network that uses SPB, the 
+	frames can be immediately re-routed to the destination segment by using 
+	redundant links between switches that are already active and able to forward 
+	frames.</p>
+</div>
+
+## EtherChannel
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>EtherChannel combines multiple ports on a Cisco switch into a single 
+	logical link between two switches. With EtherChannel:</p>
+  <ul>
+    <li>You can combine 2–8 ports into a single link.</li>
+    <li>All links in the channel group are used for communication between the 
+	switches.</li>
+    <li>Bandwidth between switches is increased.</li>
+    <li>Automatic redundant paths between switches are established. If one link 
+	fails, communication will still occur over the other links in the group.</li>
+    <li>Spanning tree convergence times are reduced.</li>
+  </ul>
+
+  <p><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/trbetherchannel/trbetherchannel_01.png"><img src="https://cdn.testout.com/_version_5012/netpro2018v5-en-us/en-us/resources/text/trbetherchannel/trbetherchannel_02.png"></p>
+
+<h3 style="color:#F96302">&nbsp;</h3>
+<h3 style="color:#F96302">EtherChannel Configuration Protocols</h3>
+<p>Cisco switches can use the following protocols for EtherChannel 
+configuration:</p>
+
+  <table border="1">
+    <tbody><tr class="header">
+      <td class="centered">Protocol</td>
+      <td class="contentheader">Description</td>
+    </tr>
+    <tr>
+      <td class="centered">Port Aggregation Protocol (PAgP)</td>
+      <td class="content">
+        Port Aggregation Protocol prevents loops, limits packet loss due to 
+		misconfigured channels, and aids in network reliability. PAgP operates 
+		in the following modes:
+        <ul>
+          <li>Auto mode places the port into a passive negotiating state and 
+			forms an EtherChannel if the port receives PAgP packets. While in 
+			this mode, the port does not initiate the negotiation.</li>
+          <li>Desirable mode places the port in a negotiating state to form an 
+			EtherChannel by sending PAgP packets. A channel is formed with 
+			another port group in either the auto or desirable mode.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="centered">Link Aggregation Control Protocol (LACP)</td>
+      <td class="content">
+        Link Aggregation Control Protocol is based on the 802.3ad standard and 
+		has similar functions to PAgP. LACP is used when configuring 
+		EtherChannel between Cisco switches and non-Cisco switches that support 
+		802.3ad. LACP operates in the following modes:
+        <ul>
+          <li>Passive mode places the port into a passive negotiating state and 
+			forms an EtherChannel if the port receives LACP packets. While in 
+			this mode, the port does not initiate the negotiation.<br></li>
+          <li>Active mode places the port in a negotiating state to form an 
+			EtherChannel by sending LACP packets. A channel is formed with 
+			another port group in either the active or passive mode.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody></table>
+
+<h3 style="color:#F96302">&nbsp;</h3>
+<h3 style="color:#F96302">EtherChannel Configuration Commands</h3>
+<p>The following table shows common commands that configure EtherChannel:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="contentheader">Command</td>
+        <td class="contentheader">Action</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#channel-protocol lacp<br>
+        <br>
+        Switch(config-if)#channel-protocol pagp</td>
+        <td class="content">Selects the EtherChannel protocol on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#channel-group <i>[1-8]</i> 
+		mode auto<br>
+        <br>
+        Switch(config-if)#channel-group <i>[1-8]</i> mode desirable</td>
+        <td class="content">Selects the PAgP mode on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#channel-group <i>[1-8]</i> 
+		mode active<br>
+        <br>
+        Switch(config-if)#channel-group <i>[1-8]</i> mode passive</td>
+        <td class="content">Selects the LACP mode on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch(config-if)#no channel-group <i>[1-8]</i></td>
+        <td class="content">Disables EtherChannel on the interface.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show etherchannel</td>
+        <td class="content">Displays EtherChannel details on the switch.</td>
+      </tr>
+      <tr>
+        <td class="content code">Switch#show etherchannel summary</td>
+        <td class="content">Displays EtherChannel information for a channel with 
+		a one-line summary per channel group.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <blockquote class="info">
+    Each channel group has its own number. All ports assigned to the same 
+	channel group are viewed as a single logical link.
+  </blockquote>
+
+  <h4 class="subtitle">Examples</h4>
+
+  <p>The following commands configure GigabitEthernet 0/1 and 0/2 interfaces to 
+	actively initiate the negotiation of an EtherChannel with the PAgP protocol 
+	and a channel group of 5:</p>
+
+  <blockquote class="code">
+    Switch&gt;ena<br>
+    Switch#conf t<br>
+    Switch(config)#int range gi 0/1 - 2<br>
+    Switch(config-if-range)#channel-protocol pagp<br>
+    Switch(config-if-range)#channel-group 5 mode desirable
+  </blockquote>
+
+  <p>The following commands configure FastEthernet 0/1 through 0/4 interfaces to 
+	form an EtherChannel with the LACP protocol if the other device actively 
+	initiates the EtherChannel connection:</p>
+
+  <blockquote class="code">
+    Switch&gt;ena<br>
+    Switch#conf t<br>
+    Switch(config)#int range ga 0/1 - 4<br>
+    Switch(config-if-range)#channel-protocol lacp<br>
+    Switch(config-if-range)#channel-group 3 mode passive<br>
+    Switch(config-if-range)#duplex full
+  </blockquote>
+
+  <h3 style="color:#F96302">&nbsp;</h3>
+	<h3 style="color:#F96302">Troubleshoot EtherChannel Configuration</h3>
+<p>Use the following guidelines to troubleshoot an EtherChannel configuration:</p>
+
+  <ul>
+    <li>Make sure that all ports in an EtherChannel use the same protocol (PAgP 
+	or LACP):
+      <ul>
+        <li>If the <b>channel-group</b> command is used with the <b>desirable</b> 
+		option on one switch (PAgP), the other switch must use either <b>
+		desirable</b> or <b>auto</b>.</li>
+        <li>If the <b>channel-group</b> command is used with the <b>active</b> 
+		option (LACP), the other switch must use either
+        <b>active</b> or <b>passive</b>.</li>
+      </ul>
+    </li>
+    <li>Verify that all ports in the EtherChannel have the same speed and duplex 
+	mode. LACP requires that the ports operate only in full-duplex mode.</li>
+    <li>Check the channel group number. A port cannot belong to more than one 
+	channel group at the same time.</li>
+    <li>Verify that all ports in the EtherChannel have the same access VLAN 
+	configuration or are VLAN trunks with the same allowable VLAN list and the 
+	same native VLAN.</li>
+    <li>Check the spanning tree configuration. If you do not configure 
+	EtherChannel, the spanning tree algorithm identifies each link as a 
+	redundant path to the other bridge and puts one of the ports in a blocking 
+	state.</li>
+    <li>Check the port type and number. You can configure an LACP EtherChannel 
+	with up to 16 Ethernet ports of the same type. Up to eight ports can be 
+	active, and up to eight ports can be in standby mode.</li>
+    <li>Be sure to enable all ports in an EtherChannel. A port in an 
+	EtherChannel that is disabled using the <b>shutdown</b>
+    interface configuration command is treated as a link failure, and its 
+	traffic is transferred to one of the remaining ports in the EtherChannel.</li>
+  </ul>
+
+  <blockquote class="info">
+    Do not configure more than six EtherChannels on one switch.
+  </blockquote>
+</div>
+
+## Switch Troubleshooting
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>As you study this section, answer the following questions:</p>
+
+  <div class="discussion">
+    <ul>
+      <li>You have a network connected by switches with a single device connected to each switch port. Why would you be surprised
+      to see collisions on this network?</li>
+      <li>What is a duplex mismatch?</li>
+      <li>What conditions lead to a broadcast storm?</li>
+      <li>How can you prevent switching loops from forming?</li>
+      <li>You moved a device from one switch port to another, and now it cannot communicate with any other device on the network.
+      The switch link lights are lit. What switch configuration should you check?</li>
+      <li>Other than the switch configuration, what should you check if you see excessive frame errors on the switch?</li>
+    </ul>
+  </div>
+
+  <p>The key terms for this section include:</p>
+  <table class="terms" border="1">
+    <tbody><tr class="header">
+      <td class="centered">Term</td>
+      <td class="contentheader">Definition</td>
+    </tr>
+    <tr>
+      <td class="centered">Broadcast Storm</td>
+      <td class="content">A broadcast storm is excessive broadcast traffic that 
+		renders normal network communications impossible. </td>
+    </tr>
+    <tr>
+      <td class="centered">Collisions</td>
+      <td class="content">A collision occurs when two devices that share the 
+		same media segment transmit at the same time. </td>
+    </tr>
+    <tr>
+      <td class="centered">Duplex Mismatch</td>
+      <td class="content">A duplex mismatch occurs when two devices use 
+		different duplex settings. For example, when one device tries to 
+		transmit using full duplex while the other expects half duplex 
+		communications. </td>
+    </tr>
+    <tr>
+      <td class="centered">Frame Errors</td>
+      <td class="content">The switch examines incoming frames and only forwards frames that are complete and correctly formed;
+      invalid frames are simply dropped. These types of frames are known as frame errors.</td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="TextViewer-root" class="TextViewer-root">
+  <p>The following table lists several problems you might encounter when 
+	managing switches on your network:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Issue</td>
+        <td class="contentheader">Description</td>
+      </tr>
+      <tr>
+        <td class="centered">Bad Port</td>
+        <td class="content">A <i>bad port</i> is a faulty or bad interface on a 
+		switch. To fix the problem, you need to return the switch back to the 
+		supplier and get a replacement. However, if you have plenty of ports on 
+		the switch, you can configure the port using '<b>description ** Bad 
+		Port **</b>', and then insert a RJ45 single connector into the bad port 
+		to occupy the port.</td>
+      </tr>
+      <tr>
+        <td class="centered">Broadcast Storm</td>
+        <td class="content">
+          A <i>broadcast storm</i> is excessive broadcast traffic that renders 
+			normal network communications impossible. The following can cause 
+			broadcast storms:
+          <ul>
+            <li>Switching loops that cause broadcast traffic to circulate 
+			endlessly between switches</li>
+            <li>Denial of Service (DoS) attacks</li>
+          </ul>To reduce broadcast storms, complete the following:
+          <ul>
+            <li>Run STP to prevent switching loops.</li>
+            <li>Implement switches with built-in broadcast storm detection, 
+			which limits the bandwidth that broadcast traffic can use.</li>
+            <li>Use VLANs to create separate broadcast domains on switches.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Collisions</td>
+        <td class="content">
+          A <i>collision</i> occurs when two devices that share the same media 
+			segment transmit at the same time. In a switched network, collisions 
+			should only occur on ports that have more than one device attached 
+			(such as a hub with workstations connected to it).
+          <ul>
+            <li>To eliminate collisions, connect only a single device to each 
+			switch port. For example, if a hub is connected to a switch port, 
+			replace it with another switch.</li>
+            <li>If collisions are still detected, troubleshoot cable and NIC 
+			issues.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Duplex Mismatch</td>
+        <td class="content">
+          A <i>duplex mismatch</i> occurs when two devices use different duplex 
+			settings. In this case, one device tries to transmit using full 
+			duplex, while the other expects half duplex communications. By 
+			default, devices are configured to use auto-negotiation to detect 
+			the correct duplex setting to use. If a duplex method cannot be 
+			agreed upon, devices default to half duplex.
+          <p>A duplex mismatch can occur in the following cases:</p>
+          <ul>
+            <li>Both devices are configured to use different duplex settings.</li>
+            <li>Auto-negotiation does not work correctly on one device.</li>
+            <li>One device is configured for auto-negotiation, and the other 
+			device is manually configured for full duplex.</li>
+          </ul>
+          <blockquote class="info">
+            Symptoms of a duplex mismatch include very slow network 
+			communications. Ping tests might appear to complete correctly, but 
+			normal communications work well below the expected speeds, even for 
+			half duplex communications.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Frame Errors</td>
+        <td class="content">
+          The switch examines incoming frames and only forwards frames that are 
+			complete and correctly formed; invalid frames are simply dropped. 
+			Most switches include logging capabilities to track the number of 
+			corrupt or malformed frames. The following are common causes of 
+			frame errors:
+          <ul>
+            <li>Frames that are too long are typically caused by a faulty 
+			network card that jabbers (constantly sends garbage data).</li>
+            <li>Frames that are too short are typically caused by collisions.</li>
+            <li>CRC errors indicate that a frame has been corrupted in transit.</li>
+            <li>All types of frame errors can be caused by faulty cables or 
+			physical layer devices.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Incorrect VLAN Membership</td>
+        <td class="content">
+          VLANs create logical groupings of computers based on switch port. 
+			Because devices on one VLAN cannot communicate directly with devices 
+			in other VLANs, incorrectly assigning a port to a VLAN can prevent a 
+			device from communicating through the switch.
+          <blockquote class="info">
+            With VLAN membership, static port assignment is defined by switch 
+			port, not by a MAC address. Connecting a device to a different 
+			switch port could change the VLAN membership of the device. On the 
+			switch, verify that ports are assigned to the correct VLANs and that 
+			any unused VLANs are removed from the switch.
+          </blockquote>
+        </td>
+      </tr>
+      <tr>
+        <td class="centered">Slow Link Speed</td>
+        <td class="content">
+          Most network components are capable of supporting multiple network 
+			specifications. By default, these devices use the maximum speed 
+			supported by all devices on the network.
+          <p>If the speed of a segment is lower than expected (for example, 10 
+			Mbps instead of 100 Mbps, or 100 Mbps instead of 1000 Mbps), 
+			complete the following:</p>
+          <ul>
+            <li>Check individual devices to verify that they all support the 
+			higher speed.</li>
+            <li>Check individual devices to see if any are manually configured 
+			to use the lower speed.</li>
+            <li>Use a cable certifier to verify that the cables meet the rated 
+			speeds. Bad cables are often the cause of 1000BaseT networks 
+			operating at only 100BaseTX speeds.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
 # Chapter 7 Routing 
 ###### [Back to top](#Network-Security-and-Data-Communications)
 
@@ -3635,7 +5389,6 @@ Interface: 192.168.1.141 on Interface 0x1000003
 
   <ul>
     <li>How metric values are calculated</li>
-
     <li>How path information is shared between routers</li>
   </ul>
 
@@ -3776,6 +5529,7 @@ Interface: 192.168.1.141 on Interface 0x1000003
   SFO(config)#<b>exit</b><br>
   SFO#<b>copy run start</b><br></span></p>
 </div></div>
+
 ## Routing config Lab solutions:
 
 <div class="clsBoxText2">
@@ -3804,7 +5558,6 @@ Interface: 192.168.1.141 on Interface 0x1000003
 
   <ul>
     <li>Configure the Salta router to share information about all directly connected routes with the Jujuy router.</li>
-
     <li>When you are finished, save your changes.</li>
 
   </ul>
@@ -3840,8 +5593,8 @@ Interface: 192.168.1.141 on Interface 0x1000003
 
 <h2 style="color:#F96302">NAT</h2>
 
-| Term                              | Definition                                                                                                                                                                                             |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Term |Definition |
+| ---- | ---- |
 | Network Address Translation (NAT) | NAT translates private addresses to the public address of the NAT router. This allows you to connect a private network to the internet without obtaining registered (public) addresses for every host. |
 | Port Address Translation (PAT)    | Technically speaking, NAT translates one address to another. Port address translation (PAT) associates a port number with the translated address.                                                      |
 
