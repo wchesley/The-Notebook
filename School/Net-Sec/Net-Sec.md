@@ -40,66 +40,6 @@
     <li>A particular protocol implementation may not represent every OSI layer (or may spread across multiple layers).</li>
   </ul>
 
-  <h3 style="color:#F96302">Mnemonic Device For Layers</h3>
-
-  <p>To help remember the layer names of the OSI model, try the following mnemonic devices:</p>
-
-  <table border="1">
-    <tbody>
-      <tr class="header">
-        <td class="centered">Layer</td>
-        <td class="centered">Name</td>
-        <td class="centered">Mnemonic<br>
-        (Bottom to top)</td>
-        <td class="centered">Mnemonic<br>
-        (Top to bottom)</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 7</b></td>
-        <td class="content">Application</td>
-        <td class="content">Away</td>
-        <td class="content">All</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 6</b></td>
-        <td class="content">Presentation</td>
-        <td class="content">Pizza</td>
-        <td class="content">People</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 5</b></td>
-        <td class="content">Session</td>
-        <td class="content">Sausage</td>
-        <td class="content">Seem</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 4</b></td>
-        <td class="content">Transport</td>
-        <td class="content">Throw</td>
-        <td class="content">To</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 3</b></td>
-        <td class="content">Network</td>
-        <td class="content">Not</td>
-        <td class="content">Need</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 2</b></td>
-        <td class="content">Data Link</td>
-        <td class="content">Do</td>
-        <td class="content">Data</td>
-      </tr>
-      <tr>
-        <td class="centered"><b>Layer 1</b></td>
-        <td class="content">Physical</td>
-        <td class="content">Please</td>
-        <td class="content">Processing</td>
-      </tr>
-    </tbody>
-  </table>
-
-
   <p>The following table compares the functions performed at each OSI model 
 	layer.</p>
 
@@ -223,7 +163,6 @@
           <ul>
             <li>How digital data (bits) are converted to electric pulses, radio 
 			waves, or pulses of light and moved across network cables.</li>
-
             <li>Specifications for cables and connectors.</li>
             <li>The physical topology.</li>
           </ul>At the Physical layer, data segments are called <i>bits</i>.
@@ -285,6 +224,64 @@ model. The layers of the TCP/IP model are as follows:</p>
 	are encompassed in the first and fourth layers.
   </blockquote>
 
+  <h3 style="color:#F96302">Mnemonic Device For Layers</h3>
+
+  <p>To help remember the layer names of the OSI model, try the following mnemonic devices:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Layer</td>
+        <td class="centered">Name</td>
+        <td class="centered">Mnemonic<br>
+        (Bottom to top)</td>
+        <td class="centered">Mnemonic<br>
+        (Top to bottom)</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 7</b></td>
+        <td class="content">Application</td>
+        <td class="content">Away</td>
+        <td class="content">All</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 6</b></td>
+        <td class="content">Presentation</td>
+        <td class="content">Pizza</td>
+        <td class="content">People</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 5</b></td>
+        <td class="content">Session</td>
+        <td class="content">Sausage</td>
+        <td class="content">Seem</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 4</b></td>
+        <td class="content">Transport</td>
+        <td class="content">Throw</td>
+        <td class="content">To</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 3</b></td>
+        <td class="content">Network</td>
+        <td class="content">Not</td>
+        <td class="content">Need</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 2</b></td>
+        <td class="content">Data Link</td>
+        <td class="content">Do</td>
+        <td class="content">Data</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 1</b></td>
+        <td class="content">Physical</td>
+        <td class="content">Please</td>
+        <td class="content">Processing</td>
+      </tr>
+    </tbody>
+  </table>
 
   <p>Have some fun and come up with your own mnemonic for the OSI model, but stick to one so you don't get confused.</p>
 <br/>
