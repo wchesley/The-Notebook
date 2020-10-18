@@ -21,7 +21,7 @@ Intended to serve as my online journal, throughout college and career, written i
 
 ### School Notes: 
 - [Back End Web Development](School/Back-end%20Web%20Dev/BackEndWebDev.md)
-- [Business Law](School/Business%20Law/BusinessLawNotes.md)
+- [Business Law](School/Business-Law/BusinessLawNotes.md)
 - [Scrum](School/CIDM%204390/Scrum.md)
 - [Mobile App Development](School/mobile-app-dev/CIDM-4385-MobileAppDev.md)
 - [Network Security](School/Net-Sec/Net-Sec.md)

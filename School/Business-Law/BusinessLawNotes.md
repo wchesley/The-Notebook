@@ -750,7 +750,119 @@ VII. Commitment to the alternatives.
 - Viable alternative for controlling court congestion
 - ARbitrators are retired judges and practicing lawyers. 
 
+# Chapter 6 The Constitution
+The US Constitution provides the legal framework of our federal government and the authority it has to regulate business activities. There are **Seven** articles in the original constitution, the first three set up the legislative, executive adn judicial branches respectively. 
+- Article I also sets up the Commerce Clause: The constitutional provision that gives the government power to regulate business. 
+- Article IV ensures we are one nation rather than just individual states. This article also carries the full faith and credit clause and teh privileges and immunities clause. 
+- Article V provides the process governing the amendment of the Constitution. 
+- Article VI states the Constitution is the supreme law of the land. It also clarifies that federal laws take priority when there is conflicting state or local laws. 
+- Article VII makes the Constitution effective up on ratification of the states, which occured in 1789
+    - Two years later, 1791, the first 10 amendments were ratified, also known as the **Bill of Rights** 
 
+There have been a total of 27 amendments made to the Constitution since 1791; of that only 17 were approved
+- 12 of the 17 relate to how the federal government operates or who has the right to vote. 
+- 5, beyond the bill of rights, are left, that substantially impact the government and the rights of individuals. 
+    - of the 5, one was made to repeal another. The 18th amendment that made alcohol illegal and the 21st, which repealed it. 
+
+## The First 14 Amendments
+1. Freedom of Speech, press, religion and petition
+2. Right to Keep and bear arms. 
+3. conditions for the quarters of soliders
+4. right of search and seizure
+5. provisions regarding prosecution
+6. right to a speedy trial, witnesses, ect...
+7. right to a trial by jury
+8. excessive bail and cruel and punishment
+9. rule of construction of the constitution
+10. rights of states
+11. state sovereign immunity
+12. electoral college
+13. abolishment of slavery and involuntary servitude. 
+14. du process and equal protection
+
+## Basic Concepts of the Constitution
+- Seperation of powers
+    - seperates powers between federal, state and local governments 
+    - seperation of powers is also known as federalism; a concept that recognizes that each level of government has a separate and distinct role to play. 
+    - 10th Amendment reserves some powers to the states and the people. 
+        - Congress may not impair a state governments ability to function in the federal government. 
+        - State government may not limit the federal government's exercise of powers. 
+- Supremecy Clause
+    - Article VI makes the constitution the supreme law of the land, federal law is supreme over states law, state law is supreme over local law. 
+    - Under the supremecy clause, courts can be called upon to decide if a state law is invalid because it conflicts with federal law. 
+- Preemption 
+    - if a federal law preempts a subject, then any state law that attempts to regulate the same activity is unconstitutional under the supremecy clause. 
+    - preemption applies to federal statutes and the rules and regulations of federal agencies. 
+
+## The Commerce Clause
+- Found in article I section 8: "The Congress shall have power... to regulate Commerce with foreign nations, and among the several states, and with the indian tribes." 
+- Regulation of foreign commerce
+    - power is vested exclusively in the federal government, and it extends to all aspects of foreign trade. 
+        - States attempts to regulate are generally unconstitutional however a state may regulate activities that relate to foreign commerce if such activities are conducted entirely within the states boundries. 
+- Regulation of interstate commerce
+    - One of the most important decisions made by the early supreme government was *Gibbons v. Ogden (1824)* which stated that the Commerce Clause prohibits one state from interfering with commerce that crosses state lines.
+- Impact on Interstate commerce
+    - in the first half of the 20th century, by a series of judicial decisions, the power of teh federal government expanded through interpretation to include not only persons *engaged* in interstate commerce, but also activities *affected* by interstate commerce
+    - as a result of the supreme courts decisions the power of congress over commerce is very broad, it is hard to imagine a factual situation involving business transactions that the federal government cannot regulate. 
+- Limitation on federal authority
+    - Federal government's power to regulate commerce had become so broad in the 20th century that, here in the 21st century that the focus turns to whether ther is any limitation on this authority. 
+- Contract Clause
+    - Article I section 10 of the constitution says "No state shall pass any law impairing the obligation of contracts" 
+        - Does not apply to the federal government, which does in fact frequently enact laws and adopt regulations that affect existing contracts. 
+        - States cannot enact laws that impact the rights of existing contracts. The original contract would hold up and only newly created contracts would be affected by the new law. 
+
+## Amendments and Basic Protections
+1. Basic constitutional rights are not absolute. 
+2. The extent of any limitation on a basic constitutional guarantee depends upon the nature of the competing public policy. 
+    - cases involving the Bill of Rights almost always require courts to strike a balance either between some goal or policy of society adn the constitutional protection involved. 
+3. Constitutional guarantees exist in order to remove certain issues from the political process and the ballot box. **They exist to to protect the minority from the majority.**
+4. Constitutional rights vary from time to time and may be narrowly interpreted during emergencies such as war or civil strife.  
+    - even during peace time, constitutional principles are constantly reapplied and reexamined. 
+
+## First Amendment Protections
+- Freedom of Religion
+    - Congress shall make no law respecting an establishment of religion (**Establishment clause**) or prohibiting the free exercise thereof (**Free exercise clause**)
+- Freedom of Speech
+    - aka freedom of expression, covering both written and spoken word. 
+    - the most absolute of all constitutional garuntees, thought not entirely absolute
+        - *Chaplinsky v. State of New Hampsire* (1942) the court held that "fighting words" or words that inflict injury or tend to incite an immediate breach of the peace are not subject to first amendment protections. The court also held that such utterances are no essential part of any exposition of ideas, and are of such slight social value as a step to truth that any benefit may be derived from them is clearly outweighed by the social interest in order and morality. 
+        - *Brandenburg v. Ohio* the court held that to be unprotected the speech must be an incitement to imminent lawless action
+        - **Obscenity** is also unprotected, to determine if speech is obscene the following test was derrived: 
+            1. Wheter teh work, taken as a whole, appeals to the prurient interest in sex. 
+            2. Whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by applicable state law
+            3. Whether the work, taken as a whole, lacks serious literary, artistic, political or scientific value (*Miller v. California* 1973)
+        - With the exception of Child pornography, very little material is considered obscene in the US. 
+        - **Overbredth doctrine** which provides that a regulation of speech can sweep too broadly and prohibit protected as well as non-protected speech. A regulation of speech is unconstitutionally overbroad if it regulates a substantial amount of constitutionally protected expression.
+        - **Commercial Speech** up until the 1970's commercial speech was not protected under the first amendment. 
+            - Freedom of speech for corporations may not be as extensive as the right of an individual. However a government cannot limit commercial speech without a compelling state interest expressed to justify the restriction. 
+- Freedom of Press
+    - Publication is the only business group given explicit constitutional protection. 
+    - the press cannot print anything without liability however; **Prior Restraints** state that if the press publishes anything illegal or libelous, it has the liability for doing so, the liabilty extends to criminal and civial charges for damages. 
+    - **Defamation** (tort known as **libel**) is used to recover damages as a result of printed defamation of character. 
+## Second Amendment: The right to Possess guns
+    - 2nd amendment states "A well regualted militia, being necessary to the security for a free state, the right of the people to keep and bear arms, shall not be infringed" 
+    - very few supreme court opinions involving the second amendment
+## Fifth amendment: Takings Clause
+    - zoning and other regulations place limits on property to protect some owners form being harmed by other owners. 
+- Eminent Domain
+    - Governments power to take resources (usually land, but this is not always the case) from private owners for public use, upon the payment of just compensation.
+        - Public use is best defined as use by the public, so public roads, parks, public building, sewage treatment plant or landfill. Over the years, public use's definition has changed to be more of public purpose, that is any purpose that benefits the public, such as electric companies.  
+        - Just compensation is generally defined, by the courts, as the market value. In most cases the government offers just compensation to the owner and a negotiation follows and an amount is agreed upon. If an amount cannot be agreed upon, the owner may bring this before a jury to determine a just compensation. 
+## Fourteenth AMendment: Equal Protection and Due Process of Law
+- "No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any state deprive any person of life, liberty or property, wihtout due process of law, nor deny to any person within it's jurisdiction the equal protection of laws"
+    - **Due Process of Law** Describes fundamental principles of liberty and justice. It means the government cannot act in a manner that is arbitrary, capricious or unreasonable. 
+        - does not affect private individuals orcorporations, including public utilities, only governmental bodies. 
+        - Incorporations Doctorine: Starting in 1925, when the supreme court began applying various portions of the first 8 amendmentss to the states using the due process clause, it incorporated, through the 5th (federal) and 14th (state) amendments that the all of the constitutionally garunteed freedoms are applicable to the state governments regulation of our personal and professional lives. 
+    - **Equal Protection** embodies the ethical idea that law should not treat people differently without a satisfactory reason. In deciding cases using that clause to challenge state and local laws, courts use three distinct approaches
+        1. Minimum rationality 
+            - a law will survive an equal protection challenge if it has a *rational* and *permissable* state end. (permissable being not prohibited by the constitution and a legitimate goal of government.)
+            - These laws typically involve economic issues and social legislation such as welfare laws. 
+        2. Strict Scrutiny
+            - a classification will be a denial of equal protection unless the classification is necessary to achieve a *compelling* state purpose. The law must serve important governmental objectives and the classification must be substantially related to achieving these objectives. 
+            - applies to classifications directed at race, disabled persons, national origin, legitimacy of birth and cases involving fundamental rights. 
+        3. Quasi-strict scrutiny
+            - cases that fall between minimum rationality and strict scrutiny under go quasi-strict scrutiny. 
+            - Applies to cases directed at gender. 
 
 # Chapter 7: Property Rights
 
