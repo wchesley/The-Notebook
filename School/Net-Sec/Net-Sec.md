@@ -8,6 +8,287 @@
 - [Chapter 7 Routing](#Chapter-7-Routing)
 - [Chapter 8 Firewalls](#Chapter-8-Firewalls)
 
+# The OSI Model 
+
+
+  <p>The Open Systems Interconnection (OSI) model is a theoretical way of classifying and talking about the complex process of
+  sending data on a network. You should be familiar with the OSI model because it is the most widely used method for understanding
+  and talking about network communications. However, remember that it is only a theoretical model that defines standards for
+  programmers and network administrators, not a model of actual physical layers.</p>
+
+  <h3 style="color:#F96302">OSI Model Benefits</h3>
+
+  <p>The OSI model:</p>
+
+  <ul>
+    <li>Provides a common language and reference point for network professionals</li>
+    <li>Divides networking tasks into logical layers for easier comprehension</li>
+    <li>Allows specialization of features at different levels</li>
+    <li>Aids in troubleshooting</li>
+    <li>Promotes standards of interoperability between networks and devices</li>
+    <li>Provides modularity in networking features (developers can change features without changing the entire approach)</li>
+  </ul>
+
+  <h3 style="color:#F96302">OSI Model Limitations</h3>
+
+  <p>However, you must remember the following limitations of the OSI model:</p>
+  <ul>
+    <li>OSI layers are theoretical and do not actually perform real functions.</li>
+    <li>Industry implementations rarely have a layer-to-layer correspondence with the OSI layers.</li>
+    <li>Different protocols are used within the OSI model to perform the different functions required to help send or receive the
+    overall message. This can sometimes complicate the overall process.</li>
+    <li>A particular protocol implementation may not represent every OSI layer (or may spread across multiple layers).</li>
+  </ul>
+
+  <h3 style="color:#F96302">Mnemonic Device For Layers</h3>
+
+  <p>To help remember the layer names of the OSI model, try the following mnemonic devices:</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td class="centered">Layer</td>
+        <td class="centered">Name</td>
+        <td class="centered">Mnemonic<br>
+        (Bottom to top)</td>
+        <td class="centered">Mnemonic<br>
+        (Top to bottom)</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 7</b></td>
+        <td class="content">Application</td>
+        <td class="content">Away</td>
+        <td class="content">All</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 6</b></td>
+        <td class="content">Presentation</td>
+        <td class="content">Pizza</td>
+        <td class="content">People</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 5</b></td>
+        <td class="content">Session</td>
+        <td class="content">Sausage</td>
+        <td class="content">Seem</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 4</b></td>
+        <td class="content">Transport</td>
+        <td class="content">Throw</td>
+        <td class="content">To</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 3</b></td>
+        <td class="content">Network</td>
+        <td class="content">Not</td>
+        <td class="content">Need</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 2</b></td>
+        <td class="content">Data Link</td>
+        <td class="content">Do</td>
+        <td class="content">Data</td>
+      </tr>
+      <tr>
+        <td class="centered"><b>Layer 1</b></td>
+        <td class="content">Physical</td>
+        <td class="content">Please</td>
+        <td class="content">Processing</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <p>The following table compares the functions performed at each OSI model 
+	layer.</p>
+
+  <table border="1">
+    <tbody>
+      <tr class="header">
+        <td colspan="2" class="centered">Layer</td>
+        <td class="contentheader">Description and Keywords</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Application (Layer 7)</td>
+        <td class="content">
+          The Application layer integrates network functionality into the host 
+			operating system and enables communication between network clients 
+			and services. The Application layer does not include specific 
+			applications that provide services, but rather provides the 
+			capability for services to operate on the network.
+          <p>Most Application layer protocols operate at multiple layers down to 
+			the Session and even Transport layers. However, these protocols are 
+			classified as Application layer protocols because they start at the 
+			Application layer (the Application layer is the highest layer where 
+			they operate). Services typically associated with the Application 
+			layer include:</p>
+          <ul>
+            <li>HTTP</li>
+            <li>Telnet</li>
+            <li>FTP</li>
+            <li>TFTP</li>
+            <li>SNMP</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Presentation (Layer 6)</td>
+        <td class="content">
+          The Presentation layer formats, or presents, data in a compatible form 
+			for receipt by the Application layer or the destination system. 
+			Specifically, the Presentation layer ensures:
+          <ul>
+            <li>Formatting and translation of data between systems.</li>
+            <li>Negotiation of data transfer syntax between systems by 
+			converting character sets to the correct format.</li>
+            <li>Encapsulation of data into message envelopes by encryption and 
+			compression.</li>
+            <li>Restoration of data by decryption and decompression.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Session (Layer 5)</td>
+        <td class="content">
+          The Session layer manages the sessions in which data are transferred. 
+			Session layer functions include:
+          <ul>
+            <li>Management of multiple sessions (each client connection is 
+			called a <i>session</i>). A server can concurrently maintain 
+			thousands of sessions.</li>
+            <li>Assignment of a session ID number to each session to keep data 
+			streams separate.</li>
+            <li>The setup, maintenance, and teardown of communication sessions.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Transport (Layer 4)</td>
+        <td class="content">
+          The Transport layer provides a transition between the upper and lower 
+			layers of the OSI model, making the upper and lower layers 
+			transparent from each other. Transport layer functions include:
+          <ul>
+            <li>End-to-end flow control.</li>
+            <li>Port and socket numbers.</li>
+            <li>Segmentation, sequencing, and combination.</li>
+            <li>Connection services, either reliable (connection-oriented) or 
+			unreliable (connectionless) delivery of data.</li>
+          </ul>At the Transport layer, data segments are called <i>segments</i>.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Network (Layer 3)</td>
+        <td class="content">
+          The Network layer describes how data is routed across networks and on 
+			to the destination. Network layer functions include:
+          <ul>
+            <li>Identifying hosts and networks by using logical addresses.</li>
+            <li>Maintaining a list of known networks and neighboring routers.</li>
+            <li>Determining the next network point where data should be sent. 
+			Routers use a routing protocol that takes various factors into 
+			account, such as the number of hops in the path, link speed, and 
+			link reliability, to select the optimal path for data.</li>
+          </ul>At the Network layer, data segments are called <i>packets</i>.
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="centered">Data Link (Layer 2)</td>
+        <td class="centered">Logical Link Control (LLC)</td>
+        <td rowspan="2" class="content">
+          The Data Link layer defines the rules and procedures for hosts as they 
+			access the Physical layer. These rules and procedures define:
+          <ul>
+            <li>How physical network devices are identified on the network by 
+			defining a unique hardware address (physical or MAC address).</li>
+            <li>How and when devices have access to the LAN and can transmit on 
+			the network medium (media access control and logical topology).</li>
+            <li>How to verify that the data received from the Physical layer is 
+			error free (parity and CRC).</li>
+            <li>How devices control the rate of data transmission between hosts 
+			(flow control).</li>
+          </ul>At the Data Link layer, data segments are called <i>frames</i>. 
+			Switches, bridges and NICs, and WAPs function in Layer 2.</td>
+      </tr>
+      <tr>
+        <td class="centered">Media Access Control (MAC)</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="centered">Physical (Layer 1)</td>
+        <td class="content">
+          The Physical layer of the OSI model sets standards for sending and 
+			receiving electrical signals between devices. Protocols at the 
+			Physical layer identify:
+          <ul>
+            <li>How digital data (bits) are converted to electric pulses, radio 
+			waves, or pulses of light and moved across network cables.</li>
+
+            <li>Specifications for cables and connectors.</li>
+            <li>The physical topology.</li>
+          </ul>At the Physical layer, data segments are called <i>bits</i>.
+        	NICs, repeaters, hubs, WAPs, and modems function in Layer 1.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3 style="color:#F96302">TCP/IP Model Layers</h3>
+<p>The TCP/IP model incorporates the general concepts and structure of the OSI 
+model. The layers of the TCP/IP model are as follows:</p>
+
+  <table>
+    <tbody>
+      <tr class="header">
+        <td class="centered">Layer</td>
+        <td class="contentheader">Description</td>
+      </tr>
+      <tr>
+        <td class="centered">Application</td>
+        <td class="content">The Application layer corresponds to the Session, 
+		Presentation, and Application layers of the OSI model. Protocols 
+		associated with the Application layer include FTP, HTTP, Telnet, SMTP, 
+		DNS, and SNMP.</td>
+      </tr>
+      <tr>
+        <td class="centered">Host-to-Host</td>
+        <td class="content">The Host-to-Host layer is comparable to the 
+		Transport layer of the OSI model. It is responsible for error checking 
+		and reliable packet delivery. Here, the data stream is broken into 
+		segments that must be assigned sequence numbers so they can be 
+		reassembled correctly on the remote side after they are transported. 
+		Protocols associated with the Host-to-Host layer include Transport 
+		Control Protocol (TCP) and User Datagram Protocol (UDP).</td>
+      </tr>
+      <tr>
+        <td class="centered">Internet</td>
+        <td class="content">The Internet layer is comparable to the Network 
+		layer of the OSI model. It is responsible for moving packets through a 
+		network. This involves addressing hosts and making routing decisions to 
+		identify how the packet traverses the network. Protocols associated with 
+		the Internet layer include Address Resolution Protocol (ARP), Internet 
+		Control Message Protocol (ICMP), and the Internet Group Management 
+		Protocol (IGMP).</td>
+      </tr>
+      <tr>
+        <td class="centered">Network Access</td>
+        <td class="content">The Network Access layer corresponds to the Physical 
+		and Data Link layers of the OSI model. It is responsible for describing 
+		the physical layout of the network and formatting messages on the 
+		transmission medium.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <blockquote class="info">
+    The TCP/IP model focuses specifically on the functions in the Internet layer 
+	and Host-to-Host layers. All other functions of the traditional OSI model 
+	are encompassed in the first and fourth layers.
+  </blockquote>
+
+
+  <p>Have some fun and come up with your own mnemonic for the OSI model, but stick to one so you don't get confused.</p>
+<br/>
+
 # Chapter 5 IP Addressing
 ###### [Back to top](#Table-of-Contents)
 <div id="TextViewer-root" class="TextViewer-root">
@@ -34,7 +315,7 @@
       <li>Configure IP addresses.</li>
       <li>Configure IP addresses on mobile devices.</li>
     </ul>
-  </div>
+  </div>5
 
   <p>The key terms for this section include:</p>
 
@@ -92,57 +373,6 @@
     <tr>
       <td class="centered">Network ID</td>
       <td class="content">A 32-bit number that identifies the network an IPv4 address belongs to.</td>
-    </tr>
-  </tbody></table>
-
-  <p>This section helps you prepare for the following certification exam objectives:</p>
-
-  <table class="objectives" border="1">
-    <tbody><tr class="header">
-      <td class="centered" width="260">Exam</td>
-      <td class="contentheader">Objective</td>
-    </tr>
-    <tr>
-      <td class="centered" width="260">TestOut Network Pro</td>
-      <td class="content">2.1 Configure IP addressing, DNS, and DHCP for a network host.</td>
-    </tr>
-    <tr>
-      <td class="centered">CompTIA Network+</td>
-      <td class="content">
-        <p>1.3 Explain the concepts and characteristics of routing and switching.</p>
-        <ul>
-          <li>Properties of network traffic
-            <ul>
-              <li>Broadcast</li>
-            </ul>
-          </li>
-        </ul>
-        <p>1.4 Given a scenario, configure the appropriate IP addressing components.</p>
-        <ul>
-          <li>Subnet mask</li>
-          <li>Subnetting
-            <ul>
-              <li>Classful
-                <ul>
-                  <li>Classes A, B, C, D, and E</li>
-                </ul>
-              </li>
-              <li>Classless
-                <ul>
-                  <li>VLSM</li>
-                  <li>CIDR notation (IPv4 vs. IPv6)</li>
-                </ul>
-              </li>
-              <li>Address assignments
-                <ul>
-                  <li>DHCP</li>
-                  <li>Static</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </td>
     </tr>
   </tbody></table>
 </div>
@@ -504,7 +734,7 @@ networks) to:</p>
 	to use only part of an octet for the network address. This is called <i>
 	partial subnetting</i>, or <i>variable-length subnet masking</i> (VLSM).</p>
 
-  <h3 style="color: #F96302">VLSM</h3>
+  <h3 style="color: #F96302">VLSM - Variable Length Subnet Masking</h3>
   
   <p>When using VLSM, you ignore the default subnet mask boundaries and specify 
 	a custom number of subnet mask bits. For example, you could define a subnet 
