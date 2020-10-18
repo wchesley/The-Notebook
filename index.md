@@ -7,7 +7,7 @@ Intended to serve as my online journal, throughout college and career, written i
 - [Dotnet on Heroku](DotNet/DotNetOnHeroku.md)  
 
 ### Python
-- [Otree Project](Python/Otree-Projec.md)  
+- [Otree Project](Python\Otree-Project.md)  
 
 ### [React](React/React.md)  
 - [Create React App](React/Create-react-app.md)
