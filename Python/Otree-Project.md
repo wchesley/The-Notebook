@@ -71,3 +71,7 @@ When the page is submitted, the value of your hidden input will be recorded in o
 To use raw HTML, just ensure that each field in your Page’s form_fields has a corresponding `<input>` element with a matching name attribute.
 
 Remember that for any field `my_field`, you should include `{{ form.my_field.errors }}`, so that if there is an error in the form, the participant will see the error message.
+
+## Testing with browser bots
+Does not require adding the line to settings.py file `use_browser_bots = True`  
+Can export results of settings with `--export` flag added to `otree test your_game_name` command  
