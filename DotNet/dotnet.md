@@ -5,3 +5,4 @@ Installation guide: https://docs.microsoft.com/en-us/dotnet/core/install/sdk?piv
 Index: 
 - [Dotnet](dotnetAndVSCode.md)
 - [Dotnet on Heroku](DotNetOnHeroku.md)
+- [ASP.Net Core](asp.net-core.md)

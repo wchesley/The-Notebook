@@ -2,7 +2,7 @@
 Intended to serve as my online journal, throughout college and career, written in a conversationalist format for easier reading. This is a collection of my notes, pretty much anything interesting or challenging I come across I'll write down here for later reference.  
 
 
-### [Dotnet](Dotnet/dotnet.md)
+### [Dotnet](DotNet\dotnet.md)
 - [General](DotNet/dotnetAndVSCode.md)
 - [Dotnet on Heroku](DotNet/DotNetOnHeroku.md)  
 
