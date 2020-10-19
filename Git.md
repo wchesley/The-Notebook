@@ -1,5 +1,9 @@
 # Git
 
+## Body with commit message
+You can add a body to the commit message via `git commit -m 'initial message' -m 'body of message`  
+[This stackoverflow post](https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li) also shows a good way to send a commit message using vscode as the editor with a gif example, the command to do so is: `git config --global core.editor "code --wait"`
+
 ## Git Ignore
 The problem is that .gitignore ignores just files that weren't tracked before (by git add). 
 Run `git reset name_of_file` to unstage the file and keep it. 
