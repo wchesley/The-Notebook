@@ -64,3 +64,10 @@ So my code is mirrored to bitbucket on push, but if someone was to push to bitbu
 2. Push to the repo
 
 ##### Ref: https://jigarius.com/blog/multiple-git-remote-repositories
+
+## Git in WSL
+Just attempted to open and run a project in WSL (Ubuntu) however git was showing every single file in the repo as modified, even though they were not. The error comes from the different line endings used in Windows vs. Unix.  
+The resolution is as follows:   
+`git config core.autocrlf true`  
+`git config core.autocrlf true`   
+Some people opted to use the `--global` flag with this, I however kept it as per repository considering there's only two projects I'm working on in WSL, the rest will live in windows. 
