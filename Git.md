@@ -70,4 +70,7 @@ Just attempted to open and run a project in WSL (Ubuntu) however git was showing
 The resolution is as follows:   
 `git config core.autocrlf true`  
 `git config core.autocrlf true`   
-Some people opted to use the `--global` flag with this, I however kept it as per repository considering there's only two projects I'm working on in WSL, the rest will live in windows. 
+Some people opted to use the `--global` flag with this, I however kept it as per repository considering there's only two projects I'm working on in WSL, the rest will live in windows.  
+>Note: the project lives in the windows file system, I just used WSL and VSCode to open it.  
+Another note: I usually use [fork](https://fork.dev/) as a git GUI client. As of 11/3/2020 I was not able to get it to commit changes made through WSL received an error `fatal: Unable to write new index file`  
+However commiting the changes via VSCode or CLI works as expected. 
