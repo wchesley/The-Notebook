@@ -1053,3 +1053,85 @@ The expected rate of return equals the annual dividend relative to the price the
 	- (0.7 x 10%)+(0.3 x 7%) = 9.1%
 
 
+# Chapter 10 Capital Budgeting Techniques and Practice
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
+
+**Capital Budgeting** is the process of evaluating profitable projects or investments in fixed assets
+
+## Capital Budgeting Decision Criteria
+**Payback Period** The number of years needed to recover the initial cash outlay related to an investment; in effect this tells us how long it will be until we get our money back. 
+- Payback period equals the number of years just prior to complete recovery of initail outlay (initial investment) **plus** Unrecovered amount at beginning of year payback is completed divided by free cash flow in year payback is completed. 
+- **Drawbacks** only calculates the amount of time to get initial investment back, doesn't consider cash flows after payback period has ended. A time value of money concept. 
+	- Suppose two projects, both having the same payback period, Projects A & B. B doesn't return anything after it's payback period, where as A does. Looking at only the payback period these two projects would seem equal however anyone with any common sense would chose project A as it reutrns more than the initial investment. To circumvent this we typically use the Discounted payback period  
+**Discouned payback period** The number of years it takes to recaputre a projects initial outlay from the discounted free cash flows. In effect it tells us how long it takes to get back the initial investment along with the return we should get on our investment. 
+- Discounted payback period equals the number of years just prior to complete recovery of the initial outlay using discounted free cash flows **Plus** unrecoverd amount at the beginning of the year payback is completed divided by discounted free cash flows in year payback is completed
+- Accept/reject criteria then becomes whether the project's discounted payback period is less than or equal to the firm'smaximum desired discounted payback period.  
+**Net Present Value** present value of a projects annual free cahs flows less the investments inital outlay. Calculated as follows: 
+NPV = (present value of all the future annual free cash flows) - Initial outlay
+In mathmatical notation: 
+<img src="https://render.githubusercontent.com/render/math?math=NPV = \frac{FCF_1}{(1 %2b k)^1} %2b \frac{FCF_2}{(1 %2b k)^2} %2b \cdots \frac{FCF_n}{(1 %2b k)^n} @2d IO">
+
+Where: 
+- FCF<sub>t</sub> is the number of free cash flow in time period *t* (can be positive or negative value)
+- *k* is the firm's required rate of return
+- IO is the Initial Cash Outlay
+- *n* is the projects expected life
+
+Can also be calculated in Excel using the `=NPV(values) - IO` function, where values is the list of free cash cash flows and IO is the initial cash outlay.   
+- NPV is favorable as it deals with free cash flows rather than accounting profits. 
+- It recognizes the time value of money allowing the benefits and costs to be compared in a logical manner. 
+- Projects are only accepted with a postive NPV, wich is consistent with the goal of maxamizing shareholder wealth. 
+
+**Profitability Index (Benefit-Cost Ratio)** is the ratio of present value of the future cash flows to the initial outlay.  
+Profitabiltiy index is calculated similar to the NPV value:  
+PI = Present value of all the future annual free cash flows divided by the initial cash outlay  
+In mathmatical notation:  
+<img src="https://render.githubusercontent.com/render/math?math=NPV = \frac{\frac{FCF_1}{(1 %2b k)^1} %2b \frac{FCF_2}{(1 %2b k)^2} %2b \cdots \frac{FCF_n}{(1 %2b k)^n}}{IO}">
+
+All values listed in the above formula are the same as the NPV.  
+Accpetance criteria for PI is: 
+- If the PI is greater than or equal to1.00 **ACCEPT**
+- If the PI is less than 1.00 **REJECT**  
+
+**Internal rate of Return (IRR)** is the discount rate that equals the present value of the project's cashflows with the project's inital outlay. Calculated as follows:  
+<img src="https://render.githubusercontent.com/render/math?math=IO = \frac{FCF_1}{(1 %2b IRR)^1} %2b \frac{FCF_2}{(1 %2b IRR)^2} %2b \cdots \frac{FCF_n}{(1 %2b IRR)^n}">  
+Where
+- FCF<sub>t</sub> is the annual free cash flow in time period *t*
+- IO is the inital cash outlay
+- *n* is the projects expected life
+- IRR is the projects internal rate of return 
+
+Acceptance criteria for IRR is: 
+- If IRR is greater than or equal to the firms rate of return or cost of capital: **ACCEPT**
+- If IRR is less than the firms rate of return or cost of capital: **REJECT** 
+
+Excel also has an `=IRR(values)` function for calculating the IRR, where values is the future free cashflows. Initial outlay is included in the list of these values. 
+
+**NPV and IRR relationship** Easiest shown in a graphical format known as teh Net present value profile. A graph showing how a projects NPV changes as the discount rate changes. 
+
+**Modified Internal Rate of Return (MIRR)** Due to complications with uneven rates of return some people have incorporated the Modified internal rate of return in leu of the IRR. The driving foce behind the MIRR is the assumption that all free cash flows over the life of a project are reinvested at the required rate of return until the termination of the project. To calculated MIRR:  
+1. Determine the present value of the project's free cash flows. DOne by discounting all the free cash OUTFLOWS back to the present at the requried rate of return. (if the initial cash outlay is is the only free cash OUTFLOW, then the initial outlay is the present value of the free cash OUTFLOWS)
+2. Determine the future value of the project's free cash INFLOWS. Take all the annual free cash INFLOWS and find their future value at the end of the project's life, compounded forward at the required rate of return. We call this the project's *terminal value* or TV
+3. Calculate the MIRR. The MIRR is the discount rate that equates teh present value of the free cash outlfows with the project's terminal value.   
+Mathmatically speaking: 
+<img src="https://render.githubusercontent.com/render/math?math=PV_outflows = \frac{TV_inflows}{(1 %2b MIRR)^n}">  
+where: 
+- PV<sub>outflows</sub> is the present value of all the project's free cash OUTFLOWS
+- TV<sub>inflows</sub> is the projects terminal value, calculated by taking all the annual free cash INFLOWS and finding their future value at the end of the projects life, compouned forward at the requrired rate of return. 
+- *n* is the projects life 
+- MIRR is the projects modified rate of return. 
+
+Excel also has a `=MIRR(values, finance rate, reinvestment rate)` function. Where values is the range of cells where the cash flows are stored. 
+
+## Capital Rationing
+Capital rationing is a limit on the dollar size of the capital budget. This can be uncomfortable to do as some projects that positive net present value are rejected. Sad but true real world situation where firms recognize that they do not have teh ability to profitably handle more than a certain number of new and / or large projects.   
+### Rational for capital budgeting: 
+- Managers might think market conditions are temporarily adverse. 
+- Shortage of qualified managers to oversee new projects. (more common when projects are of a highly technical nature)
+- Intangiable considerations: managers could fear more debt or wish to avoid interest payments, or the firm wants to avoid issuing new stock to maintain a stable dividend policy. 
+
+If a firm is under capital constraints, then the project with the highest NPV that fits under these constraints would be the project to select. 
+
+# Chapter 12 Determining the Financing Mix
+###### [Back to top](#Business-Finance-WTAMU-FIN-3320)
+
