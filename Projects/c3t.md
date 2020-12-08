@@ -28,8 +28,9 @@
 - `whitenoise = "==5.2.0"`
 - `gunicorn = "==20.0.4"`
 - `dj-database-url = "==0.5.0"`
-- `django-taggit 1.3.0`
-- `django-autocomplete-light 3.8.1 `
+- `django-taggit = "==1.3.0"`
+- `django-autocomplete-light = "==3.8.1" `
+- `django-formtools = "==2.2`
 
 
 after the above is installed: run `python manage.py migrate` to set up the database  
