@@ -6,8 +6,7 @@ Intended to serve as my online journal, throughout college and career, written i
 - [General](DotNet/dotnetAndVSCode.md)
 - [Dotnet on Heroku](DotNet/DotNetOnHeroku.md)  
 
-### Python
-- [Otree Project](Python\Otree-Project.md)  
+### [Python](./Python/index.md)
 
 ### [React](React/React.md)  
 - [Create React App](React/Create-react-app.md)
@@ -16,6 +15,8 @@ Intended to serve as my online journal, throughout college and career, written i
 - [Intro to React](React/React-Intro.md)
 - [CLI](React/React-Native-CLI.md)
 - [Tips and Tricks](React/Tips-N-Tricks.md) 
+
+### [Linux](./Linux/index.md)
 
 ### [Git](Git.md)
 
@@ -29,10 +30,10 @@ Intended to serve as my online journal, throughout college and career, written i
     - [Business Finance Formulas](School/Business%20Finance/Finance-Formulas.md)
 
 
-[Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Markdown Cheat-sheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [My Markdown Notes](Markdown.md)
 
-###  Running TODO: 
-* Heroku
 
-###### I'm open to contributions or corrections if anything is found to be incorrect within this site. To make a change, please open a pull request [in the site repo](https://github.com/wchesley/The-Notebook)
+###### I'm open to contributions or corrections if anything is found to be incorrect within this site. To make a change, please open a pull request or create an issue [in the site repo](https://github.com/wchesley/The-Notebook/issues)
+
+<sub>This site is written and maintained by Walker Chesley, the information presented is covered under Apache 2.0 License, see http://www.apache.org/licenses/ for full details</sub>

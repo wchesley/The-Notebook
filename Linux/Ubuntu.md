@@ -1,7 +1,148 @@
 # Ubuntu
+Landing page for my Ubuntu notes
 
+- 18.04  LTS Bionic Beaver (enter extended security maintenance April 2023)
+- 20.04  LTS Focal Fossa (good till mid 2025)
+- 21.04 Non-LTS build 
+- 22.04 LTS Jammy Jellyfish (good till Mid 2027)
 
-# Safest way to clean up boot partition - Ubuntu 14.04LTS-x64, Ubuntu 16.04LTS-x64
+[Ubuntu Release Cycle](https://ubuntu.com/about/release-cycle)  
+Releases of Ubuntu get a development codename (‘Kinetic Kudu’) and are versioned by the year and month of delivery - for example, Ubuntu 22.10 was released in October 2022.
+
+LTS or ‘Long Term Support’ releases are published every two years in April. LTS releases are the ‘enterprise grade’ releases of Ubuntu and are used the most. An estimated 95% of all Ubuntu installations are LTS releases.
+
+Every six months between LTS versions, Canonical publishes an interim release of Ubuntu, with 22.10 being the latest example. These are production-quality releases and are supported for 9 months, with sufficient time provided for users to update, but these releases do not receive the long-term commitment of LTS releases.
+
+# Netplan
+
+Created: June 29, 2021 11:35 AM
+Created By: Walker Chesley
+Last Edited By: Walker Chesley
+Last Edited Time: July 8, 2021 3:30 PM
+
+[ref 1](https://fabianlee.org/2019/04/01/kvm-creating-a-bridged-netw192.rk-with-netplan-on-ubuntu-bionic/)  
+[ref 2](https://techviewleo.com/how-to-configure-network-bonding-on-ubuntu/)
+[linux kernel docs](https://wiki.linuxfoundation.org/networking/bonding)
+
+Excerpt(s) of the goodies: 
+
+## Create a bridge with Netplan
+
+To create a bridged network, you need to disable the specific 
+settings on the physical network, and instead apply them to the bridge. 
+ Make a backup of your old file before modifying.
+
+```bash
+cd /etc/netplan
+
+# make backup
+sudo cp 50-cloud-init.yaml 50-cloud-init.yaml.orig
+
+# modify, add bridge
+sudo vi 50-cloud-init.yaml
+```
+
+Below is an example showing how we take the physical network example 
+above, and created a bridge named ‘br0’ that has the same properties.
+
+```yaml
+`network:
+  version: 2
+  renderer: networkd
+
+  ethernets:
+    enp1s0:
+      dhcp4: false
+      dhcp6: false
+      #addresses: [192.168.1.239/24]
+      #gateway4: 192.168.1.1
+      #mtu: 1500
+      #nameservers:
+      #  addresses: [8.8.8.8]
+
+  bridges:
+    br0:
+      interfaces: [enp1s0]
+      addresses: [192.168.1.239/24]
+      gateway4: 192.168.2.1
+      mtu: 1500
+      nameservers:
+        addresses: [8.8.8.8]
+      parameters:
+        stp: true
+        forward-delay: 4
+      dhcp4: no
+      dhcp6: no
+
+```
+
+Then apply the new netplan with bridged network with the commands 
+below.  But be sure you have physical access to the host in case network
+ connectivity needs to be investigated.
+
+```bash
+sudo netplan generate
+sudo netplan --debug apply
+```
+
+You may temporarily lost network connectivity if you are connected over ssh after running the apply command.
+
+You can see the network entities at the OS level by using these commands:
+
+```bash
+# bridge control
+brctl show
+
+# network control
+networkctl
+networkctl status br0
+
+# ip list
+ip a | grep " br0:" -A 3
+# show host routes
+ip route
+
+# show arp table (IP to MAC)
+arp -n
+```
+
+# apt-add-repository not working!
+
+Created: June 24, 2021 11:24 AM
+Created By: Walker Chesley
+Last Edited By: Walker Chesley
+Last Edited Time: June 24, 2021 11:26 AM
+
+Ran into an issue when trying to install packer on ProxmoxVE. `apt-add-repository` didn't exist on the system! Fix is outlined here: [https://dannyda.com/tag/sudo-add-apt-repository-command-not-found/](https://dannyda.com/tag/sudo-add-apt-repository-command-not-found/)
+And fix is isolated here: 
+
+## The Fix
+
+Execute following command to install “add-apt-repository” package
+
+```
+sudo apt-get install software-properties-common
+```
+
+Update the system
+
+```
+sudo apt-get update
+```
+
+Add the ppa repository again which we want to add in the first place
+
+```
+sudo add-apt-repository ppa:.....
+```
+
+Then install the app from ppa, if that is our intention
+
+```
+sudo apt install <appname>
+```
+
+## Safest way to clean up boot partition - Ubuntu 14.04LTS-x64, Ubuntu 16.04LTS-x64
 
 [Reference](http://askubuntu.com/questions/345588/what-is-the-safest-way-to-clean-up-boot-partition)  
 [gist-referenc](https://gist.githubusercontent.com/ipbastola/2760cfc28be62a5ee10036851c654600/raw/1e94f4b7c1ddc57002cde709253d30de94353e9b/clean-up-boot-partition-ubuntu.md)
