@@ -289,11 +289,15 @@ Can a business have a conscience?
 * Trial Court  
     * Judges  
     * Determines the rules of law for a case   
+    * REnders decisions that deal directly with people in conflict
+    * primary duty to observe and apply constitutional limiatations and garuntees.
+    * uphold dignity of the courts and maintain respect for the law.  
 * Appellate Court
     * Justices  
     * Review case (as if they are grading papers from the judges)  
     * apeals courts do not have jury, one or more Justice will decide the case. Some attornies will specialize in Appellate cases  
     * decide an appeal and provide reasons for their decisions.  
+    * immunity from legal actions against them based on their judicial acts  
 
 ## Jurors
 * Fact-finding body
@@ -342,7 +346,7 @@ Texas has seperate courts for criminal and civil courts.
     * Probate courts: Wills and estates
     * Traffic courts: Traffic violations 
 
-Fig. 3.1 - State Court System
+Fig. 3.1 - *State Court System*
 ![State Court Sys](../../images/School/BusLawCh3CourtSystem-StateCourtSysFlowChart.png) 
 > *Term to know: Centori: a writ or order by which a higher court reviews a decision of a lower court.*
 
@@ -352,6 +356,11 @@ Fig. 3.1 - State Court System
 3. Citizens of different states (ammount in controversy(ie. amounts greater than $75K), diversity of citizenship)  
 4. Law: Federal Question 
 
+Fig. 3.2 - *The Federal Court System*  
+![Federal_court_sys_img](../../images/School/BusLawCh3CourtSystem-FederalCourtFlowChart.png)  
+
+> Federal Courts have subject matter jurisdiction over federal question cases and diversity of citizenship cases. 
+
 ## Diversity of citizenship 
 * Diversity 
     * Plaintifs / defendants are citizens of different states. 
@@ -360,11 +369,21 @@ Fig. 3.1 - State Court System
 
 ## Federal Question cases: 
 * US Constitution issues ie. (Miranda vs. Arizona => Miranda rights)
+* MOTHER FUCKING *ROE V. WADE*
 * Federal Statue issues
 * no $$$ limits.  
 
-Fig. 3.2 Federal Court System
-![Federal Court Sys](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh3CourtSystem-FederalCourtFlowChart.png)
+> Small-Claims Courts  
+> - Entrepreneurs are well advised to be aware of the small-claims court as an effective place to resolve matters that do not involve large amounts of money.
+> - The dollar limit jurisdiction of the courts varies by state from approximately $2,500 to $25,000. Small-claims courts have low court costs and simplified procedures. The informality of the proceedings speeds up the flow of cases. The services of a lawyer are not usually required, and some states do not allow lawyers to participate in these proceedings. Typical cases: 
+> - clients who fail to pay;
+> -    disputes with vendors;
+> -    landlord-tenant problems, including security deposits;
+> -    damage to clothing caused by cleaners or alterations;
+> -    relatively minor personal injuries (e.g., dog bites);
+> -    issues with contractors;
+> -    failure to repair a vehicle or appliance properly.  
+> The following claims *cannot* be brought in small claims courts: **divorce, guardianship, name change, bankruptcy, or actions for emergency relief (injunctions).**
 
 ## District courts
 * Trial courts of the federal system. 
@@ -372,7 +391,10 @@ Fig. 3.2 Federal Court System
 * *Federal Rules of Civil Procedure:* Provide the details concerning procedures to be followed in federal court litigation. 
 
 ## Appellate courts
-~~TODO: Get Geographical boundries for Appellate courts.~~
+~~TODO: Get Geographical boundries for Appellate courts.~~  
+> Fig 3.3 *The Federal Court of Appeals  
+
+![Federal_Court_Of_Appeals](../../images/BusLawCh3_FedCourtOfAppeals.png)
 * 12 courts of appeal
 * Special court of appeals hears appeals from 
     * special courts. 
@@ -386,11 +408,35 @@ Fig. 3.2 Federal Court System
 
 ## Decisions by the US Supreme Court. 
 *SCOTUS:* Supreme court of the united states.  
-* review requires a petition for a writ of Certiorari
-* Supreme court resolves
+* review requires a petition for a *writ of Certiorari*
+    * writ is submitted by losing party in court of appeals for permission to file an appeal with the US Supreme Court.
+    * Supreme Court can decide if it wants to grant the writ, it's not a right, typicaly granted in cases of substantial federal importance.  
+* Supreme court resolves 
     * cases involving major Constitutional issues 
     * interpretation of federal law. 
 * Final judgments of hightes state court are reviewed only by SCOTUS. 
+
+> Sidebar 3.4 *Circuit Scorcard (2015-1016)*
+
+| Circuit  | Number of Cases | % Decided | % Aff'D | % Rev'D | 
+|---|---|---|---|---|
+CA1 |	2| 	3%  	3| 	50% | 	50% |
+CA2 |	5 | 	7% 	5 |	40% |	60% |
+CA3 |	3 |	4% 	3 |	33% |	67% |
+CA4 |	4 |	5% 	4 |	50% |	50% |
+CA5 |	4 |	5% 	4 |	50% |	50% |
+CA6 |	7 |	9% 	7 |	57.1% |	42.9% |
+CA7 |	1 |	1 	 1 |	— |	100% |
+CA8 |	4 |	5% 	 4 |	24% |	75% |
+CA9 |	14 	| 19% 	14 |	14.3% |	85.7% |
+CA10 |	2 |	4% 	 2 |	50% |	50% |
+CA11 |	7 |	9% 	 7 |	57.1% |	42.9% |
+CA DC |	3 |	4% 	 3 |	66.7% |	33.3% |
+CA Fed |	4 	5% | 	4 |	50% |	50% |
+State |	11 	| 15% 	 11 |	18% |	82% |
+Dist. Ct |	3 |	4% 	 3 |	33.3% |	66.8% |
+Original |	0 |	0% 	 - |	- |	- |
+###### Source: SCOTUSblog Stat Pack, October Term 2018. https://www.scotusblog.com/wp-content/uploads/2019/07/StatPack_OT18-7_30_19.pdf
 
 ## Power of judical review. 
 * Judicial restraint vs. judical activism
