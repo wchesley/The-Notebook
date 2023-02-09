@@ -56,7 +56,9 @@
   - [Litigation](#litigation)
   - [Parties](#parties)
   - [Standing to sue](#standing-to-sue)
+    - [Personal Jurisdiction](#personal-jurisdiction)
   - [Class-Action Suits:](#class-action-suits)
+    - [Pretrial procedures](#pretrial-procedures)
   - [Pleadings](#pleadings)
   - [Discovery](#discovery)
   - [Discovery methods](#discovery-methods)
@@ -772,15 +774,38 @@ Issue:
 - Purpose: capturing and stealing the new yourk jets signals and visual coaching instructions
  - The New England Patriots. 
 
- Personal Jurisdiction
- Court must have legal authority over an individual. 
- Court has to haev authority over the parties in the case
+**Updated Case 4.1 - 2023**
+>*JULIANA v. UNITED STATES* F.3d (9th Cir. 2020)  
+The panel reversed the district court's interlocutory orders in this action which was brought by 21 individual plaintiffs (all young citizens) and environmental organizations against the federal government alleging climate-change related injuries caused by the federal government continuing to "permit, authorize, and subsidize" fossil fuel.﻿JULIANA v. UNITED STATES F.3d (9th Cir. 2020)  
+The panel reversed the district court's interlocutory orders in this action which was brought by 21 individual plaintiffs (all young citizens) and environmental organizations against the federal government alleging climate-change related injuries caused by the federal government continuing to "permit, authorize, and subsidize" fossil fuel.  
+***COWEN, Circuit Judge***  
+In the mid-1960s, a popular song warned that we were "on the eve of destruction." (Barry McGuire, "Eve of Destruction," on Eve of Destruction, Dunhill Records, 1965.) The plaintiffs in this case have presented compelling evidence that climate change has brought that eve nearer. A substantial evidentiary record documents that the federal government has long promoted fossil fuel use despite knowledge that it can cause catastrophic climate change, and that failure to change existing policy may hasten an environmental apocalypse.  
+The plaintiffs claim that the government has violated their constitutional rights, including a claimed right under the Due Process Clause of the Fifth Amendment to a "climate system capable of sustaining human life." The central issue before us is whether, even assuming such a broad constitutional claim exists, an Article III court can provide plaintiffs with the redress they seek--an order requiring the government to develop a plan to "phase out fossil fuel emissions and draw down excess atmospheric CO2." Reluctantly, we conclude that such relief is beyond our constitutional power. Rather, the plaintiffs' impressive case for redress must be presented to the political branches of government.  
+The district court denied the government's motion to dismiss, concluding that the plaintiffs had standing to sue, raised justiciable questions, and stated a claim for infringement of a Fifth Amendment due process right to a "climate system capable of sustaining human life." The court defined that right as one to be free from catastrophic climate change that "will cause human deaths, shorten lifespans, result in widespread damage to property, threaten food sources, and dramatically alter the planet's ecosystem." The court also concluded that the plaintiffs had stated a viable "danger-creation due process claim" arising from the government's failure to regulate third-party emissions. Finally, the court held that the plaintiffs had stated a public trust claim grounded in the Fifth and Ninth Amendments. . . .  
+The government . . . argues that the plaintiffs lack Article III standing to pursue their constitutional claims. To have standing under Article III, a plaintiff must have (1) a concrete and particularized injury that (2) is caused by the challenged conduct and (3) is likely redressable by a favorable judicial decision. . . .  
+[After expressing skepticism that the first redressability prong is satisfied, the court stated] even assuming that it is, the plaintiffs do not surmount the remaining hurdle--establishing that the specific relief they seek is within the power of an Article III court. There is much to recommend the adoption of a comprehensive scheme to decrease fossil fuel emissions and combat climate change, both as a policy matter and in general and a matter of national survival in particular. But it is beyond the power of an Article III court to order, design, supervise, or implement the plaintiffs' requested remedial plan. . . .  
+The plaintiffs have made a compelling case that action is needed; it will be increasingly difficult in light of that record for the political branches to deny that climate change is occurring, that the government had a role in causing it, and that our elected officials have a moral responsibility to seek solutions. We do not dispute that the broad judicial relief that plaintiffs seek could well goad the political branches to action. . . . We reluctantly conclude, however, that the plaintiffs' case must be made to the political branches or to the electorate at large, thee latter of which can change the composition of the political branches through the ballot box. That the other branches may have abdicated their responsibility to remediate the problem does not confer on Article III courts, no matter how well-intentioned, the ability to step into their shoes. . . .  
+*Note: On March 3, 2020, the plaintiffs filed a petition for rehearing, asking the Ninth Circuit to hear the matter en banc. 
+
+KEY POINTS to Case 4.1(2023) 
+- To maintain a lawsuit, a plaintiff must have standing or a legally cognizable claim and the court must have the authority to hear the matter.
+- The Ninth Circuit found that the court lacked Article III standing.
+- Accordingly, the case was remanded with instructions to dismiss the case for lack of Article III standing.
+
+ ### Personal Jurisdiction
+ Court must have legal authority over an individual.  
+ Court has to have authority over the parties in the case.  
+ > No case can proceed forward without the existence of both subject matter and personal jurisdiction.
  - *in personum* over the person
     - Personal jurisdiction over the defendant obainted by: 
         - court summons
         - Service of Process 
  - *in rem?*
- - Long arm statuetes: Provision for the service of process beyond the boundaries of the state. 
+ - Long arm statuetes: Provision for the service of process beyond the boundaries of the state. Typical requirements for a long-arm statute are:
+   - Has committed a tort within the state.
+   - Owns property within the state that is the subject matter of the lawsuit.
+   - Has entered into a contract within the state or transacted the business that is the subject matter of the lawsuit within the state.
+
 
 ## Class-Action Suits: 
 
@@ -788,7 +813,8 @@ Many people affected by an incident (red bull didn't give us all wings!)
 - One or more plaintiffs file suit on their own behalf and on behalf of all other persons who may have a similar claim. 
 - No one member of the class can make suing financially worthwhile (attornies typically take 1/3 of the reward in class action)
 
-Pretrial procedures
+### Pretrial procedures
+![Pretrial_Procedures_Image](../../images/School/BusLawCh4_Litigation_Pretrial_Proceedings.png)
 1. Plaintiff files complaint
 2. Complaints and summons served on defendant
 3. Defendant files motion or answer with possible counterclaim and defenses
@@ -929,7 +955,7 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
     - when a majority ... 
 
 ## Appellate Review: 
-![Appellate Review](https://github.com/wchesley/The-Notebook/blob/master/images/School/BusLawCh4Litigation-AppellateReview.png)
+![Appellate Review](../../images/School/BusLawCh4Litigation-AppellateReview.png)
 
 ## Enforcement of judgments and decrees
 - Execution: 
