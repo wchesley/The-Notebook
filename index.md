@@ -16,6 +16,9 @@ Intended to serve as my online journal, throughout college and career, written i
 - [CLI](React/React-Native-CLI.md)
 - [Tips and Tricks](React/Tips-N-Tricks.md) 
 
+### [Life](./Life/index.md)
+- [Firefox](./Life/firefox.md) 
+
 ### [Linux](./Linux/index.md)
 
 ### [Git](Git.md)
