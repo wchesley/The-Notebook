@@ -64,16 +64,17 @@
   - [Discovery methods](#discovery-methods)
   - [Discovery scope](#discovery-scope)
   - [Motions](#motions)
+- [The Trial](#the-trial)
   - [Food for thought...](#food-for-thought)
   - [Jury Selection](#jury-selection)
     - [Case 4.2](#case-42)
       - [Supreme court outlawed racial discrimination in peremptory challenges](#supreme-court-outlawed-racial-discrimination-in-peremptory-challenges)
       - [Gender discrimination is bannedd in the jury selection process](#gender-discrimination-is-bannedd-in-the-jury-selection-process)
-      - [](#)
+  - [Other Steps in a Trial](#other-steps-in-a-trial)
   - [Opening statements](#opening-statements)
   - [Burden of Proof](#burden-of-proof)
   - [Deciding the case](#deciding-the-case)
-  - [Post trial issues](#post-trial-issues)
+- [Post trial issues](#post-trial-issues)
         - [If you are found not guilty in criminal case: the opposing party (the government) Cannot appeal the case.  Where as if the criminal loses the case, he can appeal. To be tried again would result in double jeapordy](#if-you-are-found-not-guilty-in-criminal-case-the-opposing-party-the-government-cannot-appeal-the-case--where-as-if-the-criminal-loses-the-case-he-can-appeal-to-be-tried-again-would-result-in-double-jeapordy)
   - [Appellant Procedures](#appellant-procedures)
   - [Appellate Procedures](#appellate-procedures)
@@ -830,10 +831,16 @@ Many people affected by an incident (red bull didn't give us all wings!)
     - filed with a court
     - begin litigation process
 - complaint: filed by plaintiff
+  - Contains allegations and relief saught from defendant
+  - summons are delivered to defendant by court officer along with a copy of complaint.
 - answer: filed by defendant
+  - admints or denies each allegation made by plaintiff
+  - may contain affirmative defenses that will defeat the plaintiff’s claim. 
+  - The answer may also contain causes of action the defendant has against the plaintiff. These statements are called *counterclaims.*
 - Default: order entered by court when defendant does not respond in any way. 
 - After getting answer plaintiff must reply
     - Admits or denies each alligation of the defendants counterclaims 
+> Complaint and Answer provide framework for lawsuit 
 
 ## Discovery 
 Gather the Evidence
@@ -842,49 +849,97 @@ Gather the Evidence
     - not an ability or skill of counsel 
 - encourage settlement. 
 - Get Evidence!!!! **<= THIS IS KEY!!**
+> Do take advantage of the discovery process to learn as much as you can about the strengths and weaknesses of the case.
 
 ## Discovery methods
 - Interrogatories: 
     - written questions (like written interview)
 - Request for production of documents; 
     - Ask other party to produce specific documents
+    - For example, a buyer of merchandise who is suing the seller can request that this defendant produce the original sales contract that contains certain warranties covering the merchandise. 
+    - AKA the receipt. See Sidebar 4.7
 - Depositions: 
     - Oral questions of the possible witness. 
     - asked by attornies, will have court reporter present, but witness is not under oath. trying to impeach the witness (catch them in a lie)
+    - Depositions of all potential witnesses can be very expensive and burdensome. Lawyers advise their witnesses to answer truthfully but not *volunteer* information in a deposition.
 - Request for admisssion
     - if you would just agree to 'x' we don't have to bring it up in court again. 
+
+> Sidebar 4.7  
+> <h3>Discovery Abuse: Alleged Failure to Produce Documents</h3>  
+> The Financial Industry Regulatory Authority, Inc. (FINRA) ordered Morgan Stanley to pay $3.3 million to investors in a Puerto Rico bond case in which the firm allegedly did not turn over key documents in a hearing. Documents "related to the termination of a key employee" were not produced in connection with a FINRA arbitration matter. A three-person panel ordered Morgan Stanley to produce the documents to opposing counsel and found that Morgan Stanley's failure to do so violated its arbitration rules related to acting in good faith to produce documents during discovery. The award was one of the largest awards ever made by a FINRA panel for discovery abuse.<br>
+> <sub>Source: Mark Schoeff, Jr., "Finra arbitrators order Morgan Stanley to pay $3.3 million for concealing evidence," InvestmentNews, July 18, 2019.</sub>  
 
 ## Discovery scope
 - Discovery procedures are intended to be used freely by parties without courts supervision
 - Judges provide a liberal interpretation of degree of discoverable information. 
 - information is considered discoverable when it can lead to Evidence admissible during a trial. 
 - expensive af **$$$$$$$**
+- Don’t try to impede the discovery process. Such efforts often backfire, and you could be sanctioned.
+- The key for both sides is to act in a reasonable and prudent manner. 
+  - The plaintiff should only ask for things needed to prepare for trial.
+  - The defendant should be open and responsive to reasonable requests for discoverable information.
 
 in a survey of 1000 judges, abusive discovery was rated highest among the reasons for the hight costs of litigation. 
 
-> 09/24/2019  
+> Sidebar 4.9
+> <h3>Litigation Holds and E-Discovery</h3>
+> The Federal Rules of Civil Procedure were amended several years ago to address discovery of electronically stored information (ESI). An important aspect of the rules is that the information sought must be “relevant to any party’s claim or defense and proportional to the needs of the case” [Rule 26(b)(1)]. Litigants must “take reasonable steps to preserve” potentially relevant ESI [Rule 37(e)]. To be safe, when there is pending or imminent litigation, your company should issue a “litigation hold” to preserve all relevant data from being destroyed, altered, or mutilated. The litigation hold applies to all documents, including electronic ones.
+> 
+> What are the best ways to identify and produce all electronic documents that may be used to support claims and defenses? Here are best practices suggestions to streamline the process:
+> - Select an individual to take the lead in preserving all documents.
+> - Identify all custodians of information (including former employees) and both hard copies of documents and electronic material.
+> - Notify all custodians about the pending litigation.
+> - Create a chart or content map of all categories of documents and custodians.
+> - Remind all custodians to suspend routine destruction policies and to preserve all documents.
+
+--- 
+> Notes from: 09/24/2019, updated 02/09/2023  
 
 ## Motions
+When a question of law is at issue, the parties can seek a pretrial determination of their rights by filing a motion with the court.
+- First, the defendant may, instead of filing an answer, file a *motion to dismiss for failure to state a cause of action.* 
+  - By this pleading the defendant, in effect, says to the court, “Even if everything the plaintiff says in his complaint is true, he is not entitled to the relief he seeks.”
 - Statute of Limitations (SOL):
-    - Defendant
+    - Filed by the Defendant
     - Motion to dismiss suit
     - Law says plaintiff took too long to file
+      - statute varries depending on state and torte. 
 - Judgment on the pleadings
     - Decide case based only on the complaint and answer
 - Summary Judgment    
     - Decide based on the pleadings and other evidence  
 
-**TODO: Add figure 4.3 from textbook - Trial Steps - 2 pictures from slides/book **  
+![Business_law_Ch_4_Motions_image](../../images/School/BusLawCh4_Litigation_Motions.png)
+
+**TODO: ~~Add figure 4.3 from textbook~~ - Trial Steps - 2 pictures from slides/book **  
+
+# The Trial
+If efforts to resolve a case through pretrial motions or negotiations have been unsuccessful, the case will proceed to trial. A trial normally involves the presentation of evidence to a jury to determine the actual facts in dispute. After the evidence is presented, the judge explains the applicable law to the jury. The jury is asked to deliberate and render a verdict and the trial court must then decide whether to enter a judgment based on the jury’s verdict.
 
 ## Food for thought... 
-"I consider a trial by jury as the only anchor yet devised by mn, by which a government can be held to the principles of its constitution"  -Thomas Jefferson
+> <h3>"I consider a trial by jury as the only anchor yet devised by man, by which a government can be held to the principles of its constitution"</h3><sub>- Thomas Jefferson</sub> 
+
+Google, Facebook, and Twitter are adding a new dimension to jury selection and dynamics. Here are a few examples:
+- Some lawyers might search the Internet for personal information about jurors. Social media sites may provide lawyers with information not typically revealed in voir dire.
+- Information on social networking sites such as Facebook can offer clues about a potential juror’s sympathy or the lack thereof to a client.
+- Likewise, jurors should not send a “friend” request to a witness or other person involved in the trial.
+- Jurors need to be advised that commenting about an ongoing trial is not allowed. The Judicial Conference of the United States is recommending that federal judges explicitly tell jurors that “You may not communicate with anyone about the case on your cell phone, through e-mail, BlackBerry, iPhone, text messaging, or on Twitter, through any blog or website, through any Internet chat room, or by way of any other social networking websites including Facebook, My Space, LinkedIn, and YouTube.” Reasonable? Did the court properly respond or overreact?
+- At least one court was asked to overturn a multi-million dollar judgment after a juror tweeted during the trial about the defendant.
+- There was also a report about a juror who held a Facebook poll to help her with deliberation of the case.
+- Concerns about juror misuse of social media led to a California law allowing judges to fine jurors $1500 if found using social media during a trial.
+
+
 
 ## Jury Selection  
+> Do remember that most civil cases are settled or resolved prior to trial.
 - Jury Summons
-- **Voir Dire**: Speaking the Truth
+- **Voir Dire**: Speaking the Truth (literally means *Speak the Truth*)
     - Selected jurors are called into jury box to conduct the examination
 - Peremptory Challenge: No cause or reason needs to be given to excuse a prospective juror
 - Strikes
+
+On the basis of a series of U.S. Supreme Court decisions, beginning with *Batson v. Kentucky*, 476 U.S. 79 (1986), outlawing racial discrimination in jury selection, the jury has become increasingly more representative of the racial diversity in the United States. Batson represented a major development in Supreme Court jurisprudence allowing lawyer misconduct in a single case to establish discriminatory motive in making peremptory strikes. The Court banned gender discrimination in jury selection in the case of *J.E.B. v. Alabama Ex Rel. T.B.,* 511 U.S. 127 (1994)
 
 ### Case 4.2
 
@@ -908,10 +963,11 @@ claims are sufficiently similar to form a class action.
 She was joined by Justices Breyer, Sotomayor, and Kagan. 
 
 #### Supreme court outlawed racial discrimination in peremptory challenges
-    - batson v. kentucky, 476 US 79 (1986)
+- batson v. kentucky, 476 US 79 (1986)
 #### Gender discrimination is bannedd in the jury selection process 
-    - J.E.B. v. Alabama
-#### 
+- J.E.B. v. Alabama
+## Other Steps in a Trial
+![Trial_Steps_Flow_Chart](../../images/School/BusLawCh4_Litigation_Trial_Steps.png)
 
 ## Opening statements
 - Attorneys make opening statements
@@ -934,7 +990,7 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
 - Verdict: Decision by the jury announced in the courtroom when jury deliberations are over. 
 - Judge will decide whether to accept the verdict or not. 
 
-## Post trial issues
+# Post trial issues
 - Appellant: Party appealing. (Can be plaintiff or defendant)
 - Appellee: Successful party in the trial court. 
 - Petitioner: Party initiating the petition when a petition for certiorari is filed to the supreme court.
