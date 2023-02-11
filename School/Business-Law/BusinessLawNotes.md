@@ -24,7 +24,16 @@
   - [Corporations](#corporations)
   - [Specific sense of Corporate governance](#specific-sense-of-corporate-governance)
 - [Chapter 2 Ethics](#chapter-2-ethics)
-      - [Contemporary Business Ethics](#contemporary-business-ethics)
+  - [Contemporary Business Ethics](#contemporary-business-ethics)
+  - [Ethics and Morality](#ethics-and-morality)
+  - [Ethics and Law](#ethics-and-law)
+  - [Systems of Ethics:](#systems-of-ethics)
+  - [Sources of value for business ethics](#sources-of-value-for-business-ethics)
+  - [Legal regulation - Ethical rules drawn from the law](#legal-regulation---ethical-rules-drawn-from-the-law)
+  - [Professional code of ethics](#professional-code-of-ethics)
+  - [Organizational code of ethics](#organizational-code-of-ethics)
+  - [Individual Values](#individual-values)
+    - [Individual values: Self Examination:](#individual-values-self-examination)
 - [Chapter 3 - The Court System](#chapter-3---the-court-system)
   - [Key Terms:](#key-terms)
   - [Judges and Justices](#judges-and-justices)
@@ -279,7 +288,9 @@ administrative law or regulations - last in list of authority for laws.
     - Volume of cases  
     - Conflicting precedents  
     - **Conflicts of Law** 
-    - Distinction between **holding** and **dicta** Increased difficutly of determining the precedent  
+    - Distinction between **holding** and **dicta** Increased difficutly of determining the precedent
+      - Holding: What was necessary to the decision reached in a prior case
+      - Dicta: What the court said other than what was necessary to reach the decision that was made.     
     - Rejection of precedent - Rare, but it can happen (*Constitutional Relativity vs Originalism*) 
 > dicta is extra stuff in a case that is not holding  
 Holding can set precedents, dicta does not  
@@ -351,62 +362,167 @@ Holding can set precedents, dicta does not
 > The Role of Ethics in Decision Making & Business
 > [PP Linked here](https://buffswtamu-my.sharepoint.com/:b:/r/personal/wrchesley1_buffs_wtamu_edu/Documents/Fall%202019/Business%20Law/Week%202/Chap%202%20[Compatibility%20Mode].pdf?csf=1&e=eUaeqK)  
 
-#### Contemporary Business Ethics
+## Contemporary Business Ethics
 - Ethics officers
     - Develop ethics policies / code of ethics
     - Listen to complaints of ethics violations
     - Investigate ethics abuses 
 - Sarbanes-Oxley Act (SOX) of 2002
     - Reaction to Enron and WorldComm scandles of early 2000's  
-    - Established higher standareds for coroporate responsibility and governance.  
+    - Established higher standareds for coroporate responsibility and governance. 
+- "Good Faith" according to Uniform Commercial Code:
+  - Honesty in intent
+  - Honesty in fact
+- "Good Faith" legal definition: in the case of a merchantmeans honesty in fact and the observance of reasonable commercial standards of fair dealing in the trade. <sub><a href="https://www.law.cornell.edu/ucc/2/2-103">cornell.edu</a></sub> 
 
-Ethics and Morality  
+## Ethics and Morality  
 - Morality: Values that guide one's behavior   
 - Ethics: formal system for deciding what's right and wrong  
 - The good: Moral goals and objectives one choooses to pursue.  
 
-Ethics and Law
+## Ethics and Law
 Fear Punishments vs. Want to do what's right 
 - Society's ethical values may become law throught Legislation
 
 > 09/03/2019
 
-Systems of Ethics: 
-- Formalism: `affirms absolute Morality`
+## Systems of Ethics: 
+- **Formalism**: `affirms absolute Morality`
     - Duty based view, if you have a duty, do it!
     - Categorical Imperative  
     - Social Contract - Idea that we all kinda have a contract with eachother, ie. i have my rights but no right to 'step' on your rights  
-- Consequentialialism - Concerned with moral consequnces of actions
+- **Consequentialialism** - Concerned with moral *consequnces* of actions
     - Utilitarianism
+    - Focuses on Common Good
+    - Ethics of actions are measured by how they promote the common good
     - Protestant ethic
+- **social contract theory** concerns itself with how to construct a just society given: the many inequalities of wealth, knowledge, and social status. Theory by John Rawls, has two main principles: 
+  - Each person has the same and indefeasible [permanent] claim to a fully adequate scheme of equal basic liberties, which scheme is compatible with the same scheme of liberties for all.
+  - Social and economic inequalities are to satisfy two conditions: 
+    - first, they are to be attached to offices and positions open to all under conditions of fair equality of opportunity;
+    - second, they are to be to the greatest benefit of the least-advantaged members of society (the Difference Principle). 
+  - ref: [BRIA 23 3 c Justice as Fairness: John Rawls and His Theory of Justice](https://www.crf-usa.org/bill-of-rights-in-action/bria-23-3-c-justice-as-fairness-john-rawls-and-his-theory-of-justice)
 
 Ethics influences legal system: Is there a relationship between law and ethics? Yes.  
 
-Sources of value for business ethics
+## Sources of value for business ethics
 - Legal regulation 
 - Professional codes of Ethics - Professional code is career choice based ie. Internal Auditor
 - Organizational codes of ethics - Publicly traded companies are required to have  code of ethics.  
 - Individual values 
 
-Legal regulation - Ethical rules drawn from the law
+## Legal regulation - Ethical rules drawn from the law
 - Respect liberty and rights of others. (ie. free speech, but cannot yell fire in crowded theatre)
 - Act in good faith 
 - Exercise due care
 - avoid conflics of interest
 - Honor confidentiality 
 
-Professional code of ethics
+## Professional code of ethics
 - Crtain professions have long traditions of codes of ethical conduct (CPA's have had a long standing code of ethics.)  
     - More recent professions have developed and adopted their own codes.   
 - Ethical codes of organization are a form of *self regulation*.   
 
-Organizational code of ethics
+blockquote>
+<em>sidebar 2.5</em>
+<h3>American Marketing Association Statement of Ethics</h3>
+<h4><strong>PREAMBLE</strong></h4>
+
+The American Marketing Association commits itself to promoting the highest standard of professional ethical norms and values for its members (practitioners, academics and students). Norms are established standards of conduct that are expected and maintained by society and/or professional organizations. Values represent the collective conception of what communities find desirable, important and morally proper. Values also serve as the criteria for evaluating our own personal actions and the actions of others....  
+<h4><strong>ETHICAL VALUES</strong></h4>
+
+**Honesty** — to be forthright in dealings with customers and stakeholders. To this end, we will:
+
+    Strive to be truthful in all situations and at all times.
+
+    Offer products of value that do what we claim in our communications.
+
+    Stand behind our products if they fail to deliver their claimed benefits.
+
+    Honor our explicit and implicit commitments and promises.
+
+**Responsibility** — to accept the consequences of our marketing decisions and strategies. To this end, we will:
+
+    Strive to serve the needs of customers.
+
+    Avoid using coercion with all stakeholders.
+
+    Acknowledge the social obligations to stakeholders that come with increased marketing and economic power.
+
+    Recognize our special commitments to vulnerable market segments such as children, seniors, the economically impoverished, market illiterates and others who may be substantially disadvantaged.
+
+    Consider environmental stewardship in our decision-making.
+
+**Fairness** — to balance justly the needs of the buyer with the interests of the seller. To this end, we will:
+
+    Represent products in a clear way in selling, advertising and other forms of communication; this includes the avoidance of false, misleading and deceptive promotion.
+
+    Reject manipulations and sales tactics that harm customer trust.
+
+    Refuse to engage in price fixing, predatory pricing, price gouging or “bait-and-switch” tactics.
+
+    Avoid knowing participation in conflicts of interest.
+
+    Seek to protect the private information of customers, employees and partners.
+
+**Respect** — to acknowledge the basic human dignity of all stakeholders. To this end, we will:
+
+    Value individual differences and avoid stereotyping customers or depicting demographic groups (e.g., gender, race, sexual orientation) in a negative or dehumanizing way.
+
+    Listen to the needs of customers and make all reasonable efforts to monitor and improve their satisfaction on an ongoing basis.
+
+    Make every effort to understand and respectfully treat buyers, suppliers, intermediaries and distributors from all cultures.
+
+    Acknowledge the contributions of others, such as consultants, employees and coworkers, to marketing endeavors.
+
+    Treat everyone, including our competitors, as we would wish to be treated.
+
+**Transparency** — to create a spirit of openness in marketing operations. To this end, we will:
+
+    Strive to communicate clearly with all constituencies.
+
+    Accept constructive criticism from customers and other stakeholders.
+
+    Explain and take appropriate action regarding significant product or service risks, component substitutions or other foreseeable eventualities that could affect customers or their perception of the purchase decision.
+
+    Disclose list prices and terms of financing as well as available price deals and adjustments.
+
+**Citizenship**— to fulfill the economic, legal, philanthropic and societal responsibilities that serve stakeholders. To this end, we will:
+
+    Strive to protect the ecological environment in the execution of marketing campaigns.
+
+    Give back to the community through volunteerism and charitable donations.
+
+    Contribute to the overall betterment of marketing and its reputation.
+
+    Urge supply chain members to ensure that trade is fair for all participants, including producers in developing countries.
+
+<em>sidebar 2.6</em>
+<h3>American Institute of Certified Public Accountants Code of Professional Conduct</h3>
+
+The Principles call for an unswerving commitment to honorable behavior, even at the sacrifice of personal advantage.
+
+In carrying out their responsibilities as professionals, members should exercise sensitive professional and moral judgments in all their activities.
+
+As professionals, members perform an essential role in society. Consistent with that role, members ... have responsibilities to all those who use their professional services. Members also have a continuing responsibility to cooperate with each other to improve the art of accounting, maintain the public’s confidence, and carry out the profession’s special responsibilities for self-governance. The collective efforts of all members are required to maintain and enhance the traditions of the profession.
+
+Members should accept the obligation to act in a way that will serve the public interest, honor the public interest, and demonstrate commitment to professionalism.
+</blockquote>
+
+## Organizational code of ethics
 * Business have adopted ethical codes at the individual organizational level
 * More important than creating a code:  
     * Effective implementation!  
     * Enforcement - consistency is key!  
+## Individual Values
+The ultimate source of ethics for business decision making comes from the individual. Others can tell you what is right or wrong. They can sanction you for failing to live up to their expectations. But only you can develop an ethical mindset. Only you can intend your actions to be honest and fair or to serve the common good.  
+* Have I thought about whether the action I may take is right or wrong?
+* Will I be proud to tell of my action to my family? To my employer? To the news media?
+* Am I willing for everyone to act as I am thinking of acting?
+* Will my decision cause harm to others or to the environment?
+* Will my actions violate the law?
 
-Individual values: Self Examination:  
+### Individual values: Self Examination:  
 > ![Self Examination-Ethics](../../images\School\BusLawCh2ETHICS-Self_Examination.png) 
 Should I do it?
 * Is it right or wrong? 
@@ -611,8 +727,9 @@ Original |	0 |	0% 	 - |	- |	- |
 ###### Source: SCOTUSblog Stat Pack, October Term 2018. https://www.scotusblog.com/wp-content/uploads/2019/07/StatPack_OT18-7_30_19.pdf
 
 ## Power of judical review. 
+* The power of the courts in the United States to review laws passed by the legislative body and to declare them to be unconstitutional and void is known as *Judicial Review*.
 * Judicial restraint vs. judical activism
-* power should not be used except in unusual cases vs. Power should be used when the needs of society justify it. 
+* power should not be used except in unusual cases (restraint) vs. Power should be used when the needs of society justify it (activism). 
 ### US Supreme court has the ultimate power to invalidate actions by the President or Congress. 
 
 >Judicial Restraint and Judicial Activism are not exclusive to a particular Judge. Many Judges may share aspects of both in their judicial philosophy. 
@@ -738,7 +855,7 @@ judicial abstention; aka strict constructivism
 
 ## Litigation
 
-Not the only way legal disputes are settled, there's also ADR (alternative dispute resolution) => Ch. 5
+Not the only way legal disputes are settled, there's also ADR (alternative dispute resolution) -> Ch. 5
 
 attornies that are really good in court room are called litigators or Trial attornies. 
 
@@ -767,11 +884,11 @@ Do you really have a "dog" in this fight?
     - Litigation involves a case or controversy 
     - Personal stake in the resolution of the controversy
 
-Case 4.1
+> Case 4.1  
 *Mayer v. Belichick*
 605 F.3d 223 (3rd Cir.)
 Issue: 
-- Videotaping the new york jets coaches and players on teh field. 
+- Videotaping the new york jets coaches and players on the field. 
 - Purpose: capturing and stealing the new yourk jets signals and visual coaching instructions
  - The New England Patriots. 
 
@@ -786,7 +903,7 @@ The district court denied the government's motion to dismiss, concluding that th
 The government . . . argues that the plaintiffs lack Article III standing to pursue their constitutional claims. To have standing under Article III, a plaintiff must have (1) a concrete and particularized injury that (2) is caused by the challenged conduct and (3) is likely redressable by a favorable judicial decision. . . .  
 [After expressing skepticism that the first redressability prong is satisfied, the court stated] even assuming that it is, the plaintiffs do not surmount the remaining hurdle--establishing that the specific relief they seek is within the power of an Article III court. There is much to recommend the adoption of a comprehensive scheme to decrease fossil fuel emissions and combat climate change, both as a policy matter and in general and a matter of national survival in particular. But it is beyond the power of an Article III court to order, design, supervise, or implement the plaintiffs' requested remedial plan. . . .  
 The plaintiffs have made a compelling case that action is needed; it will be increasingly difficult in light of that record for the political branches to deny that climate change is occurring, that the government had a role in causing it, and that our elected officials have a moral responsibility to seek solutions. We do not dispute that the broad judicial relief that plaintiffs seek could well goad the political branches to action. . . . We reluctantly conclude, however, that the plaintiffs' case must be made to the political branches or to the electorate at large, thee latter of which can change the composition of the political branches through the ballot box. That the other branches may have abdicated their responsibility to remediate the problem does not confer on Article III courts, no matter how well-intentioned, the ability to step into their shoes. . . .  
-*Note: On March 3, 2020, the plaintiffs filed a petition for rehearing, asking the Ninth Circuit to hear the matter en banc. 
+* Note: On March 3, 2020, the plaintiffs filed a petition for rehearing, asking the Ninth Circuit to hear the matter *en banc*. 
 
 KEY POINTS to Case 4.1(2023) 
 - To maintain a lawsuit, a plaintiff must have standing or a legally cognizable claim and the court must have the authority to hear the matter.
