@@ -1,11 +1,12 @@
 # Chapter 1 Review Questions and Problems
-Master copy, to be cloned and completed. 
+Copy - to be filled out 
 
 ## Introduction
 
 1. *Why Nations Are Economically Weak or Strong*
 
    - Identify several reasons put forth to explain why nations are prosperous or poor.
+     - private property, law and the rule of law. Essentially people own their own shit and the law is properly written out and enforced equally.  
 
    - What does this section say is the foundation of the private market and prosperity?
 
