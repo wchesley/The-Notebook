@@ -1,5 +1,5 @@
 # Chapter 2 Review Questions and Problems
-Master copy, to be cloned and completed. 
+Copy - To be completed.  
 
 ## Contemporary Business Ethics
 
