@@ -47,6 +47,7 @@
 
 4. *Deciding the Case*
     - Under what circumstances should a judge enter a judgment notwithstanding the verdict?
+      - When any normal person(s) reviewing the evidence would have reached a different verdict. Essentially I belive this is to prevent Jury poisoning. Thinking along the lines of the mob has gotten to the Jury, defendent is obviously guilt based on evidence presented; but Jury found them innocent. Judge can overturn this verdict with *judgement notwithstanding*. 
 
 ## Posttrial Issues
 1. *Appeals*
@@ -54,9 +55,11 @@
 
 2. *Enforcement of Judgments and Decrees*
     - How does the court enforce judgments?
+      - sanctions, garnishments
 
 3. *Res Judicata*
     - Why is the notion of res judicata critical in civil litigation?
+      - This decision is final on the subject matter, no other parties may litigate this event. 
 
 business discussions
 
