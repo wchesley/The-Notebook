@@ -48,3 +48,17 @@ There are two primary types of negotiation:
 
 ## Multiple Phases and Multiple Parties
 Typically people think of negotiations as being one-on-one when in reality; this is rarely the case. Negotiations most often involve multiple parties (or several people from two parties) and take place in steps, or phases. 
+
+### Multiphase Negotiations
+*Multiphase transactions* (and the prospect of future transactions) offer parties important advantages for those who are trustworthy and who would like to foster cooperative behavior. 
+- Build trust (in early phases) by completing agreement as expected. Should agreement not be ment, other party can choose to read the warning sign, walk away or create new enforcement mechanisims for future agreements.
+- Early phases allow parties to get to know eachothers negotiation style and communication styles/preferences. 
+- That familarity (most often) makes subsequent phases more productive.
+
+### Multiparty Negotiations
+Business and proffessional negotiations commonly involve more than two parties, and certainly more than two people. Such *multiparty negotiations* differ significantly than from two party. Coalitions can form and make it possible for weaker parties to push through their preferred proposals or at least block the ones they find unacceptable. There are at least two types of Coalitions: 
+- *Natural Coalition* - Allies who share a broad range of common interests.
+  - hard to break these
+- *Single-issue Coalition* - Parties that differ on other issues unite to support or oppose a single issue (often for differing reasons)
+  - easier to break these up, just need to find a creative solution to the issue at hand. One to either remove their common issue or solve it. 
+
