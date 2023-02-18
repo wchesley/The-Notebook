@@ -1,5 +1,6 @@
 # Life/General 
-Just general notes and stuff I've picked up from being around. 
+
+Just general notes and stuff I've picked up from being around or having lived a day in this age. 
 
 <blockquote>
 <h4>"The difference between screwing around and science is writing it down"</h4>
