@@ -1151,6 +1151,11 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
 > Conflicts leads to *disputes* when one party makes claim that the other denies. (usually from 2 differing points of view)
 
 ## Negotiation
+<blockquote>
+<h4>“When do we negotiate? Always!”</h4>
+<sub>–Dialogue from the movie The Devil’s Advocate</sub>
+</blockquote>
+
 - Process used to persuade or coerce someone.  
 - Conflict Styles - we all have a dom conflict style but typically use all conflict styles. 
     - Avoidance (ie. ghosting)
@@ -1158,7 +1163,10 @@ She was joined by Justices Breyer, Sotomayor, and Kagan.
     - Competition 
     - Collaborate
     - Compromise
-    
+Graphic example: 
+
+![negotiationStyles](https://epub-factory-cdn.mheducation.com/publish/sn_23f72/35/1080mp4/OPS/img/chapter05/pagxxxxx_un0501.png)
+
 ## Positional Negotiation
 - Positional bargaining: used instinctively
 - begins in competitive style
@@ -1174,9 +1182,12 @@ VI. Consider the alternatives.
 VII. Commitment to the alternatives.    
 
 ## Alternative dispute resolution systems (ADR Systems)
-- Litigation does not prevetnt the use of ADR. 
-- Lawsuits are not required to use ADR methods. 
-- Usage can be part of a contractual relationship between parties. (required by contract)
+It is often the case that both parties to litigation are losers. The winning party in a lawsuit is a loser to the extent of the attorney’s fees—which are often substantial. The fact that the loser usually also has to pay court costs is an added incentive to settlement without litigation.
+
+- Litigation does not always preclude the use of ADR. Indeed, it is very common for disputes to be arbitrated, mediated, or settled through negotiations during the pretrial process discussed in the preceding chapter.
+- ADR systems used by disputing parties may be part of a contractual relationship between these parties. For example, even before any problem arises, it is an effective dispute resolution tool to have the parties’ contract specify a preferred ADR system. Disputing parties also may agree to use an ADR technique after the dispute arises even if they did not foresee the possibility of needing to use a dispute resolution system at the time of their original agreement.
+- disputing parties are not required to use ADR methods to resolve disputes. 
+  - Usage can be part of a contractual relationship between parties. (required by contract)
 - Effective use can save costs associated with litigation. 
 
 ## Fig. 5.1 Scale of dispute resolution systems. 
@@ -1186,7 +1197,7 @@ VII. Commitment to the alternatives.
 - ADR system 
 - Disputing parties agree to have a third party decide the merits of the dispute
 - Arbitrator: AUthorized to make decisions that are binding on the parties. 
-- Helps parties avoid litigation expenses adn courtroom formalities. 
+- Helps parties avoid litigation expenses and courtroom formalities. 
 - Serves to ease congested court dockets. 
 - Allows to submit several disputes to experts for solutions
 - Submission: Act of referring the dispute to the Arbitrator
