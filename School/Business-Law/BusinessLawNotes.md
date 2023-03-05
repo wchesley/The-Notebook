@@ -1251,12 +1251,12 @@ It is often the case that both parties to litigation are losers. The winning par
 - ARbitrators are retired judges and practicing lawyers. 
 
 # Chapter 6 The Constitution
-The US Constitution provides the legal framework of our federal government and the authority it has to regulate business activities. There are **Seven** articles in the original constitution, the first three set up the legislative, executive adn judicial branches respectively. 
-- Article I also sets up the Commerce Clause: The constitutional provision that gives the government power to regulate business. 
-- Article IV ensures we are one nation rather than just individual states. This article also carries the full faith and credit clause and teh privileges and immunities clause. 
-- Article V provides the process governing the amendment of the Constitution. 
-- Article VI states the Constitution is the supreme law of the land. It also clarifies that federal laws take priority when there is conflicting state or local laws. 
-- Article VII makes the Constitution effective up on ratification of the states, which occured in 1789
+The US Constitution provides the legal framework of our federal government and the authority it has to regulate business activities. There are **Seven** articles in the original constitution, the first three set up the legislative, executive and judicial branches respectively. 
+- `Article I` also sets up the Commerce Clause: The constitutional provision that gives the government power to regulate business. 
+- `Article IV` ensures we are one nation rather than just individual states. This article also carries the full faith and credit clause and teh privileges and immunities clause. 
+- `Article V` provides the process governing the amendment of the Constitution. 
+- `Article VI` states the Constitution is the supreme law of the land. It also clarifies that federal laws take priority when there is conflicting state or local laws. 
+- A`rticle VII` makes the Constitution effective up on ratification of the states, which occured in 1789
     - Two years later, 1791, the first 10 amendments were ratified, also known as the **Bill of Rights** 
 
 There have been a total of 27 amendments made to the Constitution since 1791; of that only 17 were approved
@@ -1265,20 +1265,20 @@ There have been a total of 27 amendments made to the Constitution since 1791; of
     - of the 5, one was made to repeal another. The 18th amendment that made alcohol illegal and the 21st, which repealed it. 
 
 ## The First 14 Amendments
-1. Freedom of Speech, press, religion and petition
-2. Right to Keep and bear arms. 
-3. conditions for the quarters of soliders
-4. right of search and seizure
-5. provisions regarding prosecution
-6. right to a speedy trial, witnesses, ect...
-7. right to a trial by jury
-8. excessive bail and cruel and punishment
-9. rule of construction of the constitution
-10. rights of states
-11. state sovereign immunity
-12. electoral college
-13. abolishment of slavery and involuntary servitude. 
-14. du process and equal protection
+1. Freedom of Speech, press, religion and petition (1791)
+2. Right to Keep and bear arms. (1791)
+3. conditions for the quarters of soliders (1791)
+4. right of search and seizure (1791)
+5. provisions regarding prosecution (1791)
+6. right to a speedy trial, witnesses, ect... (1791)
+7. right to a trial by jury (1791)
+8. excessive bail and cruel and punishment (1791)
+9. rule of construction of the constitution (1791)
+10. rights of states (1791)
+11. state sovereign immunity (1791)
+12. electoral college (1804)
+13. abolishment of slavery and involuntary servitude. (1865) 
+14. due process and equal protection (1868)
 
 ## Basic Concepts of the Constitution
 - Seperation of powers
