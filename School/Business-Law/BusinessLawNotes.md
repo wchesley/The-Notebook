@@ -136,7 +136,7 @@
   - [Classification of contracts](#classification-of-contracts)
     - [Contract words to know: :](#contract-words-to-know-)
   - [Requirements for enforceable contract](#requirements-for-enforceable-contract)
-  - [Defenses to Enforcementj](#defenses-to-enforcementj)
+  - [Defenses to Enforcement](#defenses-to-enforcement)
   - [Offer](#offer)
   - [Offer termination](#offer-termination)
   - [Acceptance](#acceptance)
@@ -1568,18 +1568,80 @@ I will work for you for $15/hr
     - account for future risks 
     - have confidence in exhcanging valueables. 
     - have confidence in what we are doing.   
-All promises are legal contracts?! Hell no! 
+
+Are all promises are legal contracts?! Hell no! 
 
 ## Sources of contract law
 - Legislation 
     - Unifrom commercial code (UCC)
-    - contracts for goods
+    - Article 2 of the UCC covers the sale of goods. Goods are tangible, movable items of personal property. Every state has adopted some version of Article 2 of the UCC, thereby making state contract law relatively uniform in the area of goods contracts
+    - UCC covers individuals as well as firms. 
 - Common Law 
     - Judicial decisions    
         - contracts for goods 
         - contracts for services. 
 
+
+<table class="mhhe--basic_table colored_table" id="data-uuid-52b6d0f686574e4f8f7bc771eeffa2ce">
+<blockquote>
+<div class="align-left"><em>table 8.1</em></div>
+<p class="caption" id="data-uuid-d8d9371134f243dd9d077b2a3384e68a">Selected Differences between Common Law and UCC Contracts</p>
+</blockquote>
+<thead>
+<tr>
+<th class="text-left" scope="col" id="data-uuid-c206bf7ba5754716936e6c1cf89ac31b">Issue</th>
+<th class="text-left" scope="col" id="data-uuid-01364ae3ce0445b58cc5c51abc443230">Common Law</th>
+<th class="text-left" scope="col" id="data-uuid-2cb435f5efe5418c8596f6893e11e179">UCC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="font-bold top-align" id="data-uuid-fc6b9c1d08f34f6cad817c1086c575b4">Agreement</td>
+<td class="top-align" id="data-uuid-400073d0eadd4321943d54f1a80251f5">Acceptance must be the “mirror image” of the offer.</td>
+<td id="data-uuid-bc3b36902f6e47fb8caef96e7caea69f">Acceptance containing different terms will form a contract, with treatment of differing terms depending on whether both parties are merchants.
+<ul class="bulleted-list" id="data-uuid-128045f3567841d1a33016f4629ab001">
+</ul>
+</td>
+</tr>
+<tr>
+<td class="top-align" id="data-uuid-b3a4862a29e94f0591a88a29d4737727"><strong>Implied terms</strong> 
+</td>
+<td class="top-align" id="data-uuid-3335f28e2aca4767bdcd5e3adcd32942">Depends on the particular agreement.</td>
+<td id="data-uuid-24733c04590e4060a87a435238224c4e">All contracts have the following as a default
+<ul class="bulleted-list" id="data-uuid-aff66a9e79a0474694fbf0b8334b0a08">
+<li id="data-uuid-3404e54fb2d04d40ad90a730b73130e9"><p id="data-uuid-6d09b50e50c54688a28440d19e7f9267">Warranty of merchantability.</p></li>
+<li id="data-uuid-df46583bb5a047ca8a05b7548dfc472d"><p id="data-uuid-8c881148169c4d269ef22292ba5f7f28">Warranty of fitness for a particular purpose.</p></li>
+<li id="data-uuid-43f4ae1637934a5ea345e2fec7ed7612"><p id="data-uuid-6549804181a542778698021d43b892ea">Warranty of title and against infringement.</p></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="font-bold" id="data-uuid-1775feb9878c4787b5930ec2149af3f3">Undefined terms</td>
+<td class="top-align" id="data-uuid-790060f68dcc42f182e3178f7d12116e">Essential terms must be included.</td>
+<td class="top-align" id="data-uuid-e9a58f42064b4c7c83359d85a6ba5987">Nonquantity open terms (such as price) can be determined in the future.</td>
+</tr>
+<tr>
+<td class="font-bold top-align" id="data-uuid-90a591e24eec429a8cb41f2b486f5428">Consideration</td>
+<td class="top-align" id="data-uuid-837a2f4ee5644e9b90f59871bb49edb2">Necessary for agreement, modifications, and option contracts.</td>
+<td id="data-uuid-23885168c9734d0cad6752c143113445">Necessary for agreement, but not for modifications or a merchant’s firm offer.</td>
+</tr>
+<tr>
+<td class="font-bold top-align" id="data-uuid-c1df0422f2b544c0b99eb2f630c9e17a">Contract Form (Statute of Frauds)</td>
+<td class="top-align" id="data-uuid-097f43fbd0734d498e8f91f1fb382d13">Writings required for certain types of agreements such as real property transfers, promises that cannot be performed within a year, and collateral promises.</td>
+<td id="data-uuid-bf56f8227e0f49199b978d7180c3372f">Writing required for sale of goods $500 or more, unless
+<ul class="bulleted-list" id="data-uuid-17c8e579918240c9838717566247853b">
+<li id="data-uuid-110ca4b93c51494ba2f7498817091afb"><p id="data-uuid-5a220e0d2fd54ed6918246f4d39746ef">Partial performance occurs.</p></li>
+<li id="data-uuid-b2ac625ac0e6448b933cf260248e8e14"><p id="data-uuid-08fc9904c05342dca8c40b5182a901fa">Goods are specially manufactured.</p></li>
+<li id="data-uuid-969bd4adc6984c0ba9e054ab67666db9"><p id="data-uuid-08018e8d6f024b268411c3f7b02365ac">Contract between merchants later confirmed.</p></li>
+<li id="data-uuid-27c1222c138c47c78c0322f3b7202434"><p id="data-uuid-42ae601776074926a8458270159549dd">Existence of contract admitted in court.</p></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
 ## Classification of contracts 
+There are a number of terms used to classify different types of contracts: 
 - Bilateral & Unilateral
     - Bilateral
         - Both parties have a duty to perform when contract is formed
@@ -1587,15 +1649,129 @@ All promises are legal contracts?! Hell no!
             - Pearl's right to the computer
             - Pearl promises to pay $1,000 
             - Pauls right to the money
+            - ![Visual Bilateral Example](../../images/School/BusinessLaw_Ch9_Bilateral_Contract_Image.png)
     - Unilateral
         - One party has duty to perform if contract is formed by performance. but the other party may elect not to perform
             - Pat's promise to pay alex $1000 to perform at her birthday
-            - Pat's right to receive $1000 **IF** she performs 
+            - Pat's right to receive $1000 **IF** she performs
+            - ![Visual Unilateral Example](../../images/School/BusinessLaw_Ch9_Unilateral_Contract_Image.png) 
 - Express and implied in fact 
     - Express   
         - Interactions in which parties discuss terms. 
+          - A negotiated purchase of land for construction of a manufacturing plant is an example of an express contract. Both written and oral agreements are express if the terms are described.
     - Implied-in-fact 
-        - conduct 
+        - arise from conduct of parties rather than words.
+          - For instance, asking a person such as an accountant for professional advice implies a promise to pay the going rate for this advice even though you do not make an express promise to pay for it. Case 8.1 involves a possible implied-in-factg contract in the context fo a jbo in which certain promises were made about employment protection for whistle blowing
+<div>
+<blockquote>
+<header id="data-uuid-d1dcc9a9d78a4f29a671d3e7f3c1e1cf" style="background-color:#416fec">
+<h4 id="data-uuid-4f8d34e472e04d16a67896a5a2de8080">
+<span class="case_no">case 8.1</span></h4>
+
+<h5 id="data-uuid-0fe1686adf1942c1931efedd8f4abfc1" ><span class="mhhe-color--text-color2">LEYDEN v. AMERICAN ACCREDITATION HEALTHCARE COMMISSION</span>
+    <span class="mhhe-color--text-color4">83 F.Supp.3d 241 (D.D.C.
+        2015)</span></h5>
+</header>
+</blockquote>
+<p id="data-uuid-ca9d2f8e0399410f812c474a4f0c3e5d"><em>Christine Leyden was a registered nurse who worked for the American Accreditation Healthcare Commission (referred to in the case as “URAC”), a non-profit that accredits health care plans and providers. She was ostensibly a non-contract, or “at-will,” employee. In addition to explicit statements that employees in Leyden’s position were at-will, URAC had contradictory company policies that claimed to protect employees from retaliation from serving as whistleblowers or for expressing grievances. </em></p>
+<p id="data-uuid-b4c78f1c30ab41dc88ce91b331405e41"><em>In 2012, URAC hired a new CEO. Leyden stated that she had acknowledged to human resources that the CEO and his deputy were fostering a workplace environment that was biased against women. Additionally, she raised concerns about the allegedly improper conduct of two UPAC board members. Leyden was terminated in 2013. At that point, she argued that the termination was in response to her complaints and violated the company policies against retaliation. She claimed that the termination was, therefore, a breach of an implied contract. URAC argued that Leyden’s at-will status precluded such a claim. The court was called upon to determine whether the promise of non-retaliation changed Leyden’s at-will status in the context at issue.</em></p>
+<p id="data-uuid-2e01a5d148354d5097d14095afb4f9b2"><strong>CHRISTOPHER R. COOPER, U.S. DIST. JUDGE: </strong>Leyden acknowledges that she did not have
+a written employment contract with URAC. Nevertheless, she argues in Counts 3
+and 6 that URAC breached implied contracts arising under two of its personnel
+policies when it terminated her. She further alleges, in Count 5, that URAC
+breached a covenant of good faith and fair dealing implicit in these contracts
+and, in Count 4, that it is bound to fulfill the terms of one of the policies
+under a theory of promissory estoppel. URAC retorts that the policies are not
+applicable to Leyden’s alleged conduct and, in any event, did not create
+implied contracts because URAC’s employee handbook explicitly disclaims the
+creation of any contractual rights. URAC further contends that Leyden was not protected by the policies because she
+did not put her concerns in writing.</p>
+<p id="data-uuid-90a029c301c6471e81d3a4d334fcb890">A plaintiff may rebut the D.C. law
+presumption of at-will employment by showing that “the parties intended
+that termination be subject to specific preconditions.”  . . . One way to do so is to show that the
+terms of a personnel manual or employee handbook create contractual rights.  An employer may disclaim that it is bound by
+the terms of those documents. But if the disclaimer is “rationally at
+odds” with other language in the document, a reasonable jury could
+conclude that the employer intended to be bound by the substantive terms.
+. . . Any implied contract would also
+contain an implied duty of good faith and fair dealing, which requires
+“that neither party shall do anything which will have the effect of
+destroying or injuring the right of the other party to receive the fruits of
+the contract.”  . . . . Finally, even
+in the absence of a contract, an organization may be liable under a theory of
+promissory estoppel if a plaintiff establishes “(1) a promise; (2) that
+the promise reasonably induced reliance on it; and (3) that the promisee relied
+on the promise to his or her detriment.”  . . .</p>
+<p id="data-uuid-eebbbf5f74c34c82b47494d3f319c891">Leyden locates implied contracts in two
+URAC policies: a whistleblower policy and an employee grievance policy. URAC’s
+whistleblower policy invites employees “to report allegations of known or
+suspected Improper Activities.”  . .
+. “Improper Activities” are defined to include a non-exclusive series
+of specific acts, such as questionable accounting and fraud, as well as a
+catch-all category including “malfeasance” and “gross
+misconduct.” And most importantly, the policy concludes with an
+anti-retaliation provision: “No URAC employee who in good faith reports
+any Improper Activities in accordance with this policy shall suffer, and shall
+be protected from threats of harassment, retaliation, discharge, or other types
+of discrimination.”  . . .</p>
+<p id="data-uuid-7ce6514103c8402591bf2a6ce4e0b862">Leyden’s alleged complaints about a board
+member’s requests for proprietary information—supplied to URAC by an
+accredited entity with the expectation that URAC would not share it with board
+members from competing managed care organizations—implicates URAC’s
+whistleblower protections. In other words, conduct by board members in
+violation of an organization policy specifically designed to prevent breaches
+of confidentiality plausibly falls within the scope of the non-exclusive
+“Improper Activities” the whistleblower policy invites employees to
+report. And Leyden may be protected by the whistleblower policy, despite
+raising her concerns verbally, because it merely “encourage[s]”—but
+does not require—employees to report improper activities in writing. . . . The
+Court further concludes that, to the extent the “at-will” disclaimer
+in the URAC employee handbook applies to the whistleblower policy (which is
+found in a different document), the handbook disclaimer is “rationally at
+odds” with the whistleblower policy and therefore does not serve to
+retract URAC’s commitment to protect employees from retaliation for reporting
+suspected improper activity.  . . . Any
+other conclusion would render the whistleblower policy meaningless. Having made
+the promise, URAC cannot now argue it was not bound to honor it.</p>
+<p id="data-uuid-c06e96f008eb431382e9068835959954">The same is true of URAC’s grievance
+policy. That policy encourages URAC employees to raise complaints or
+suggestions concerning their work conditions. Like the whistleblower policy, it
+contains a non-retaliation provision promising that “[n]o employee will be
+penalized, formally or informally, for voicing a complaint with URAC in a
+reasonable, professional manner.”  .
+. . Leyden alleges that she was fired for doing just that: raising concerns
+about management’s treatment of women and about conduct she thought undermined
+the integrity of the accreditation programs she oversaw. Again, because the
+“at-will” disclaimer contradicts the grievance policy, it does not
+prohibit Leyden from seeking to enforce URAC’s promise not to penalize
+employees for lodging reasonable complaints.</p>
+<p id="data-uuid-84510c60cfcf4df7bf3ff3501cf1ebd3">Accordingly, Leyden has adequately pled
+that URAC entered into implied contracts, along with the implicit covenant of
+good faith and fair dealing included in those contracts.  . . . She has also adequately pled, in the
+alternative, a valid claim for promissory estoppel based on the
+anti-retaliation provision of the whistleblower policy. The Court therefore
+will deny URAC’s motion to dismiss [the implied contract and promissory
+estoppel claims].</p>
+<header id="data-uuid-19683879318a40c493aeeb8afddbd593">
+<h45 id="data-uuid-322f722fa0ac46b49f4885a9c3f1106e">KEY POINTS</h4>
+</header>
+<ul class="bulleted-list" id="data-uuid-d7bcd99ec8744e2794a8ba15e4eea6e5">
+<li id="data-uuid-bc136fd2286149d78220e6d3c5eade28">
+    <p id="data-uuid-8cc3bbe4f57b4ba0a0bad4ace8034d32">Enforcing implied-in-fact agreements is an important means of ensuring that two parties’ intent to make binding promises is honored.</p>
+</li>
+<li id="data-uuid-1122c5de76334d719d6aa17f82f9f5bf">
+    <p id="data-uuid-4b079c8f663f4fc090fdeb68776796d7">Implied-in-fact agreements must contain the same elements as express contracts, including acceptance and consideration.</p>
+</li>
+<li id="data-uuid-c717dd17c30e46539993360bb2818297">
+    <p id="data-uuid-82bf757d4d9346ffb83962d1ebd0eae8">Employers can weaken the presumption of an at-will employment relationship (covered in <span class="mhhe-link word_no_break"><a href="javascript:void(0);" data-href="../chapter21/reader01.xhtml#data-uuid-e2ed2db271174cfa9b7265e29cb30687" data-href-url="https://epub-factory-cdn.mheducation.com/publish/sn_23f72/35/1080mp4/OPS/s9ml/chapter21/reader01.xhtml#data-uuid-e2ed2db271174cfa9b7265e29cb30687">Chapter 21</a></span>) by making statements about employee rights and expectation in policies and manuals.</p>
+</li>
+</ul>
+</div><br>
+
+1. In general, parties should always strive for written agreement with terms as complete as possible. Relying on implied terms is risky.
+
+**End of Case 8.1**               
+
 - Implied-in-law & quasi-contracts
     - Implied-in-law aka Quasi-contracts (court making contract after the fact)
         - Judicial *remedy*
@@ -1620,13 +1796,16 @@ All promises are legal contracts?! Hell no!
 - **capacity** of each party to enter into a binding agreement. 
 - **legality** of subject matter 
 
-## Defenses to Enforcementj
+## Defenses to Enforcement
 - Improper form when a writing is required. 
 - no true meeting of the minds due to fraud or mistake 
 - if it has to be in writing it's determind by the **statue of frauds** (not a satue and nothing to do with fraud)
 
 ## Offer 
-> I am going to make him an offer he can't refuse  
+<blockquote>
+I am going to make him an offer he can't refuse
+<br><sub><em>The Godfather</em></sub>
+</blockquote>
 
 - Contains
     - specific promise
@@ -1646,7 +1825,7 @@ All promises are legal contracts?! Hell no!
 - Subject matter ilegality 
 
 ## Acceptance 
-- Necessary to craete a valid and enforceable contract
+- Necessary to create a valid and enforceable contract
     - bilateral contract: accepted when offeree has made the rquired promise 
     - Unilateral contract: Accepted by performing a requested act 
 - Mirror image rule: to create a binding contract, accepteance must match the offer **exactly** 
